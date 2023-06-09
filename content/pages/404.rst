@@ -1,0 +1,21 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
+Not Found
+=========
+
+:status: hidden
+:save_as: 404.html
+:transid: 404
+
+The requested content could not be found. 
+
+Perhaps you want to check the local `Article Archives`_?
+
+.. _`Article Archives`: /archives/
+
+Also `archive.org`_ or `archive.is`_ might have a copy of what you were looking for.
+
+.. _`archive.org`: https://web.archive.org/web/*/https://dominik.wombacher.cc/*
+.. _`archive.is`: https://archive.is/https://dominik.wombacher.cc/*
