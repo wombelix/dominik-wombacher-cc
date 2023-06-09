@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 SAP Certified Technology Associate - OS/DB Migration for SAP NetWeaver 7.52
 ###########################################################################
 

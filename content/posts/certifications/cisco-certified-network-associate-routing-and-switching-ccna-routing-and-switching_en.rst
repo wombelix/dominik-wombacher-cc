@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
 ####################################################################################
 

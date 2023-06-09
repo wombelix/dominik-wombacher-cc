@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices - Ansible 2.8, Tower 3.5 & Enterprise Linux 8
 #########################################################################################################################
 

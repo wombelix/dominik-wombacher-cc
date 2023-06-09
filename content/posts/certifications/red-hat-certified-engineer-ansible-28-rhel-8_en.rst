@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Red Hat Certified Engineer - Ansible 2.8 & Enterprise Linux 8
 #############################################################
 
