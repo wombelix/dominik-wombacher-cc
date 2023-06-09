@@ -2,3 +2,8 @@ venv/
 .pyc
 __pycache__/
 output/
+.settings/
+.project
+.pydevproject
+debug.out
+.vscode/
