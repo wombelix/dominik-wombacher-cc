@@ -368,7 +368,7 @@ Certifications
 `Credly Badges <https://www.credly.com/users/dominik-wombacher/badges>`_
 
 :02/2023: `SUSE Certified Engineer in SLES for SAP Applications 15
-          <{filename}/posts/suse-certified-engineer-in-sles-for-sap-applications-15_en.rst>`_
+          <{filename}/posts/certifications/suse-certified-engineer-in-sles-for-sap-applications-15_en.rst>`_
 :12/2022: `AWS Certified SysOps Administrator – Associate
           <{filename}/posts/certifications/aws-certified-sysops-administrator-associate_en.rst>`_
 :12/2022: `AWS Certified Developer – Associate 
