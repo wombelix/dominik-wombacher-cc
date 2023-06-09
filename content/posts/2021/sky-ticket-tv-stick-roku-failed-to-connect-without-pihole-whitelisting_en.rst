@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Sky Ticket TV Stick (Roku) failed to connect without Pi-hole whitelisting
 #########################################################################
 

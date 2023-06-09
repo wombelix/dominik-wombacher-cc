@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Praesentiere Stolz: Mein erster akzeptierter Pull Request fuer Pelican
 ######################################################################
 

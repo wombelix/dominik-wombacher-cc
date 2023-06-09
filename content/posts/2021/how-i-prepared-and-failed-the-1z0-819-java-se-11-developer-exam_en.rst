@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 How I prepared and failed the 1Z0-819 Java SE 11 Developer Exam
 ###############################################################
 

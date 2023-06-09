@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 SUSE Manager / Uyuni - Salt SSH Push: Thin Paket beschaedigt
 ############################################################
 

@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 openSUSE Tumbleweed: Issues on resume from hibernate / suspend to disk
 ######################################################################
 
