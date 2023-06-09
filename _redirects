@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # Keep old /~git/ URLs reachable after moving to Codeberg.org
 /~git   https://codeberg.org/wombelix         302
 /~git/  https://codeberg.org/wombelix         302
