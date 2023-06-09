@@ -3,15 +3,11 @@
 
 AUTHOR = 'Dominik Wombacher'
 SITENAME = 'The Wombelix Post'
-#SITEURL = 'https://dominik.wombacher.cc'
 SITEURL = ''
 
 PATH = 'content'
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_LANG = 'en'
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 DEFAULT_METADATA = {
     'status': 'draft',
@@ -64,10 +60,6 @@ ARCHIVES_SAVE_AS = 'posts/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 DAY_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/index.html'
-#AUTHOR_SAVE_AS = ''
-#AUTHOR_URL = ''
-#AUTHORS_SAVE_AS = ''
-#AUTHORS_URL = ''
 SOCIAL = ''
 OUTPUT_SOURCES = True
 OUTPUT_SOURCES_EXTENSION = '.rst'
@@ -121,5 +113,3 @@ JINJA_FILTERS = {
     'lookup_lang_name': lookup_lang_name,
     'strptime': filter_strptime,
 }
-
-#PDF_STYLE = 'kerning'
