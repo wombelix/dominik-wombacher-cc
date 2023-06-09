@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Can you imagine how weird it is, to be in the Office again?
 ###########################################################
 

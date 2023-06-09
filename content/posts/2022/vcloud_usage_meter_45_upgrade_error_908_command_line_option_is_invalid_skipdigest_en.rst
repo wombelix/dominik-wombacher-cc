@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 vCloud Usage Meter 4.5 Upgrade - Error(908) Command line option is invalid: --skipdigest
 ########################################################################################
 

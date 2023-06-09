@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 How changing '<' to '>=' introduced a weird and hard to track bug
 #################################################################
 

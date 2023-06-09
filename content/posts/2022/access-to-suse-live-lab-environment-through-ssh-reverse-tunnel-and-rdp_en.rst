@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Access to SUSE Live Lab Environment through SSH reverse Tunnel and RDP
 ######################################################################
 

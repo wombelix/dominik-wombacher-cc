@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Hyperskill EduTools Plugin "Solve in IDE" Button without response / does not open IDE
 #####################################################################################
 

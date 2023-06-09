@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 First time Speaker @ SUSECON Digital 2022 about SUSE Manager as a Service
 #########################################################################
 

@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Provide outgoing IPv4 connectivity to Docker Container on a IPv6-only Host via clatd (464xlat)
 ##############################################################################################
 

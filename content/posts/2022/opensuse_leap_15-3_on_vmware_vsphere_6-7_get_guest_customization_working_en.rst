@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 openSUSE Leap 15.3 on VMware vSphere 6.7: Get Guest Customization working
 #########################################################################
 

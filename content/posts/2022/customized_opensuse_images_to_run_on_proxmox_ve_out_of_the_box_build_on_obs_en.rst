@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Customized openSUSE Images, to run on Proxmox VE out of the box, build on OBS
 #############################################################################
 

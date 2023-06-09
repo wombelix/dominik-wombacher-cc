@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Journey from RHEL 7 to CentOS 7 and Oracle Linux 8 with elevate
 ###############################################################
 

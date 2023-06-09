@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+..
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
 Import 'protective MBR' GPT disk images like SUSE or openSUSE to LVM-Thin with disabled zeroing cause corruption
 ################################################################################################################
 
