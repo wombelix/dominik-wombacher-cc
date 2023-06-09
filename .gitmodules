@@ -1,0 +1,3 @@
+[submodule "theme/xlii"]
+	path = theme/xlii
+	url = https://codeberg.org/wombelix/pelican-theme-xlii.git
