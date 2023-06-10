@@ -34,9 +34,8 @@ steps:
       # codeberg.page setup
       - cp -a .codeberg/* pages/
 
-      # build and push
+      # build, commit and push
       - | 
-          git clone -b pages git@codeberg.org:wombelix/dominik-wombacher-cc.git pages
           pelican ./content -o ./output -d -s ./publishconf.py
           cp -ra output/* pages/
           cd pages
@@ -47,4 +46,4 @@ steps:
       # cleanup
       - | 
           cd ..
-          rm -rf pages/
+          rm -rf pages/ output/
