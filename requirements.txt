@@ -2,3 +2,4 @@ pelican
 pelican-pdf
 pelican-read-more
 pelican-sitemap
+pelican-touch
