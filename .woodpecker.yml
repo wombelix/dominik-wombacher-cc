@@ -18,7 +18,8 @@ steps:
       - | 
           mkdir $HOME/.ssh
           echo "$SSH_KEY" > $HOME/.ssh/id_ed25519
-          chown 600 $HOME/.ssh/id_ed25519
+          ssh-keyscan -t rsa codeberg.org >> ~/.ssh/known_hosts
+          chown 600 $HOME/.ssh/*
 
       # configure git
       - | 
