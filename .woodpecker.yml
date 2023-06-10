@@ -28,7 +28,13 @@ steps:
           git config --global user.email "$EMAIL"
           git config --global user.name "Woodpecker CI"
 
-      # clone pages branch, build and push
+      # clone pages branch
+      - git clone -b pages git@codeberg.org:wombelix/dominik-wombacher-cc.git pages
+
+      # codeberg.page setup
+      - cp -a .codeberg/* pages/
+
+      # build and push
       - | 
           git clone -b pages git@codeberg.org:wombelix/dominik-wombacher-cc.git pages
           pelican ./content -o ./output -d -s ./publishconf.py
@@ -37,5 +43,8 @@ steps:
           git add .
           git commit -m "feat: New Release - Woodpecker CI pelican build"
           git push origin pages
+
+      # cleanup
+      - | 
           cd ..
           rm -rf pages/
