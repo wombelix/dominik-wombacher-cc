@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+steps:
+  build:
+    image: registry.opensuse.org/devel/bci/tumbleweed/containerfile/opensuse/bci/python:latest
+    commands:
+      # install packages
+      - | 
+          zypper --non-interactive in git-lfs
+          python3 -m venv venv
+          source venv/bin/activate
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements.txt
+
+      # set up the SSH deployment key
+      - | 
+          mkdir $HOME/.ssh
+          echo "$SSH_KEY" > $HOME/.ssh/id_ed25519
+          chown 600 $HOME/.ssh/id_ed25519
+
+      # configure git
+      - | 
+          git lfs install
+          git config --global user.email "$EMAIL"
+          git config --global user.name "Woodpecker CI"
+
+      # clone pages branch, build and push
+      - | 
+          git clone -b pages git@codeberg.org:wombelix/dominik-wombacher-cc.git pages
+          pelican ./content -o ./output -d -s ./publishconf.py
+          cp -ra output/* pages/
+          cd pages
+          git add .
+          git commit -m "feat: New Release - Woodpecker CI pelican build"
+          git push origin pages
+          cd ..
+          rm -rf pages/
