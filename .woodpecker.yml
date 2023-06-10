@@ -5,6 +5,7 @@
 steps:
   build:
     image: registry.opensuse.org/devel/bci/tumbleweed/containerfile/opensuse/bci/python:latest
+    secrets: [ssh_key, email]
     commands:
       # install packages
       - | 
