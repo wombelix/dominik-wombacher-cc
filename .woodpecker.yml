@@ -32,7 +32,9 @@ steps:
       - git clone -b pages git@codeberg.org:wombelix/dominik-wombacher-cc.git pages
 
       # codeberg.page setup
-      - cp -a .codeberg/* pages/
+      - | 
+          cp -a .codeberg/_redirects pages/
+          cp -a .codeberg/.domains pages/
 
       # build, commit and push
       - | 
