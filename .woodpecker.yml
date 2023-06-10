@@ -49,3 +49,5 @@ steps:
       - | 
           cd ..
           rm -rf pages/ output/
+    when:
+      - branch: main
