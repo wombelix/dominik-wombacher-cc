@@ -6,9 +6,14 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Website: dominik.wombacher.cc
 
+[![REUSE status](https://api.reuse.software/badge/codeberg.org/wombelix/dominik-wombacher-cc)](https://api.reuse.software/info/codeberg.org/wombelix/dominik-wombacher-cc)
+[![status-badge](https://ci.codeberg.org/api/badges/wombelix/dominik-wombacher-cc/status.svg)](https://ci.codeberg.org/wombelix/dominik-wombacher-cc)
+
 The Wombelix Post, my personal homepage and blog.
 
-[![REUSE status](https://api.reuse.software/badge/codeberg.org/wombelix/dominik-wombacher-cc)](https://api.reuse.software/info/codeberg.org/wombelix/dominik-wombacher-cc)
+`main` contains all sources, content files and license information.
+
+`pages` is the build target for the generated static website and updated by Woodpecker CI.
 
 # License
 
