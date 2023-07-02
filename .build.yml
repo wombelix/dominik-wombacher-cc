@@ -5,6 +5,7 @@
 image: debian/stable
 packages:
   - lftp
+  - python3-venv
 sources:
   - https://git.sr.ht/~wombelix/dominik-wombacher-cc
 secrets:
