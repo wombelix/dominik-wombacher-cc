@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+image: debian/stable
+packages:
+  - lftp
+sources:
+  - https://git.sr.ht/~wombelix/dominik-wombacher-cc
+secrets:
+  - 74f33de4-3f7a-4a5d-98f5-173b8c63f403
+tasks:
+  - setup: |
+      cd dominik-wombacher-cc
+      python3 -m venv venv
+      source venv/bin/activate
+      python3 -m pip install --upgrade pip
+      python3 -m pip install -r requirements.txt
+
+  - build: |
+      cd dominik-wombacher-cc
+      source venv/bin/activate
+      pelican ./content -o ./output -d -s ./publishconf.py   
+
+  - deploy: |
+      set +x
+      source ~/.secret
+      export LFTP_PASSWORD=${SECRET_PASSWORD}
+      set -x
+      cd dominik-wombacher-cc
+      lftp --env-password sftp://${SECRET_USER}@${SECRET_SERVER} -e "set sftp:auto-confirm yes; mirror --delete --ignore-time -v -R ./output . ; exit"
