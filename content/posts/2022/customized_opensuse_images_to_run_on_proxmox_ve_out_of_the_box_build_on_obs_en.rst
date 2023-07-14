@@ -6,7 +6,7 @@ Customized openSUSE Images, to run on Proxmox VE out of the box, build on OBS
 #############################################################################
 
 :date: 2022-04-26
-:modified: 2022-04-26
+:modified: 2023-07-02
 :tags: openSUSE, OBS, Proxmox, Linux, cloud-init
 :description: Building openSUSE Images for PVE on OBS
 :category: Linux
@@ -66,8 +66,6 @@ https://build.opensuse.org/package/show/home:wombelix:branches:devel:kubic:image
 
 Download
 --------
-
-Local Webserver (Manual Sync): https://dominik.wombacher.cc/~files/proxmox_ve_kvm_images/
 
 openSUSE Mirror (Automatic Build / Sync): https://download.opensuse.org/repositories/home:/wombelix:/branches:/devel:/kubic:/images/openSUSE_Tumbleweed/
 
@@ -259,8 +257,6 @@ https://build.opensuse.org/package/show/home:wombelix:branches:Virtualization:Ap
 Download
 --------
 
-Local Webserver (Manual Sync): https://dominik.wombacher.cc/~files/proxmox_ve_kvm_images/
-
 openSUSE Mirror (Automatic Build / Sync): https://download.opensuse.org/repositories/home:/wombelix:/branches:/Virtualization:/Appliances:/Images:/openSUSE-Tumbleweed/images/
 
 Customizations
@@ -402,8 +398,6 @@ https://build.opensuse.org/package/show/home:wombelix:branches:Virtualization:Ap
 
 Download
 --------
-
-Local Webserver (Manual Sync): https://dominik.wombacher.cc/~files/proxmox_ve_kvm_images/
 
 openSUSE Mirror (Automatic Build / Sync): https://download.opensuse.org/repositories/home:/wombelix:/branches:/Virtualization:/Appliances:/Images:/openSUSE-Leap-15.3/images/
 
@@ -554,8 +548,6 @@ https://build.opensuse.org/package/show/home:wombelix:branches:Virtualization:Ap
 
 Download
 --------
-
-Local Webserver (Manual Sync): https://dominik.wombacher.cc/~files/proxmox_ve_kvm_images/
 
 openSUSE Mirror (Automatic Build / Sync): https://download.opensuse.org/repositories/home:/wombelix:/branches:/Virtualization:/Appliances:/Images:/openSUSE-Leap-15.4/images/
 
