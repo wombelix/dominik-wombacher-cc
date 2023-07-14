@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2023-03-19
+:modified: 2023-07-13
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -367,6 +367,20 @@ Certifications
 
 `Credly Badges <https://www.credly.com/users/dominik-wombacher/badges>`_
 
+`SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
+
+:07/2023: `Linux Professional Institute LPIC-2
+          <{filename}/posts/certifications/linux-professional-institute-lpic-2_en.rst>`_
+:06/2023: `SUSE Certified Deployment Specialist in SUSE Linux Enterprise Server 15
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-suse-linux-enterprise-server-15_en.rst>`_
+:06/2023: `SUSE Certified Deployment Specialist in Rancher Manager 2.7 for Rancher Prime
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-rancher-manager-27-for-rancher-prime_en.rst>`_
+:06/2023: `SUSE Certified Deployment Specialist in Rancher Kubernetes Engine 2
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-rancher-kubernetes-engine-2_en.rst>`_
+:06/2023: `SUSE Certified Administrator in SUSE NeuVector 5
+          <{filename}/posts/certifications/suse-certified-administrator-in-suse-neuvector-5_en.rst>`_
+:06/2023: `SUSE Certified Deployment Specialist in SUSE NeuVector 5
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-suse-neuvector-5_en.rst>`_
 :02/2023: `SUSE Certified Engineer in SLES for SAP Applications 15
           <{filename}/posts/certifications/suse-certified-engineer-in-sles-for-sap-applications-15_en.rst>`_
 :12/2022: `AWS Certified SysOps Administrator – Associate
