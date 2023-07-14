@@ -118,6 +118,7 @@ or even access key credentials.
 That's why I want to dive deeper into how IRSA works and what magic is happening under the hood.
 
 .. image:: {static}/images/AWS_IRSA_Architecture_Overview_800_72.jpg
+  :alt: AWS IAM Roles for Service Accounts (IRSA) under the hood, architecture overview
 
 (1) A reference between the EKS Cluster and IAM is established via OIDC. This is a one-time setup 
     per cluster and can be done via :code:`eksctl`. Example:
