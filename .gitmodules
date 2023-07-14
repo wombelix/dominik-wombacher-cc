@@ -4,4 +4,4 @@
 
 [submodule "theme/xlii"]
 	path = theme/xlii
-	url = https://codeberg.org/wombelix/pelican-theme-xlii.git
+	url = https://git.sr.ht/~wombelix/pelican-theme-xlii 
