@@ -5,5 +5,4 @@
 venv/
 .pyc
 __pycache__/
-pages/
 output/
