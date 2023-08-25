@@ -38,6 +38,7 @@ Contact
 .. :Gitlab: https://gitlab.com/wombelix
 .. :Codeberg: https://codeberg.org/wombelix
 .. :Notabug: https://notabug.org/wombelix
+.. :sourcehut: https://git.sr.ht/~wombelix/
 
 Personal
 ========
@@ -63,6 +64,18 @@ My professional career started in 2002 and has always been IT-centric, distingui
 - Datacenter, Hosting and IT-Outsourcing
 - Various certifications from Red Hat, SUSE, SAP, Cisco, NetApp and others
 - Quick comprehension, team worker, conscientious, service and solution oriented
+
+Learn and be curious
+====================
+
+It's important for me to keep my knowledge current and to further improve my skills. 
+Preparing and taking Exams helps me to stay focused and to achieve this. 
+
+A full overview with links to further details and options to download and verify my achievements 
+is available at the end of my Resume in the *Certifications* section.
+
+Throughout my career I earned almost 60 Certifications, more than 40 within the last five years. 
+My current focus is on everything around Cloud, Linux, Kubernetes and Security.
 
 Open Source
 ===========
@@ -367,7 +380,7 @@ Certifications
 
 `Credly Badges <https://www.credly.com/users/dominik-wombacher/badges>`_
 
-`SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_`
+`SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
 :08/2023: `CKS: Certified Kubernetes Security Specialist
           <{filename}/posts/certifications/cks-certified-kubernetes-security-specialist_en.rst>`_
@@ -487,4 +500,3 @@ Certifications
 :06/2008: Agfeo PBX Silver Level
 :04/2008: Agfeo PBX Bronze Level
 
-|
