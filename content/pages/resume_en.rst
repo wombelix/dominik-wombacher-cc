@@ -367,8 +367,14 @@ Certifications
 
 `Credly Badges <https://www.credly.com/users/dominik-wombacher/badges>`_
 
-`SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
+`SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_`
 
+:08/2023: `CKS: Certified Kubernetes Security Specialist
+          <{filename}/posts/certifications/cks-certified-kubernetes-security-specialist_en.rst>`_
+:08/2023: `CKAD: Certified Kubernetes Application Developer
+          <{filename}/posts/certifications/ckad-certified-kubernetes-application-developer_en.rst>`_
+:07/2023: `CKA: Certified Kubernetes Administrator
+          <{filename}/posts/certifications/cka-certified-kubernetes-administrator_en.rst>`_
 :07/2023: `Linux Professional Institute LPIC-2
           <{filename}/posts/certifications/linux-professional-institute-lpic-2_en.rst>`_
 :06/2023: `SUSE Certified Deployment Specialist in SUSE Linux Enterprise Server 15
