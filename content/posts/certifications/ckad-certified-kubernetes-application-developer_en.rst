@@ -16,11 +16,6 @@ CKAD: Certified Kubernetes Application Developer
 :transid: ckad-certified-kubernetes-application-developer
 :status: published
 
-.. contents::
-	:local:
-
-----
-
 And the next one, after passing the `CKA <{filename}/posts/certifications/cka-certified-kubernetes-administrator_en.rst>`_ 
 a week ago, I cleared **CKAD: Certified Kubernetes Application Developer** today, which makes two out of three, next stop CKS!
 

@@ -16,11 +16,6 @@ CKA: Certified Kubernetes Administrator
 :transid: cka-certified-kubernetes-administrator
 :status: published
 
-.. contents::
-	:local:
-
-----
-
 My goal is to get all three Kubernetes Certifications from The Linux Foundation (CKA, CKAD, CKS), 
 today I started this journey by passing the first Exam (CKA) and becoming a **CKA: Certified Kubernetes Administrator**.
 

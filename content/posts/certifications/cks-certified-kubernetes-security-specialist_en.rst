@@ -16,11 +16,6 @@ CKS: Certified Kubernetes Security Specialist
 :transid: cks-certified-kubernetes-security-specialist
 :status: published
 
-.. contents::
-	:local:
-
-----
-
 I did it, after already passing `CKA <{filename}/posts/certifications/cka-certified-kubernetes-administrator_en.rst>`_ 
 and `CKAD <{filename}/posts/certifications/ckad-certified-kubernetes-application-developer_en.rst>`_, I completed the trifecta 
 today by passing the **CKS: Certified Kubernetes Security Specialist** as well. Taking and passing all three within one Month was 
