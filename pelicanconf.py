@@ -35,6 +35,7 @@ STATIC_PATHS = [
     'extra/favicon.ico',
     'extra/robots.txt',
     'extra/feeds.htaccess',
+    'extra/root.htaccess',
     'certificates',
     'images'
     ]
@@ -42,6 +43,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/feeds.htaccess': {'path': 'feeds/.htaccess'},
+    'extra/root.htaccess': {'path': '.htaccess'},
     }
 RSS_FEED_SUMMARY_ONLY = True
 CATEGORY_FEED_ATOM = 'feeds/category_{slug}.atom.xml'
