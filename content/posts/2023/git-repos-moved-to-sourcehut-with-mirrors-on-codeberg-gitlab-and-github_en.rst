@@ -16,7 +16,7 @@ Git repos moved to Sourcehut, with mirrors on Codeberg, GitLab and GitHub
 :transid: git-repos-moved-to-sourcehut-with-mirrors-on-codeberg-gitlab-and-github 
 :status: published
 
-When I `moved from a VPC to classic webhosting <{filename}/posts/2023/website-migration-and-temporary-shutdown-of-onion-service_en.rst>`_ 
+When I `moved from a VPS to classic webhosting <{filename}/posts/2023/website-migration-and-temporary-shutdown-of-onion-service_en.rst>`_ 
 I had to shutdown my self-hosted git repos as well. I had `Sourcehut <https://sourcehut.org>`_ on my list for years and decided it's finally 
 time to test it. If you are used to (bloated) platforms like GitHub or GitLab, then Sourcehut is kind of shocking, in a positive way. 
 Pure HTML, no JavaScript, every feature (git repos, docs, build service, wiki ect.) is a widely independent micro-service with it's own subdomain.
