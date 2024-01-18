@@ -59,12 +59,11 @@ I. Informationen über uns als Verantwortliche
 Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:
 
 | Dominik Wombacher
-| Neumuehlstr. 15
-| 65510 Huenstetten
+| Sonnenblick 34
+| 36251 Bad Hersfeld
 | Deutschland
 | 
 | Telefon: +49 15678 525979
-| Telefax: +49 6438 4054999
 | E-Mail: dominik@wombacher.cc
 
 II. Rechte der Nutzer und Betroffenen

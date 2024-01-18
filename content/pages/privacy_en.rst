@@ -59,12 +59,11 @@ I. Information about us as controllers of your data
 The party responsible for this website (the "controller") for purposes of data protection law is:
 
 | Dominik Wombacher
-| Neumuehlstr. 15
-| 65510 Huenstetten
+| Sonnenblick 34
+| 36251 Bad Hersfeld
 | Germany
 |
 | Telephone: +49 15678 525979
-| Fax: +49 6438 4054999
 | Email: dominik@wombacher.cc
 
 II. The rights of users and data subjects

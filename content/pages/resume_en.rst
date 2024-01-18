@@ -25,7 +25,7 @@ You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recru
 
 Contact
 =======
-:Address: Neumuehlstr. 15, 65510 Huenstetten, Germany
+:Address: Sonnenblick 34, 36251 Bad Hersfeld, Germany
 :Website: https://dominik.wombacher.cc
 :Email: dominik@wombacher.cc
 :Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
