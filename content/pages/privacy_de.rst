@@ -6,7 +6,7 @@ Datenschutz
 ###########
 
 :date: 2021-02-27
-:modified: 2021-02-27
+:modified: 2024-01-18
 :description: Datenschutz Informationen und Erklaerung
 :slug: datenschutz
 :author: Dominik Wombacher

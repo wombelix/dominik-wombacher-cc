@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2023-07-13
+:modified: 2024-01-18
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher

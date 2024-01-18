@@ -6,7 +6,7 @@ Privacy
 #######
 
 :date: 2021-02-27
-:modified: 2021-02-27
+:modified: 2024-01-18
 :description: Privacy Information and Statement
 :slug: privacy
 :author: Dominik Wombacher
