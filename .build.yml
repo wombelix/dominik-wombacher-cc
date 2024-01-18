@@ -6,6 +6,9 @@ image: debian/stable
 packages:
   - lftp
   - python3-venv
+  - pkg-config
+  - libcairo2-dev
+  - python3-dev
 sources:
   - https://git.sr.ht/~wombelix/dominik-wombacher-cc
 secrets:
