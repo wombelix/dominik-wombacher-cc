@@ -6,19 +6,19 @@ AWS Certified Cloud Practitioner
 ################################
 
 :date: 2022-07-11
-:modified: 2022-07-11
+:modified: 2024-03-25
 :tags: AWS, Amazon, Cloud, Certification, Exam
 :description: Passed the AWS Certified Cloud Practitioner Exam
 :category: Certification
 :slug: aws-certified-cloud-practitioner
 :author: Dominik Wombacher
 :lang: en
-:transid: aws-certified-cloud-practitioner 
+:transid: aws-certified-cloud-practitioner
 :status: published
 
 Cloud here I come, didn't planned to take the AWS Practitioner so quickly after the Azure Fundamentals, but I was so curious about things that both might have in common as well as the differences, that I couldn't resist. Exam passed and now I'm a proud "AWS Certified Cloud Practitioner" :)
 
-I prepared for this Exam with the great resources Amazon offers (for free) on `AWS Skill Builder <https://explore.skillbuilder.aws>`_: 
+I prepared for this Exam with the great resources Amazon offers (for free) on `AWS Skill Builder <https://explore.skillbuilder.aws>`_:
 
 - `Cloud Essential Learning Plan <https://explore.skillbuilder.aws/learn/lp/82/cloud-essentials-learning-plan>`_
 
@@ -60,7 +60,7 @@ Certificate
 
 - Downloads
 
-  - `Certificate (ID: F1M24VG2QJF41KKV) </certificates/Dominik_Wombacher_AWS_Certified_Cloud_Practitioner.pdf>`_ (PDF, 45k)
+  - `Certificate (ID: F1M24VG2QJF41KKV) </certificates/AWS_Certified_Cloud_Practitioner_certificate_Dominik_Wombacher_extended_20240325.pdf>`_ (PDF, 45k)
   - `Badge </certificates/aws-certified-cloud-practitioner.png>`_ (PNG, 79K)
 
 - Links
