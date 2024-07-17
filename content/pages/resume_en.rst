@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-01-18
+:modified: 2024-03-25
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -20,7 +20,7 @@ Resume: Dominik Wombacher
 ----
 
 You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ first to make things easier for both of us.
-	
+
 ----
 
 Contact
@@ -51,9 +51,9 @@ Personal
 Summary
 =======
 
-My current Position is Sr. Partner Solutions Architect at AWS. 
-I'm an Open Source Enthusiast and Contributor, Dog Person, Passionate Engineer who loves solving tricky issues and always eager to learn new things. 
-My professional career started in 2002 and has always been IT-centric, distinguished by broad knowledge of different technologies and fields. 
+My current Position is Sr. Partner Solutions Architect at AWS.
+I'm an Open Source Enthusiast and Contributor, Dog Person, Passionate Engineer who loves solving tricky issues and always eager to learn new things.
+My professional career started in 2002 and has always been IT-centric, distinguished by broad knowledge of different technologies and fields.
 
 - Since 2002 experience in IT support, engineering, consulting
 - 2nd and 3rd level support
@@ -68,19 +68,19 @@ My professional career started in 2002 and has always been IT-centric, distingui
 Learn and be curious
 ====================
 
-It's important for me to keep my knowledge current and to further improve my skills. 
-Preparing and taking Exams helps me to stay focused and to achieve this. 
+It's important for me to keep my knowledge current and to further improve my skills.
+Preparing and taking Exams helps me to stay focused and to achieve this.
 
-A full overview with links to further details and options to download and verify my achievements 
+A full overview with links to further details and options to download and verify my achievements
 is available at the end of my Resume in the *Certifications* section.
 
-Throughout my career I earned almost 60 Certifications, more than 40 within the last five years. 
+Throughout my career I earned almost 60 Certifications, more than 40 within the last five years.
 My current focus is on everything around Cloud, Linux, Kubernetes and Security.
 
 Open Source
 ===========
 
-Open Source and contributing as well as being involved in the community of different projects, became an important part of my life. 
+Open Source and contributing as well as being involved in the community of different projects, became an important part of my life.
 Following some of the projects I'm most interested and involved in and an overview of some code contributions during the last year.
 
 Communities
@@ -125,14 +125,14 @@ Job History
   | Summary:
 
   - Supporting and growing the AWS / SUSE / Red Hat Partnership in the EMEA region.
-  - Working closely with AWS product and service Teams, SUSE / Red Hat Solutions Architects, Sales, and Senior executives 
+  - Working closely with AWS product and service Teams, SUSE / Red Hat Solutions Architects, Sales, and Senior executives
     of SI Partners, to help customers with migrate and modernize SUSE / Red Hat container and Linux workloads.
-  - Solving complex, technical challenges and building Proof of Concepts to ensure customers can focus on their business. 
+  - Solving complex, technical challenges and building Proof of Concepts to ensure customers can focus on their business.
   - Architecting technical solutions with the SUSE / Red Hat field teams and enabling the AWS / SUSE / Red Hat ecosystem to do the same at scale.
   - Driving technical solutions discussions also diving deep into the details with customer, product, and service teams.
-  - Implementation of annual strategic plans, building executive relationships and running technical reviews on a regular basis. 
+  - Implementation of annual strategic plans, building executive relationships and running technical reviews on a regular basis.
   - Engaging with SUSE / Red Hat field and service teams, to ensure that the SUSE / Red Hat partnership is proceeding to its respective goals.
-  - Thought leader in the wider community in educating, sharing best practices, presenting at events, writing white papers, blogs, and running workshops. 
+  - Thought leader in the wider community in educating, sharing best practices, presenting at events, writing white papers, blogs, and running workshops.
   - Trusted advisor for AWS / SUSE / Red Hat Customers to identify challenges and solutions on their Cloud Journey
   - Shaping the direction of AWS products and services through gathering feedback from customers whilst collaborating with AWS engineering and service teams.
 
@@ -162,7 +162,7 @@ Job History
   | Sector: Network & IT Services
   |
   | Summary:
-  
+
   - Datacenter Infrastructure responsibility
   - Lead of Operations Team (L1, L2, L3) located in DE and CZ
   - Support and coordinate global delivery units
@@ -175,7 +175,7 @@ Job History
   - Establishing and optimize operational processes
 
   | Technologies, Products, Tools:
-  
+
   - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI
   - SUSE SLES 12 / 15, Red Hat 7 / 8, Oracle Linux 7 / 8, openSUSE Leap 15, openSUSE MicroOS/ JeOS, Windows Server 2012 R2 / 2016
   - SUSE Manager 4 / Uyuni, Red Hat Satellite 6, AWX, Gitea, Jenkins, iTop / TeemIP, TeamPass, NetBox, Observium, Grafana, Docker, Kubernetes
@@ -183,7 +183,7 @@ Job History
   - Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS
   - Python, Ansible, Scripting (Bash, Powershell), F5 iRules, RPM Packaging, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN
   - Microsoft Azure, Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint, BMC Control-M, Seal Systems Plossys
-  
+
   |
 
 ----
@@ -195,7 +195,7 @@ Job History
   | Business Unit: MAN
   | Sector: Network & IT Services
   |
-  | Summary:  
+  | Summary:
 
   - ITIL based Operations Support, Ticket and Incident handling
   - Establishing and optimize operational and deployment processes
@@ -206,7 +206,7 @@ Job History
   - 24/7 On-Call support
 
   | Technologies, Products, Tools:
-  
+
   - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI
   - SUSE SLES 12 / 15, Red Hat 7, Oracle Linux 7, Windows Server 2012 R2 / 2016
   - SUSE Manager 4 / Uyuni, Red Hat Satellite 6, Jenkins, iTop / TeemIP, TeamPass, Observium, Grafana
@@ -214,7 +214,7 @@ Job History
   - Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS
   - Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN
   - Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
-  
+
   |
 
 ----
@@ -239,8 +239,8 @@ Job History
   - People Management
 
   | Technologies, Products, Tools:
-  
-  - openSUSE (42, Leap 15, Tumbleweed - MicroOS, JeOS), FreeBSD (12), Debian (7 - 10), Ubuntu (16.04, 18.04), 
+
+  - openSUSE (42, Leap 15, Tumbleweed - MicroOS, JeOS), FreeBSD (12), Debian (7 - 10), Ubuntu (16.04, 18.04),
     CentOS (7), Oracle Linux (7 / 8), Red Hat Enterprise Linux (7 / 8), Windows Server (2000 - 2016), Windows (2000 - 10)
   - Proxmox, KVM, FreeBSD Jails, Docker, Podman, Kubernetes (k8s, k3s), LXC, VMware vSphere, Microsoft Hyper-V
   - MySQL / MariaDB, PostgreSQL, SQLite, Microsoft SQL, Bareos, Icinga, Check_MK, Microsoft Remote Desktop
@@ -271,7 +271,7 @@ Job History
   | Position: Apprentice Computer Science Expert (System Integration)
   | Company: IT-Service M+W Grosostheim GmbH
   | Sector: IT & Telecommunication
-  
+
   Short Summary
 
   - 1st / 2nd Level Support
@@ -285,7 +285,7 @@ Job History
   | Position: Support Engineer
   | Company: Prosol Spraytechnik GmbH | Kleinostheim
   | Sector: Aerosol manufacturing
-  
+
   Short Summary
 
   - 1st Level Support
@@ -306,7 +306,7 @@ Project History
   | Business Unit: MAN
   | Sector: Network & IT Services
   |
-  | Summary:  
+  | Summary:
 
   - ITIL based Operations Support, Ticket and Incident handling
   - Establishing and optimize operational and deployment processes
@@ -317,7 +317,7 @@ Project History
   - 24/7 On-Call support
 
   | Technologies, Products, Tools:
-  
+
   - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI
   - SUSE SLES 11 / 12, Red Hat 7, Oracle Linux 7, Windows Server 2008 R2 / 2012 R2 / 2016
   - SUSE Manager 3, Red Hat Satellite 6, Jenkins, TeemIP, TeamPass, Observium
@@ -325,7 +325,7 @@ Project History
   - Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS
   - Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN
   - Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
-  
+
   |
 
 ----
@@ -335,7 +335,7 @@ Project History
   | Position: Datacenter Engineer, Consultant | Freelancer
   | Company: CGM Deutschland AG | Koblenz
   | Sector: Medical IT Services
-  
+
   Short Summary
 
   - Monitoring System (Check_MK)
@@ -350,7 +350,7 @@ Project History
   | Position: Datacenter Engineer, Project Management | CEO Wombacher.IT GmbH
   | Company: JTL-Software GmbH | Remote
   | Sector: Independent Software Vendor (ISV)
-  
+
   Short Summary
 
   - Proof of Concept & Project Management: Private Cloud Hosting for End-User
@@ -364,7 +364,7 @@ Project History
   | Position: Consultant, Project Manager | CEO Wombacher.IT GmbH
   | Company: MAIREC Edelmetall GmbH | Alzenau
   | Sector: precious metals trade
-   
+
   Short Summary
 
   - Physical to Virtual Migration (Stratus everRun fault-tolerant Cluster)
@@ -382,6 +382,10 @@ Certifications
 
 `SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
+:03/2024: `AWS Certified Solutions Architect Professional
+          <{filename}/posts/certifications/aws-certified-solutions-architect-professional_en.rst>`_
+:03/2024: `AWS Devops Engineer Professional
+          <{filename}/posts/certifications/aws-certified-devops-engineer-professional_en.rst>`_
 :08/2023: `CKS: Certified Kubernetes Security Specialist
           <{filename}/posts/certifications/cks-certified-kubernetes-security-specialist_en.rst>`_
 :08/2023: `CKAD: Certified Kubernetes Application Developer
@@ -404,9 +408,9 @@ Certifications
           <{filename}/posts/certifications/suse-certified-engineer-in-sles-for-sap-applications-15_en.rst>`_
 :12/2022: `AWS Certified SysOps Administrator – Associate
           <{filename}/posts/certifications/aws-certified-sysops-administrator-associate_en.rst>`_
-:12/2022: `AWS Certified Developer – Associate 
+:12/2022: `AWS Certified Developer – Associate
           <{filename}/posts/certifications/aws-certified-developer-associate_en.rst>`_
-:11/2022: `AWS Certified Solutions Architect - Associate 
+:11/2022: `AWS Certified Solutions Architect - Associate
           <{filename}/posts/certifications/aws-certified-solutions-architect-associate_en.rst>`_
 :11/2022: `SUSE Support Accreditation - SUSE Rancher
           <{filename}/posts/certifications/suse-support-accreditation-suse-rancher_en.rst>`_
@@ -416,35 +420,35 @@ Certifications
           <{filename}/posts/certifications/suse-certified-administratorin-suse-rancher-2-6_en.rst>`_
 :09/2022: `SUSE Certified Deployment Specialist in SUSE Manager 4
           <{filename}/posts/certifications/suse-certified-deployment-specialist-in-suse-manager-4_en.rst>`_
-:09/2022: `SUSE Certified Administrator (SCA) in SLES for SAP Applications 12 
+:09/2022: `SUSE Certified Administrator (SCA) in SLES for SAP Applications 12
           <{filename}/posts/certifications/suse-certified-administrator-sca-in-sles-for-sap-applications-12_en.rst>`_
-:09/2022: `SUSE Certified Administrator (SCA) in SUSE Linux Enterprise High Availability 12 and 15 
+:09/2022: `SUSE Certified Administrator (SCA) in SUSE Linux Enterprise High Availability 12 and 15
           <{filename}/posts/certifications/suse-certified-administrator-sca-in-suse-linux-enterprise-high-availability-12-and-15_en.rst>`_
-:09/2022: `SUSE Certified Administrator (SCA) and Engineer (SCE) in Enterprise Linux 15 
+:09/2022: `SUSE Certified Administrator (SCA) and Engineer (SCE) in Enterprise Linux 15
           <{filename}/posts/certifications/suse-certified-sca-and-sce-in-enterprise-linux-15_en.rst>`_
-:08/2022: `SUSE Sales Specialist & SUSE Technical Sales Specialist in SUSE NeuVector 
+:08/2022: `SUSE Sales Specialist & SUSE Technical Sales Specialist in SUSE NeuVector
           <{filename}/posts/certifications/suse-neuvector-sales-and-tech-sales-certification_en.rst>`_
-:07/2022: `Microsoft Certified: Azure Administrator 
+:07/2022: `Microsoft Certified: Azure Administrator
           <{filename}/posts/certifications/microsoft-certified-azure-administrator_en.rst>`_
 :07/2022: `AWS Certified Cloud Practitioner
           <{filename}/posts/certifications/aws-certified-cloud-practitioner_en.rst>`_
-:07/2022: `Microsoft Certified: Azure Fundamentals 
+:07/2022: `Microsoft Certified: Azure Fundamentals
           <{filename}/posts/certifications/microsoft-certified-azure-fundamentals_en.rst>`_
 :06/2022: `SUSE Partner Support Accreditation - SUSE Linux Enterprise Server
           <{filename}/posts/certifications/suse-partner-support-accreditation-suse-linux-enterprise-server_en.rst>`_
-:04/2022: `SUSE Sales Specialist & SUSE Technical Sales Specialist in SLES, SLES for SAP, SUSE Manager and SUSE Rancher 
+:04/2022: `SUSE Sales Specialist & SUSE Technical Sales Specialist in SLES, SLES for SAP, SUSE Manager and SUSE Rancher
           <{filename}/posts/2022/why_i_tackled_nine_suse_sales_and_technical_sales_exams_en.rst>`_
 :09/2021: `SUSE Certified Administrator in SUSE Manager 4
           <{filename}/posts/certifications/suse-certified-administrator-in-suse-manager-4_en.rst>`_
 :09/2021: `Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting
-          <{filename}/posts/certifications/red-hat-certified-specialist-in-linux_diagnostics_and_troubleshooting_en.rst>`_ 
+          <{filename}/posts/certifications/red-hat-certified-specialist-in-linux_diagnostics_and_troubleshooting_en.rst>`_
 :06/2021: `Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices - Ansible 2.8, Tower 3.5 & Enterprise Linux 8
           <{filename}/posts/certifications/red-hat-certified-specialist-in-advanced-automation-ansible-best-practices-ansible-28-tower-35-rhel-8_en.rst>`_
 :05/2021: `Red Hat Certified Engineer - Ansible 2.8 & Enterprise Linux 8
           <{filename}/posts/certifications/red-hat-certified-engineer-ansible-28-rhel-8_en.rst>`_
 :05/2021: `Red Hat Certified System Administrator - Enterprise Linux 8
           <{filename}/posts/certifications/red-hat-certified-system-administrator-rhel-8_en.rst>`_
-:11/2020: `SAP Certified Technology Associate - System Administration (SAP ASE) with SAP NetWeaver 7.5 
+:11/2020: `SAP Certified Technology Associate - System Administration (SAP ASE) with SAP NetWeaver 7.5
           <{filename}/posts/certifications/sap-certified-technology-associate-system-administration-sap-ase-with-sap-netweaver-7-5_en.rst>`_
 :11/2020: `SAP Certified Technology Associate - System Administration (Oracle DB) with SAP NetWeaver 7.5
           <{filename}/posts/certifications/sap-certified-technology-associate-system-administration-oracle-db-with-sap-netweaver-7-5_en.rst>`_
@@ -499,4 +503,3 @@ Certifications
 :08/2008: Agfeo PBX Gold Level
 :06/2008: Agfeo PBX Silver Level
 :04/2008: Agfeo PBX Bronze Level
-
