@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -6,7 +6,7 @@ Contact
 #######
 
 :date: 2021-03-14
-:modified: 2024-05-31
+:modified: 2024-07-17
 :description: Get in touch with Dominik Wombacher
 :slug: contact
 :author: Dominik Wombacher
@@ -28,6 +28,7 @@ Not added a fancy contact form yet, also not sure if I ever will, I don't think 
 
 :Email: dominik@wombacher.cc
 :Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
+:IRC: **wombelix** on irc.libera.chat
 
 |
 
@@ -38,7 +39,6 @@ Instant message Accounts or Email addresses I own but right now not regularly us
 
 |
 
-:IRC: wombelix on irc.libera.chat
 :XMPP: `wombelix@jabber.de <https://conversations.im/i/wombelix@jabber.de?omemo-sid-1364707910=f1baaa90b11f28f16319e15a0df8510b4a11e500cfb2ebf73f281ff38e1aea0f>`_
 
 |
@@ -47,10 +47,11 @@ Profiles
 ********
 
 :Mastodon: https://fosstodon.org/@wombelix
-:Github: https://github.com/wombelix
-:Gitlab: https://gitlab.com/wombelix
-:Codeberg: https://codeberg.org/wombelix
 :LinkedIn: https://www.linkedin.com/in/dominik-wombacher/
+:Sourcehut: https://git.sr.ht/~wombelix/
+:Codeberg: https://codeberg.org/wombelix
+:Gitlab: https://gitlab.com/wombelix
+:Github: https://github.com/wombelix
 
 |
 
