@@ -382,6 +382,10 @@ Certifications
 
 `SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
+:06/2024: `SUSE Certified Engineer in SLES High-Availability 15
+          <{filename}/posts/certifications/suse-certified-engineer-in-sles-ha-15_en.rst>`_
+:05/2024: `SUSE Certified Deployment Specialist in SLES High-Availability 15
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-sles-ha-15_en.rst>`_
 :03/2024: `AWS Certified Solutions Architect Professional
           <{filename}/posts/certifications/aws-certified-solutions-architect-professional_en.rst>`_
 :03/2024: `AWS Devops Engineer Professional
