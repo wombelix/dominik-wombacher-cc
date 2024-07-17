@@ -6,7 +6,7 @@ SUSE Certified Deployment Specialist in Rancher Kubernetes Engine 2
 ###################################################################
 
 :date: 2023-06-21
-:modified: 2022-06-21
+:modified: 2023-06-21
 :tags: SUSE, Certification, Deployment, Specialist, RKE2, Rancher, Kubernetes, Exam
 :description: SUSE SCDS in Rancher Kubernetes Engine 2 passed
 :category: Certification
@@ -16,12 +16,12 @@ SUSE Certified Deployment Specialist in Rancher Kubernetes Engine 2
 :transid: suse-certified-deployment-specialist-in-rancher-kubernetes-engine-2
 :status: published
 
-Second day at SUSECON 23 in Munich, second Exam passed: **SCDS in Rancher Kubernetes Engine 2**. 
-After passing `SCA in NeuVector 5 <{filename}/posts/certifications/suse-certified-administrator-in-suse-neuvector-5_en.rst>`_ 
-yesterday, I can remove another one from my list. Let's see if I can also clear 
-*SCDS in Rancher Manager 2.7 for Rancher Prime* tomorrow. 
+Second day at SUSECON 23 in Munich, second Exam passed: **SCDS in Rancher Kubernetes Engine 2**.
+After passing `SCA in NeuVector 5 <{filename}/posts/certifications/suse-certified-administrator-in-suse-neuvector-5_en.rst>`_
+yesterday, I can remove another one from my list. Let's see if I can also clear
+*SCDS in Rancher Manager 2.7 for Rancher Prime* tomorrow.
 
-**Summary**: Thorough understanding in deploying, backing up, restoring, and upgrading Kubernetes clusters with RKE2 
+**Summary**: Thorough understanding in deploying, backing up, restoring, and upgrading Kubernetes clusters with RKE2
 in a professional setting.
 
 Source & Copyright: https://www.suse.com
@@ -85,7 +85,7 @@ Certificate
 - Downloads
 
   - `Certificate (ID 105) </certificates/SCDS_RKE2105.pdf>`_ (PDF, 40K)
-  
+
 - Links
 
   - `Verify Certificate <https://suse.useclarus.com/view/verify/>`_
