@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-03-25
+:modified: 2024-09-05
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -382,6 +382,10 @@ Certifications
 
 `SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
+:09/2024: `Red Hat Certified Specialist in Red Hat OpenShift Service on AWS (ROSA)
+          <{filename}/posts/certifications/red-hat-certified-specialist-in-red-hat-openshift-service-on-aws-rosa_en.rst>`_
+:08/2024: `AWS Certified AI Practitioner
+          <{filename}/posts/certifications/aws-certified-ai-practitioner_en.rst>`_
 :06/2024: `SUSE Certified Engineer in SLES High-Availability 15
           <{filename}/posts/certifications/suse-certified-engineer-in-sles-ha-15_en.rst>`_
 :05/2024: `SUSE Certified Deployment Specialist in SLES High-Availability 15
