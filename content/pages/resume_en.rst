@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-09-05
+:modified: 2024-09-30
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -21,6 +21,10 @@ Resume: Dominik Wombacher
 
 You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ first to make things easier for both of us.
 
+For my future career, I'm only interested in highly challenging and hands-on heavy tech roles
+were I can bring in my 20+ years experience as technology generalist.
+For example: Site Reliability Engineer, System Development Engineer or Dev Ops Engineer.
+
 ----
 
 Contact
@@ -29,89 +33,128 @@ Contact
 :Website: https://dominik.wombacher.cc
 :Email: dominik@wombacher.cc
 :Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
-:Github: `wombelix <https://github.com/wombelix>`_
-:LinkedIn: `dominik-wombacher <https://www.linkedin.com/in/dominik-wombacher/>`_
+:XMPP: `wombelix@jabber.de <https://conversations.im/i/wombelix@jabber.de?omemo-sid-1364707910=f1baaa90b11f28f16319e15a0df8510b4a11e500cfb2ebf73f281ff38e1aea0f>`_
 :Languages: English (fluent), German (native)
 
-.. :Mastodon: `@wombelix <https://fosstodon.org/@wombelix>`__
-.. :XMPP: `wombelix@jabber.de <https://conversations.im/i/wombelix@jabber.de?omemo-sid-1364707910=f1baaa90b11f28f16319e15a0df8510b4a11e500cfb2ebf73f281ff38e1aea0f>`__
-.. :Gitlab: https://gitlab.com/wombelix
-.. :Codeberg: https://codeberg.org/wombelix
-.. :Notabug: https://notabug.org/wombelix
-.. :sourcehut: https://git.sr.ht/~wombelix/
-
-Personal
+Profiles
 ========
 
-- Enjoying my side projects and open source contribution
-- Troubleshooting and solving tricky, almost unsolvable issues
-- Learning new things and improving Skills
-- Spending time with my family and my dog
+:LinkedIn: `dominik-wombacher <https://www.linkedin.com/in/dominik-wombacher/>`_
+:Mastodon: `@wombelix@fosstodon.org <https://fosstodon.org/@wombelix>`_
+:Github: `wombelix <https://github.com/wombelix>`_
+:sourcehut: `~wombelix <https://git.sr.ht/~wombelix/>`_
+:Fedora: `wombelix (dist-git) <https://src.fedoraproject.org/user/wombelix>`_
+:Codeberg: https://codeberg.org/wombelix
+:Gitlab: https://gitlab.com/wombelix
+
+.. :Notabug: https://notabug.org/wombelix
 
 Summary
 =======
 
-My current Position is Sr. Partner Solutions Architect at AWS.
-I'm an Open Source Enthusiast and Contributor, Dog Person, Passionate Engineer who loves solving tricky issues and always eager to learn new things.
-My professional career started in 2002 and has always been IT-centric, distinguished by broad knowledge of different technologies and fields.
+I want to go back to my **Engineering** roots and look for a **new opportunity** as **Site Reliability Engineer**, **System Development Engineer** or **Dev Ops Engineer**.
+To be at my best, **I need complex technical problems and challenges** were I can bring in my **20+ years experience as technology generalist**.
+I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer** with a strong **hands-on mentality**, always eager to **learn and adapt**.
 
-- Since 2002 experience in IT support, engineering, consulting
-- 2nd and 3rd level support
-- Project and people Management
-- ITIL based Operations, Incident and Change handling
-- DevOps, Automation and Software development
-- Virtualization, High-Availability and Storage
-- Datacenter, Hosting and IT-Outsourcing
-- Various certifications from Red Hat, SUSE, SAP, Cisco, NetApp and others
-- Quick comprehension, team worker, conscientious, service and solution oriented
+I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Teams**.
+As long I can stay **hands-on** and **actively involved** in the daily business and technical doing.
+**Extra points** when I can continue to **contribute to Open Source projects** as part of that Role.
+I'm **only** interested to work **remote** with **0% - 10% traveling** and prefer **global positions** or **international teams**.
 
-Learn and be curious
-====================
+**Important**: I'm _not_ looking for non-tech Management or Architecture positions with a Business or Sales focus.
 
-It's important for me to keep my knowledge current and to further improve my skills.
-Preparing and taking Exams helps me to stay focused and to achieve this.
+My **professional career started in 2002** and has always been **IT-centric**, distinguished by **broad knowledge of different technologies and areas**.
+**Adopting new Technologies** and **DevOps paradigms**, **Automation**, **Programming** and **Mentorship** are important parts of my day-to-day business.
+I have a strong **Engineering and Operations background** and knowledge across a broad set of technologies and fields.
+To name a few: **Compute**, **Storage**, **Network**, **Operating Systems**, **Troubleshooting**, **Automation**, **Software Development**.
 
+**Learning and Development** is important for me, **technical trainings and certifications** allow me to to **improve and validate my skills**.
+In recent years I became **18x SUSE**, **7x AWS**, **3x Kubernetes**, **3x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
+With a **track record** of **more than 70 technical certifications** throughout my career.
 A full overview with links to further details and options to download and verify my achievements
 is available at the end of my Resume in the *Certifications* section.
-
-Throughout my career I earned almost 60 Certifications, more than 40 within the last five years.
-My current focus is on everything around Cloud, Linux, Kubernetes and Security.
 
 Open Source
 ===========
 
-Open Source and contributing as well as being involved in the community of different projects, became an important part of my life.
-Following some of the projects I'm most interested and involved in and an overview of some code contributions during the last year.
+Open Source became an important part of my life.
+Following some communities I'm most interested and involved in.
+And an overview of some code contributions during the last years.
 
 Communities
 -----------
 
+- `Pagure <https://pagure.io/pagure>`_
+- `Fedora <https://fedoraproject.org>`_
+- `openSUSE <https://opensuse.org>`_
+- `Rancher <https://github.com/rancher/>`_
 - `Uyuni Project <https://uyuni-project.org>`_
 - `Ansible <https://ansible.com>`_
-- `openSUSE <https://opensuse.org>`_
 - `Pelican <https://getpelican.com>`_
 
-Contribution
-------------
+Contributions
+-------------
 
+An extract of some of my involvement and contributions throughout the last few years:
+
+- `AWS Samples - NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
+- `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_
+- `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_
+- `AWS I&A - Red Hat Enterprise Linux with High Availability on AWS <https://github.com/aws-ia/cfn-ps-red-hat-rhel-with-ha>`_
+- `AWS I&A - TaskCat <https://github.com/aws-ia/taskcat>`_
+- `Rancher Charts <https://github.com/rancher/charts>`_
+- `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
+- `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 - `Uyuni Project (SUSE Manager Upstream) <https://github.com/uyuni-project/>`_
 - `Ansible Collection: Community General <https://github.com/ansible-collections/community.general>`_
 - `Ansible Collection: Community VMWare <https://github.com/ansible-collections/community.vmware>`_
-- `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
-- `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
-- `SUSE smbda - SUSE Manager Database Admin <https://github.com/SUSE/smdba>`_
-- `pipx <https://github.com/pypa/pipx>`_
-- `maven-semantic-gitlog <https://github.com/semantic-gitlog/maven-semantic-gitlog>`_
-- `static.sh <https://github.com/Cyclenerd/static_status>`_
 
-Own Projects / Forks
---------------------
+Maintainer
+----------
 
-- `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://dominik.wombacher.cc/~git/jDeepL/>`_
+- `Pagure - A hackable git centered forge <https://pagure.io/pagure>`_
+- `Fedora and EPEL packages <https://src.fedoraproject.org/user/wombelix/projects>`_
+
+Own Projects
+------------
+
+An extract of projects that not only sit on my local disc and made it to a public repository:
+
+- `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://git.sr.ht/~wombelix/cfn-custom-resource-aws-ssm-securestring>`_
+- `Flappy Mascot <https://git.sr.ht/~wombelix/flappy-mascot>`_
+- `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://git.sr.ht/~wombelix/jDeepL/>`_
+- `The Wombelix Post - Personal Blog <https://git.sr.ht/~wombelix/dominik-wombacher-cc>`_
+- `Pelican Theme - xlii <https://git.sr.ht/~wombelix/pelican-theme-xlii>`_
 - `ansible-molecule-container: Collection of Dockerfiles for Container to test Ansible Roles with Molecule. <https://dominik.wombacher.cc/~git/ansible-molecule-container/>`_
 - `moinmoin-pypy2-container	- MoinMoin wiki container image, powered by openSUSE Leap, PyPy, nginx and uwsgi. <https://dominik.wombacher.cc/~git/moinmoin-pypy2-container/>`_
-- `static.sh (Fork) <https://github.com/wombelix/static_status>`_
-- `ansible-sshjail (Fork) <https://github.com/wombelix/ansible-sshjail>`_
+
+Public Speaking
+===============
+
+Virtual
+-------
+
+- `AWS Rancher Virtual Rodeo France <https://web.archive.org/web/20230327171957/https://more.suse.com/AWS_RancherRodeoVirtuel-French.html>`_
+- `SUSECON Digital 23 - [TUT-1179] SUSE ALP prototype on AWS: Experimental, but fun! <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_
+- NeuVector on AWS - Launch webinar - German / DACH Region
+- NeuVector on AWS - Launch webinar - English / EMEA Region (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_)
+- `RHEL on AWS webinar - RHEL in the Cloud <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_
+- `SUSE Webinar: Best Practices for Zero Trust Container Security NeuVector on AWS - EMEA <https://www.brighttalk.com/webcast/11477/614686>`_
+- `Monthly SUSE for SAP Partner Spotlight - Session 1 - September 2024 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_
+- `Monthly SUSE for SAP Partner Spotlight - Session 2 - September 2024 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_
+
+In-Person
+---------
+
+- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS
+- `SUSECON 23 - [PROD-1178] Rancher integration with AWS services: possibilities, challenges & outlook <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_
+- `openSUSE Conference 2023 - openSUSE ALP prototype on AWS, experimental, but fun! <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_
+- `openSUSE Conference 2023 - Rancher integration with AWS services: possibilities, challenges, outlook. <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_
+- `Red Hat Summit Connect 2023, Utrecht Netherlands - Session by AWS: Red Hat Openshift on AWS <https://www.redhat.com/en/summit/connect/emea/utrecht-2023>`_
+- SUSECON 24 - TUTORIAL-1156: NeuVector Integration into AWS CodePipeline CI/CD Workflow
+- `openSUSE Community Summit Berlin - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_
+- `openSUSE Conference 2024 - Pagure CI integration with AWS CodePipeline <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+- `openSUSE Conference 2024 - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
 
 Job History
 ===========
@@ -139,15 +182,16 @@ Job History
   | Technologies, Products, Tools (Extract):
 
   - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC)
-  - SUSE SLES 12 / 15, Red Hat 7 / 8, openSUSE Leap 15, openSUSE MicroOS, SUSE Manager 4 / Uyuni, GitLab
+  - SUSE SLES 12 / 15, Red Hat 7 / 8 / 9, openSUSE Leap 15, openSUSE MicroOS, SUSE Manager 4 / Uyuni, GitLab
   - Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, Red Hat OpenShift, k3s, RKE / RKE2, SUSE NeuVector
-  - Python, Terraform, Ansible, Scripting (Bash, PowerShell), PlantUML, SalesForce, Remedy, XWiki, Slack, WorkdDocs, Quip, Chime
+  - AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, Ansible, Scripting (Bash, PowerShell)
+  - PlantUML, SalesForce, Remedy, XWiki, Slack, WorkdDocs, Quip, Chime
 
   | Amazon internal Trainings and Programs (Extract):
 
-  - Making Great Hiring Decisions, Certified AWS Associate Speaker, AWS Technical Professional, AWS TCO and Cloud Economics
+  - Making Great Hiring Decisions, Certified AWS Senior Speaker, AWS Technical Professional, Content Guardian, Open Source Champion
   - AWS Social Media Training, Amazon GitHub Training, Safety Ambassador, Lead with Empathy, Travel Security, AWS GameDay Training
-  - Inclusive Interviewing Training, Effective @Amazon, ECS Workshop Contributor, AWS Well Architected, Amazon Writing
+  - Inclusive Interviewing Training, Effective @Amazon, ECS Workshop Contributor, AWS Well Architected, Amazon Writing, Blog Bar Raiser
   - SAP Technical Field Community Member, Linux Technical Field Community Founding Member, Container Technical Field Community Member
 
   |
