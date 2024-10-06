@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -6,7 +6,7 @@ Access to SUSE Live Lab Environment through SSH reverse Tunnel and RDP
 ######################################################################
 
 :date: 2022-09-10
-:modified: 2022-09-10
+:modified: 2024-10-06
 :tags: SUSE, Training, Lab, SSH, RDP, Tunnel
 :description: RDP to SUSE Lab via SSH reverse Tunnel
 :category: Linux
@@ -19,6 +19,8 @@ Access to SUSE Live Lab Environment through SSH reverse Tunnel and RDP
 SUSE provides some great Training Courses with a lot of Exercises and Online Labs are also available for most of them. 
 But, at least in the Environment available to SUSE Partners, the Labs can only be accessed through a Browser, 
 with a fixed size of 1080x800, no support for Resize, Full-screen or Copy/Paste. 
+
+**Update 2024-10-06**: There is a new *Open in new window* button available which allows higher resolutions than 1080x800 because it uses the full browser window. But all other limitations are the same since I wrote about it two years ago. Therefore I still prefer to reverse tunnel into the Lab machine and use an RDP client as explained in this post.
 
 The Tech Stack used to provide those access: 
 `hastexo XBlock <https://github.com/hastexo/hastexo-xblock>`__
