@@ -29,6 +29,7 @@ For example: Site Reliability Engineer, System Development Engineer or Dev Ops E
 
 Contact
 =======
+
 :Address: Sonnenblick 34, 36251 Bad Hersfeld, Germany
 :Website: https://dominik.wombacher.cc
 :Email: dominik@wombacher.cc
@@ -56,7 +57,7 @@ I want to go back to my **Engineering** roots and look for a **new opportunity**
 To be at my best, **I need complex technical problems and challenges** were I can bring in my **20+ years experience as technology generalist**.
 I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer** with a strong **hands-on mentality**, always eager to **learn and adapt**.
 
-I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Teams**.
+I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Team**.
 As long I can stay **hands-on** and **actively involved** in the daily business and technical doing.
 **Extra points** when I can continue to **contribute to Open Source projects** as part of that Role.
 I'm **only** interested to work **remote** with **0% - 10% traveling** and prefer **global positions** or **international teams**.
@@ -426,6 +427,8 @@ Certifications
 
 `SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
+:10/2024: `SUSE Certified Administrator (SCA) in Longhorn 1.5 - Cloud native Storage
+          <{filename}/posts/certifications/suse-certified-administrator-sca-in-longhorn-15-cloud-native-storage_en.rst>`_
 :09/2024: `Red Hat Certified Specialist in Red Hat OpenShift Service on AWS (ROSA)
           <{filename}/posts/certifications/red-hat-certified-specialist-in-red-hat-openshift-service-on-aws-rosa_en.rst>`_
 :08/2024: `AWS Certified AI Practitioner
