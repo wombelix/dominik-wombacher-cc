@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-10-07
+:modified: 2024-11-02
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -14,8 +14,18 @@ Resume: Dominik Wombacher
 :transid: resume
 :status: published
 
+`Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_
+
+----
+
 .. contents::
 	:local:
+
+----
+
+**Current Position:** Senior Partner Solutions Architect at AWS
+
+**Status**: Open to Work, I am actively applying
 
 ----
 
@@ -23,7 +33,7 @@ You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recru
 
 For my future career, I'm only interested in highly challenging and hands-on heavy tech roles
 were I can bring in my 20+ years experience as technology generalist.
-For example: Site Reliability Engineer, System Development Engineer or Dev Ops Engineer.
+For example: Site Reliability Engineer, System Development Engineer, Dev Ops Engineer or Platform Engineer.
 
 ----
 
@@ -50,27 +60,114 @@ Profiles
 
 .. :Notabug: https://notabug.org/wombelix
 
+Key Skills
+==========
+
+.. list-table::
+   :width: 100%
+   :widths: 33 33 33
+   :header-rows: 1
+
+   * - Cloud
+     - Automation
+     - Infrastructure as Code (IaC)
+   * - AWS
+     - Ansible
+     - OpenTofu / Terraform
+   * - Azure
+     - AWX
+     - AWS CloudFormation and CDK
+
+.. list-table::
+   :width: 100%
+   :widths: 33 33 33
+   :header-rows: 1
+
+   * - Programming
+     - CI/CD Pipelines
+     - Container
+   * - Python
+     - AWS CodePipeline
+     - Kubernetes
+   * - Go (Golang)
+     - GitHub Actions
+     - Rancher
+   * - TypeScript
+     - Jenkins
+     - NeuVector
+   * -
+     - builds.sr.ht
+     - Open Shift
+
+.. list-table::
+   :width: 100%
+   :widths: 33 33 33
+   :header-rows: 1
+
+   * - Operating Systems
+     - Logging and monitoring
+     - Soft Skills
+   * - SUSE Linux Enterprise Server
+     - Fluent Bit
+     - Systems thinking
+   * - Red Hat Enterprise Linux
+     - Prometheus
+     - Problem solving
+   * - openSUSE
+     - Grafana
+     - Adaptability
+   * - Fedora
+     - OpenSearch
+     - Communication
+   * - Debian
+     - Icinga
+     - Collaboration
+   * - FreeBSD
+     -
+     - Mentoring
+
+.. list-table::
+   :width: 100%
+   :widths: 33 33 33
+   :header-rows: 1
+
+   * - ML/AI
+     -
+     -
+   * - Prompt Engineering
+     - Amazon Bedrock
+     - Amazon SageMaker
+
 Summary
 =======
 
-I want to go back to my **Engineering** roots and look for a **new opportunity** as **Site Reliability Engineer**, **System Development Engineer** or **Dev Ops Engineer**.
-To be at my best, **I need complex technical problems and challenges** were I can bring in my **20+ years experience as technology generalist**.
-I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer** with a strong **hands-on mentality**, always eager to **learn and adapt**.
+I want to go back to my **Engineering** roots and look for a **new opportunity** as
+**Site Reliability Engineer**, **System Development Engineer**, **Dev Ops Engineer**
+or **Platform Engineer**. To be at my best, **I need complex technical problems and challenges**
+were I can bring in my **20+ years experience as technology generalist**.
+I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer**
+with a strong **hands-on mentality**, always eager to **learn and adapt**.
 
 I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Team**.
 As long I can stay **hands-on** and **actively involved** in the daily business and technical doing.
 **Extra points** when I can continue to **contribute to Open Source projects** as part of that Role.
-I'm **only** interested to work **remote** with **0% - 10% traveling** and prefer **global positions** or **international teams**.
+I'm **only** interested to work **remote** with **0% - 10% traveling** and
+prefer **global positions** or **international teams**.
 
-**Important**: I'm _not_ looking for non-tech Management or Architecture positions with a Business or Sales focus.
+**Important**: I'm *not* looking for non-technical Management or
+Architecture positions with a pure Business or Sales focus.
 
-My **professional career started in 2002** and has always been **IT-centric**, distinguished by **broad knowledge of different technologies and areas**.
-**Adopting new Technologies** and **DevOps paradigms**, **Automation**, **Programming** and **Mentorship** are important parts of my day-to-day business.
-I have a strong **Engineering and Operations background** and knowledge across a broad set of technologies and fields.
-To name a few: **Compute**, **Storage**, **Network**, **Operating Systems**, **Troubleshooting**, **Automation**, **Software Development**.
+My **professional career started in 2002** and has always been **IT-centric**,
+distinguished by **broad knowledge of different technologies and areas**.
+**Adopting new Technologies** and **DevOps paradigms**, **Automation**,
+**Programming** and **Mentorship** are important parts of my day-to-day business.
+I have a strong **Engineering and Operations background** and knowledge across a
+broad set of technologies and fields. To name a few: **Compute**, **Storage**, **Network**,
+**Operating Systems**, **Troubleshooting**, **Automation**, **Software Development**.
 
-**Learning and Development** is important for me, **technical trainings and certifications** allow me to to **improve and validate my skills**.
-In recent years I became **18x SUSE**, **7x AWS**, **3x Kubernetes**, **3x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
+**Learning and Development** is important for me, **technical trainings and certifications**
+allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
+**7x AWS**, **3x Kubernetes**, **3x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
 A full overview with links to further details and options to download and verify my achievements
 is available at the end of my Resume in the *Certifications* section.
@@ -80,7 +177,7 @@ Open Source
 
 Open Source became an important part of my life.
 Following some communities I'm most interested and involved in.
-And an overview of some code contributions during the last years.
+And an extract of code contributions, projects I maintan or own.
 
 Communities
 -----------
@@ -96,16 +193,10 @@ Communities
 Contributions
 -------------
 
-An extract of some of my involvement and contributions throughout the last few years:
-
-- `AWS Samples - NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
 - `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_
 - `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_
-- `AWS I&A - Red Hat Enterprise Linux with High Availability on AWS <https://github.com/aws-ia/cfn-ps-red-hat-rhel-with-ha>`_
 - `AWS I&A - TaskCat <https://github.com/aws-ia/taskcat>`_
 - `Rancher Charts <https://github.com/rancher/charts>`_
-- `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
-- `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 - `Uyuni Project (SUSE Manager Upstream) <https://github.com/uyuni-project/>`_
 - `Ansible Collection: Community General <https://github.com/ansible-collections/community.general>`_
 - `Ansible Collection: Community VMWare <https://github.com/ansible-collections/community.vmware>`_
@@ -115,19 +206,23 @@ Maintainer
 
 - `Pagure - A hackable git centered forge <https://pagure.io/pagure>`_
 - `Fedora and EPEL packages <https://src.fedoraproject.org/user/wombelix/projects>`_
+- `AWS Samples - NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
+- `AWS I&A - Red Hat Enterprise Linux with High Availability on AWS <https://github.com/aws-ia/cfn-ps-red-hat-rhel-with-ha>`_
+- `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
+- `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 
 Own Projects
 ------------
 
-An extract of projects that not only sit on my local disc and made it to a public repository:
-
-- `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://git.sr.ht/~wombelix/cfn-custom-resource-aws-ssm-securestring>`_
-- `Flappy Mascot <https://git.sr.ht/~wombelix/flappy-mascot>`_
-- `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://git.sr.ht/~wombelix/jDeepL/>`_
-- `The Wombelix Post - Personal Blog <https://git.sr.ht/~wombelix/dominik-wombacher-cc>`_
-- `Pelican Theme - xlii <https://git.sr.ht/~wombelix/pelican-theme-xlii>`_
-- `ansible-molecule-container: Collection of Dockerfiles for Container to test Ansible Roles with Molecule. <https://dominik.wombacher.cc/~git/ansible-molecule-container/>`_
-- `moinmoin-pypy2-container	- MoinMoin wiki container image, powered by openSUSE Leap, PyPy, nginx and uwsgi. <https://dominik.wombacher.cc/~git/moinmoin-pypy2-container/>`_
+- `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_
+- `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_
+- `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_
+- `Flappy Mascot <https://github.com/wombelix/flappy-mascot>`_
+- `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL/>`_
+- `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
+- `Pelican Theme - xlii <https://github.com/wombelix/pelican-theme-xlii>`_
+- `ansible-molecule-container: Collection of Dockerfiles for Container to test Ansible Roles with Molecule. <https://github.com/wombelix/ansible-molecule-container/>`_
+- `moinmoin-pypy2-container	- MoinMoin wiki container image, powered by openSUSE Leap, PyPy, nginx and uwsgi. <https://github.com/wombelix/moinmoin-pypy2-container/>`_
 
 Public Speaking
 ===============
@@ -184,8 +279,8 @@ Job History
 
   - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC)
   - SUSE SLES 12 / 15, Red Hat 7 / 8 / 9, openSUSE Leap 15, openSUSE MicroOS, SUSE Manager 4 / Uyuni, GitLab
-  - Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, Red Hat OpenShift, k3s, RKE / RKE2, SUSE NeuVector
-  - AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, Ansible, Scripting (Bash, PowerShell)
+  - Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE NeuVector
+  - AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, Ansible, Scripting (Bash)
   - PlantUML, SalesForce, Remedy, XWiki, Slack, WorkdDocs, Quip, Chime
 
   | Amazon internal Trainings and Programs (Extract):

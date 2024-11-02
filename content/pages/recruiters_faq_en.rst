@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2024-09-30
+:modified: 2024-11-02
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -36,29 +36,44 @@ How should the first message from a recruiter look like?
 ========================================================
 
 As much details and context as possible:
-A description of the position, the project or company, used technologies, salary range, remote work policy and contract type.
+
+- A description of the position
+- The project or company
+- Used technologies
+- Salary range
+- Remote work policy
+- Contract type
 
 ----
 
 Are you interested changing your job?
 =====================================
 
-Yes, I want to go back to my Engineering roots and looking for a new opportunity as: Site Reliability Engineer, System Development Engineer or Dev Ops Engineer.
+Yes, I want to go back to my Engineering roots and looking for a new opportunity as:
+
+- Site Reliability Engineer
+- System Development Engineer
+- Dev Ops Engineer
+- Platform Engineer
 
 ----
 
 Would you relocate for a new job?
 =================================
 
-Definitely not, I'm only interested to work remote with 0% - 10% traveling.
+**No**, I'm only interested to work remote with 0% - 10% traveling.
 
 ----
 
 Can you send me your CV / resume?
 =================================
 
-Nope, you already have all information you need, my personal website always contains the latest version of my
-`Resume <{filename}/pages/resume_en.rst>`_, which I keep in sync with my `LinkedIn Profile <https://www.linkedin.com/in/dominik-wombacher/>`_.
+**No**, you already have all information you need.
+
+My personal website always contains the latest version of my
+`Resume <{filename}/pages/resume_en.rst>`_, which I keep in sync with my
+`LinkedIn Profile <https://www.linkedin.com/in/dominik-wombacher/>`_.
+
 So, feel free to get yourself what you need.
 
 ----
@@ -82,7 +97,7 @@ Do you hate recruiters?
 
 No, everyone has a job, your's is it to fill positions with the right people.
 But you are not alone, there are lot out there.
-Thats why I appreciate when you follow some basic "rules of engagement".
+Thats why I appreciate when you follow some basic rules when you reach out.
 
 ----
 
