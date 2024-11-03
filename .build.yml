@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+# SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
 #
 # SPDX-License-Identifier: CC0-1.0
 
@@ -11,9 +11,27 @@ packages:
   - python3-dev
 sources:
   - https://git.sr.ht/~wombelix/dominik-wombacher-cc
+  - https://git.sr.ht/~wombelix/build-helper-scripts
 secrets:
   - 74f33de4-3f7a-4a5d-98f5-173b8c63f403
+  - 5b076ab5-1361-4d71-905b-4ff8c836c62c
+environment:
+  GIT_MIRROR_SSH_KEY: ~/.ssh/5b076ab5-1361-4d71-905b-4ff8c836c62c
+  GIT_MIRROR_GITHUB: git@github.com:wombelix/dominik-wombacher-cc.git
+  GIT_MIRROR_GITLAB: git@gitlab.com:wombelix/dominik-wombacher-cc.git
+  GIT_MIRROR_CODEBERG: git@codeberg.org:wombelix/dominik-wombacher-cc.git
 tasks:
+  - mirror: |
+      cd build-helper-scripts
+      source git-mirror.sh
+      cd ..
+
+      cd dominik-wombacher-cc
+
+      git_mirror "$GIT_MIRROR_SSH_KEY" "$GIT_MIRROR_GITHUB"
+      git_mirror "$GIT_MIRROR_SSH_KEY" "$GIT_MIRROR_GITLAB"
+      git_mirror "$GIT_MIRROR_SSH_KEY" "$GIT_MIRROR_CODEBERG"
+
   - setup: |
       cd dominik-wombacher-cc
       python3 -m venv venv
@@ -24,7 +42,7 @@ tasks:
   - build: |
       cd dominik-wombacher-cc
       source venv/bin/activate
-      pelican ./content -o ./output -d -s ./publishconf.py   
+      pelican ./content -o ./output -d -s ./publishconf.py
 
   - deploy: |
       set +x
@@ -33,3 +51,8 @@ tasks:
       set -x
       cd dominik-wombacher-cc
       lftp --env-password sftp://${SECRET_USER}@${SECRET_SERVER} -e "set sftp:auto-confirm yes; mirror --delete --ignore-time -v -R ./output . ; exit"
+
+triggers:
+  - action: email
+    condition: failure
+    to: dominik@wombacher.cc
