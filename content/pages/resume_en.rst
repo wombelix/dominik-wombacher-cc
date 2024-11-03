@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-11-02
+:modified: 2024-11-03
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -25,7 +25,7 @@ Resume: Dominik Wombacher
 
 **Current Position:** Senior Partner Solutions Architect at AWS
 
-**Status**: Open to Work, I am actively applying
+**Status**: Open to Work, I'm actively applying
 
 ----
 
@@ -35,30 +35,43 @@ For my future career, I'm only interested in highly challenging and hands-on hea
 were I can bring in my 20+ years experience as technology generalist.
 For example: Site Reliability Engineer, System Development Engineer, Dev Ops Engineer or Platform Engineer.
 
-----
+.. raw:: pdf
 
-Contact
+  PageBreak
+
+Summary
 =======
 
-:Address: Sonnenblick 34, 36251 Bad Hersfeld, Germany
-:Website: https://dominik.wombacher.cc
-:Email: dominik@wombacher.cc
-:Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
-:XMPP: `wombelix@jabber.de <https://conversations.im/i/wombelix@jabber.de?omemo-sid-1364707910=f1baaa90b11f28f16319e15a0df8510b4a11e500cfb2ebf73f281ff38e1aea0f>`_
-:Languages: English (fluent), German (native)
+I want to go back to my **Engineering** roots and look for a **new opportunity** as
+**Site Reliability Engineer**, **System Development Engineer**, **Dev Ops Engineer**
+or **Platform Engineer**. To be at my best, **I need complex technical problems and challenges**
+were I can bring in my **20+ years experience as technology generalist**.
+I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer**
+with a strong **hands-on mentality**, always eager to **learn and adapt**.
 
-Profiles
-========
+I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Team**.
+As long I can stay **hands-on** and **actively involved** in the daily business and technical doing.
+**Extra points** when I can continue to **contribute to Open Source projects** as part of that Role.
+I'm **only** interested to work **remote** with **0% - 10% traveling** and
+prefer **global positions** or **international teams**.
 
-:LinkedIn: `dominik-wombacher <https://www.linkedin.com/in/dominik-wombacher/>`_
-:Mastodon: `@wombelix@fosstodon.org <https://fosstodon.org/@wombelix>`_
-:Github: `wombelix <https://github.com/wombelix>`_
-:sourcehut: `~wombelix <https://git.sr.ht/~wombelix/>`_
-:Fedora: `wombelix (dist-git) <https://src.fedoraproject.org/user/wombelix>`_
-:Codeberg: https://codeberg.org/wombelix
-:Gitlab: https://gitlab.com/wombelix
+**Important**: I'm *not* looking for non-technical Management or
+Architecture positions with a pure Business or Sales focus.
 
-.. :Notabug: https://notabug.org/wombelix
+My **professional career started in 2002** and has always been **IT-centric**,
+distinguished by **broad knowledge of different technologies and areas**.
+**Adopting new Technologies** and **DevOps paradigms**, **Automation**,
+**Programming** and **Mentorship** are important parts of my day-to-day business.
+I have a strong **Engineering and Operations background** and knowledge across a
+broad set of technologies and fields. To name a few: **Compute**, **Storage**, **Network**,
+**Operating Systems**, **Troubleshooting**, **Automation**, **Software Development**.
+
+**Learning and Development** is important for me, **technical trainings and certifications**
+allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
+**7x AWS**, **3x Kubernetes**, **3x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
+With a **track record** of **more than 70 technical certifications** throughout my career.
+A full overview with links to further details and options to download and verify my achievements
+is available at the end of my Resume in the *Certifications* section.
 
 Key Skills
 ==========
@@ -138,173 +151,166 @@ Key Skills
      - Amazon Bedrock
      - Amazon SageMaker
 
-Summary
+.. raw:: pdf
+
+  PageBreak
+
+Contact
 =======
 
-I want to go back to my **Engineering** roots and look for a **new opportunity** as
-**Site Reliability Engineer**, **System Development Engineer**, **Dev Ops Engineer**
-or **Platform Engineer**. To be at my best, **I need complex technical problems and challenges**
-were I can bring in my **20+ years experience as technology generalist**.
-I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer**
-with a strong **hands-on mentality**, always eager to **learn and adapt**.
-
-I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Team**.
-As long I can stay **hands-on** and **actively involved** in the daily business and technical doing.
-**Extra points** when I can continue to **contribute to Open Source projects** as part of that Role.
-I'm **only** interested to work **remote** with **0% - 10% traveling** and
-prefer **global positions** or **international teams**.
-
-**Important**: I'm *not* looking for non-technical Management or
-Architecture positions with a pure Business or Sales focus.
-
-My **professional career started in 2002** and has always been **IT-centric**,
-distinguished by **broad knowledge of different technologies and areas**.
-**Adopting new Technologies** and **DevOps paradigms**, **Automation**,
-**Programming** and **Mentorship** are important parts of my day-to-day business.
-I have a strong **Engineering and Operations background** and knowledge across a
-broad set of technologies and fields. To name a few: **Compute**, **Storage**, **Network**,
-**Operating Systems**, **Troubleshooting**, **Automation**, **Software Development**.
-
-**Learning and Development** is important for me, **technical trainings and certifications**
-allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
-**7x AWS**, **3x Kubernetes**, **3x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
-With a **track record** of **more than 70 technical certifications** throughout my career.
-A full overview with links to further details and options to download and verify my achievements
-is available at the end of my Resume in the *Certifications* section.
+:Address: Sonnenblick 34, 36251 Bad Hersfeld, Germany
+:Website: https://dominik.wombacher.cc
+:Email: dominik@wombacher.cc
+:Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
+:LinkedIn: `dominik-wombacher <https://www.linkedin.com/in/dominik-wombacher/>`_
+:Github: `wombelix <https://github.com/wombelix>`_
+:Languages: English (fluent), German (native)
 
 Open Source
 ===========
 
 Open Source became an important part of my life.
-Following some communities I'm most interested and involved in.
-And an extract of code contributions, projects I maintan or own.
+Following some communities and projects I'm most interested and involved in.
+Also an extract of recent code contributions and current projects I maintain or own.
+I host my code on `sr.ht <https://git.sr.ht/~wombelix>`_, with mirrors on
+`GitHub <https://github.com/wombelix>`_, `Gitlab <https://gitlab.com/wombelix>`_
+and `Codeberg <https://codeberg.org/wombelix>`_.
 
-Communities
------------
+**Communities**
 
-- `Pagure <https://pagure.io/pagure>`_
-- `Fedora <https://fedoraproject.org>`_
-- `openSUSE <https://opensuse.org>`_
-- `Rancher <https://github.com/rancher/>`_
-- `Uyuni Project <https://uyuni-project.org>`_
-- `Ansible <https://ansible.com>`_
-- `Pelican <https://getpelican.com>`_
+- `Pagure <https://pagure.io/pagure>`_ |
+  `Fedora <https://fedoraproject.org>`_ |
+  `openSUSE <https://opensuse.org>`_ |
+  `Rancher <https://github.com/rancher/>`_ |
+  `Uyuni Project <https://uyuni-project.org>`_ |
+  `Ansible <https://ansible.com>`_ |
+  `Pelican <https://getpelican.com>`_ |
 
-Contributions
--------------
+**Contributions**
 
-- `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_
-- `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_
-- `AWS I&A - TaskCat <https://github.com/aws-ia/taskcat>`_
-- `Rancher Charts <https://github.com/rancher/charts>`_
-- `Uyuni Project (SUSE Manager Upstream) <https://github.com/uyuni-project/>`_
-- `Ansible Collection: Community General <https://github.com/ansible-collections/community.general>`_
-- `Ansible Collection: Community VMWare <https://github.com/ansible-collections/community.vmware>`_
+- `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
+  `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
+  `Rancher Charts <https://github.com/rancher/charts>`_ |
+  `Uyuni Project (SUSE Manager Upstream) <https://github.com/uyuni-project/>`_ |
+  `Ansible Collection: Community General <https://github.com/ansible-collections/community.general>`_
 
-Maintainer
-----------
+**Maintainer**
 
-- `Pagure - A hackable git centered forge <https://pagure.io/pagure>`_
-- `Fedora and EPEL packages <https://src.fedoraproject.org/user/wombelix/projects>`_
-- `AWS Samples - NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
-- `AWS I&A - Red Hat Enterprise Linux with High Availability on AWS <https://github.com/aws-ia/cfn-ps-red-hat-rhel-with-ha>`_
-- `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
-- `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
+- `Pagure - A hackable git centered forge <https://pagure.io/pagure>`_ |
+  `Fedora and EPEL packages <https://src.fedoraproject.org/user/wombelix/projects>`_ |
+  `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_ |
+  `SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
+  `Red Hat Enterprise Linux with High Availability on AWS <https://github.com/aws-ia/cfn-ps-red-hat-rhel-with-ha>`_ |
+  `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_ |
+  `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 
-Own Projects
-------------
+**Own Projects**
 
-- `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_
-- `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_
-- `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_
-- `Flappy Mascot <https://github.com/wombelix/flappy-mascot>`_
-- `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL/>`_
-- `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
-- `Pelican Theme - xlii <https://github.com/wombelix/pelican-theme-xlii>`_
-- `ansible-molecule-container: Collection of Dockerfiles for Container to test Ansible Roles with Molecule. <https://github.com/wombelix/ansible-molecule-container/>`_
-- `moinmoin-pypy2-container	- MoinMoin wiki container image, powered by openSUSE Leap, PyPy, nginx and uwsgi. <https://github.com/wombelix/moinmoin-pypy2-container/>`_
+- `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
+  `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_ |
+  `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_ |
+  `Flappy Mascot <https://github.com/wombelix/flappy-mascot>`_ |
+  `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL/>`_ |
+  `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_ |
+  `Pelican Theme: xlii <https://github.com/wombelix/pelican-theme-xlii>`_
 
 Public Speaking
 ===============
 
-Virtual
--------
+Extract of recent virtual and in-person public speaking engagements.
 
-- `AWS Rancher Virtual Rodeo France <https://web.archive.org/web/20230327171957/https://more.suse.com/AWS_RancherRodeoVirtuel-French.html>`_
-- `SUSECON Digital 23 - [TUT-1179] SUSE ALP prototype on AWS: Experimental, but fun! <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_
-- NeuVector on AWS - Launch webinar - German / DACH Region
-- NeuVector on AWS - Launch webinar - English / EMEA Region (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_)
-- `RHEL on AWS webinar - RHEL in the Cloud <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_
-- `SUSE Webinar: Best Practices for Zero Trust Container Security NeuVector on AWS - EMEA <https://www.brighttalk.com/webcast/11477/614686>`_
-- `Monthly SUSE for SAP Partner Spotlight - Session 1 - September 2024 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_
-- `Monthly SUSE for SAP Partner Spotlight - Session 2 - September 2024 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_
+**Virtual**
 
-In-Person
----------
+- `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
+  NeuVector on AWS Webinar (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_) |
+  `RHEL in the Cloud Webinar <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_ |
+  `Best Practices for Zero Trust Container Security NeuVector on AWS <https://www.brighttalk.com/webcast/11477/614686>`_ |
+  Monthly SUSE for SAP Partner Spotlight - AWS European Sovereign Cloud - September 2024 (`Session 1 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_, `Session 2 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_)
 
-- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS
-- `SUSECON 23 - [PROD-1178] Rancher integration with AWS services: possibilities, challenges & outlook <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_
-- `openSUSE Conference 2023 - openSUSE ALP prototype on AWS, experimental, but fun! <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_
-- `openSUSE Conference 2023 - Rancher integration with AWS services: possibilities, challenges, outlook. <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_
-- `Red Hat Summit Connect 2023, Utrecht Netherlands - Session by AWS: Red Hat Openshift on AWS <https://www.redhat.com/en/summit/connect/emea/utrecht-2023>`_
-- SUSECON 24 - TUTORIAL-1156: NeuVector Integration into AWS CodePipeline CI/CD Workflow
-- `openSUSE Community Summit Berlin - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_
-- `openSUSE Conference 2024 - Pagure CI integration with AWS CodePipeline <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
-- `openSUSE Conference 2024 - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+**In-Person**
+
+- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS |
+  `SUSECON 23, Munich Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
+  `openSUSE Conference 2023, Nuremberg Germany - openSUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
+  `openSUSE Conference 2023, Nuremberg Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
+  `Red Hat Summit Connect 2023, Utrecht Netherlands - Red Hat Openshift Service on AWS <https://www.redhat.com/en/summit/connect/emea/utrecht-2023>`_ |
+  SUSECON 24, Berlin Germany - NeuVector Integration into AWS CodePipeline CI/CD Workflow |
+  `openSUSE Community Summit, Berlin Germany - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_ |
+  `openSUSE Conference 2024, Nuremberg Germany - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_ |
+  `openSUSE Conference 2024, Nuremberg Germany - Pagure CI integration with AWS CodePipeline <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+
+.. raw:: pdf
+
+  PageBreak
 
 Job History
 ===========
 
 **October 2022 - present**
 
-  | Position: Sr. Partner Solutions Architect - Linux (SUSE & Red Hat)| Permanent
-  | Company: Amazon Web Services (AWS) | EMEA
+  | Position: Sr. Partner Solutions Architect - Linux (SUSE & Red Hat) | Permanent
+  | Company: Amazon Web Services (AWS) | Remote
   | Sector: Cloud Computing
   |
+  | Highlights:
+
+  - Packaging AWS Software for openSUSE, Fedora and EPEL
+  - Writing internal tooling in Python and Bash for Doc and ADR writing
+  - Infrastructure Automation with AWS CloudFormation, AWS CDK and OpenTofu / Terraform
+  - Programming third-party integrations with AWS Services in Golang
+  - Feature and Bugfix contributions to Open Source projects
+
   | Summary:
 
-  - Supporting and growing the AWS / SUSE / Red Hat Partnership in the EMEA region.
-  - Working closely with AWS product and service Teams, SUSE / Red Hat Solutions Architects, Sales, and Senior executives
-    of SI Partners, to help customers with migrate and modernize SUSE / Red Hat container and Linux workloads.
-  - Solving complex, technical challenges and building Proof of Concepts to ensure customers can focus on their business.
-  - Architecting technical solutions with the SUSE / Red Hat field teams and enabling the AWS / SUSE / Red Hat ecosystem to do the same at scale.
+  - Supporting and growing the SUSE / Red Hat Partnership.
+  - Working closely with AWS product and service Teams, SUSE / Red Hat Solutions Architects, Sales, and Senior executives.
+  - Help customers to migrate and modernize SUSE / Red Hat container and Linux workloads.
+  - Solving complex, technical challenges and building Proof of Concepts.
+  - Architecting technical solutions with the SUSE / Red Hat field teams.
   - Driving technical solutions discussions also diving deep into the details with customer, product, and service teams.
-  - Implementation of annual strategic plans, building executive relationships and running technical reviews on a regular basis.
-  - Engaging with SUSE / Red Hat field and service teams, to ensure that the SUSE / Red Hat partnership is proceeding to its respective goals.
-  - Thought leader in the wider community in educating, sharing best practices, presenting at events, writing white papers, blogs, and running workshops.
-  - Trusted advisor for AWS / SUSE / Red Hat Customers to identify challenges and solutions on their Cloud Journey
+  - Thought leader in the wider open source community in educating, sharing best practices, presenting at events, writing white papers, blogs, and running workshops.
+  - Trusted advisor for AWS / SUSE / Red Hat Customers to identify challenges and solutions on their Cloud Journey.
   - Shaping the direction of AWS products and services through gathering feedback from customers whilst collaborating with AWS engineering and service teams.
 
   | Technologies, Products, Tools (Extract):
 
-  - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC)
-  - SUSE SLES 12 / 15, Red Hat 7 / 8 / 9, openSUSE Leap 15, openSUSE MicroOS, SUSE Manager 4 / Uyuni, GitLab
-  - Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE NeuVector
-  - AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, Ansible, Scripting (Bash)
-  - PlantUML, SalesForce, Remedy, XWiki, Slack, WorkdDocs, Quip, Chime
+  - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC),
+    SUSE SLES 12 / 15, Red Hat 7 / 8 / 9, openSUSE Leap 15, openSUSE MicroOS, SUSE Manager 4 / Uyuni, GitLab,
+    Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE NeuVector,
+    AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, Ansible, Bash scripting
 
   | Amazon internal Trainings and Programs (Extract):
 
-  - Making Great Hiring Decisions, Certified AWS Senior Speaker, AWS Technical Professional, Content Guardian, Open Source Champion
-  - AWS Social Media Training, Amazon GitHub Training, Safety Ambassador, Lead with Empathy, Travel Security, AWS GameDay Training
-  - Inclusive Interviewing Training, Effective @Amazon, ECS Workshop Contributor, AWS Well Architected, Amazon Writing, Blog Bar Raiser
-  - SAP Technical Field Community Member, Linux Technical Field Community Founding Member, Container Technical Field Community Member
+  - Making Great Hiring Decisions, Certified AWS Senior Speaker, AWS Technical Professional, Content Guardian, Open Source Champion,
+    AWS Social Media Training, Amazon GitHub Training, Safety Ambassador, Lead with Empathy, Travel Security, AWS GameDay Training,
+    Inclusive Interviewing Training, Effective @Amazon, ECS Workshop Contributor, AWS Well Architected, Amazon Writing, Blog Bar Raiser,
+    SAP Technical Field Community Member, Linux Technical Field Community Founding Member, Container Technical Field Community Member
 
   |
+
+.. raw:: pdf
+
+  PageBreak
 
 ----
 
 **August 2020 - September 2022**
 
   | Position: Principal Engineer & Head of Infrastructure Operations | Permanent
-  | Company: NTT Germany AG & Co. KG | Bad Homburg
+  | Company: NTT Germany AG & Co. KG | Remote
   | Business Unit: MAN
   | Sector: Network & IT Services
   |
+  | Highlights:
+
+  - Ansible based Automation for Server and Storage provisioning and decomissioning
+  - Automation of re-occuring reporting activities with Ansible, AWX and Java
+  - Development of internal Web (HTML, CSS, JavaScript) and CLI (Bash, Python) tools for administrative tasks
+
   | Summary:
 
   - Datacenter Infrastructure responsibility
-  - Lead of Operations Team (L1, L2, L3) located in DE and CZ
+  - Lead of Engineering and Operations Team located in Germany and Czech Republic
   - Support and coordinate global delivery units
   - Acting as emergency support and escalation contact
   - Mentoring, knowledge transfer and Documentation
@@ -316,25 +322,35 @@ Job History
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI
-  - SUSE SLES 12 / 15, Red Hat 7 / 8, Oracle Linux 7 / 8, openSUSE Leap 15, openSUSE MicroOS/ JeOS, Windows Server 2012 R2 / 2016
-  - SUSE Manager 4 / Uyuni, Red Hat Satellite 6, AWX, Gitea, Jenkins, iTop / TeemIP, TeamPass, NetBox, Observium, Grafana, Docker, Kubernetes
-  - NetApp SnapManager / SnapCenter (Oracle Database, SAP HANA Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL)
-  - Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS
-  - Python, Ansible, Scripting (Bash, Powershell), F5 iRules, RPM Packaging, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN
-  - Microsoft Azure, Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint, BMC Control-M, Seal Systems Plossys
+  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI,
+    SUSE SLES 12 / 15, Red Hat 7 / 8, Oracle Linux 7 / 8, openSUSE Leap 15, openSUSE MicroOS/ JeOS, Windows Server 2012 R2 / 2016,
+    SUSE Manager 4 / Uyuni, Red Hat Satellite 6, AWX, Gitea, Jenkins, iTop / TeemIP, TeamPass, NetBox, Observium, Grafana, Docker, Kubernetes,
+    NetApp SnapManager / SnapCenter (Oracle Database, SAP HANA Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
+    Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
+    Python, Ansible, Scripting (Bash, Powershell), F5 iRules, RPM Packaging, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
+    Microsoft Azure, Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint, BMC Control-M, Seal Systems Plossys
 
   |
+
+.. raw:: pdf
+
+  PageBreak
 
 ----
 
 **March 2019 - July 2020**
 
   | Position: Lead Engineer Operations (L3) | Permanent
-  | Company: NTT Germany AG & Co. KG (formerly Dimension Data) | Bad Homburg
+  | Company: NTT Germany AG & Co. KG (formerly Dimension Data) | Bad Homburg, Hybrid
   | Business Unit: MAN
   | Sector: Network & IT Services
   |
+  | Highlights:
+
+  - Universal API in Python / Flask as standardized wrapper across internal services
+  - Troubleshooting, Debugging and Patch creation to stabelize large SUSE Manager environment
+  - Development of internal Web (HTML, CSS, JavaScript) and CLI (Bash, Python) tools for administrative tasks
+
   | Summary:
 
   - ITIL based Operations Support, Ticket and Incident handling
@@ -347,15 +363,19 @@ Job History
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI
-  - SUSE SLES 12 / 15, Red Hat 7, Oracle Linux 7, Windows Server 2012 R2 / 2016
-  - SUSE Manager 4 / Uyuni, Red Hat Satellite 6, Jenkins, iTop / TeemIP, TeamPass, Observium, Grafana
-  - NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL)
-  - Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS
-  - Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN
-  - Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
+  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI,
+    SUSE SLES 12 / 15, Red Hat 7, Oracle Linux 7, Windows Server 2012 R2 / 2016,
+    SUSE Manager 4 / Uyuni, Red Hat Satellite 6, Jenkins, iTop / TeemIP, TeamPass, Observium, Grafana,
+    NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
+    Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
+    Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
+    Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
 
   |
+
+.. raw:: pdf
+
+  PageBreak
 
 ----
 
@@ -381,21 +401,21 @@ Job History
   | Technologies, Products, Tools:
 
   - openSUSE (42, Leap 15, Tumbleweed - MicroOS, JeOS), FreeBSD (12), Debian (7 - 10), Ubuntu (16.04, 18.04),
-    CentOS (7), Oracle Linux (7 / 8), Red Hat Enterprise Linux (7 / 8), Windows Server (2000 - 2016), Windows (2000 - 10)
-  - Proxmox, KVM, FreeBSD Jails, Docker, Podman, Kubernetes (k8s, k3s), LXC, VMware vSphere, Microsoft Hyper-V
-  - MySQL / MariaDB, PostgreSQL, SQLite, Microsoft SQL, Bareos, Icinga, Check_MK, Microsoft Remote Desktop
-  - Python, Ansible, Scripting (Bash, PowerShell), PHP, HTML, CSS, JavaScript, Go, C#, VB.Net, Java, Make
-  - Wireguard, IPSec, OpenVPN, Puppet / Foreman, DRBD, Pacemaker, Corosync, DHCP, DNS (Bind, PowerDNS, Windows)
-  - Microsoft Exchange (2000 - 2013), Stratus everRun, OTRS, OPSI, Securepoint UTM, JTL Wawi, Lexware, Datev, MailStore
-  - Git, Gitea, Gitlab, Github, Pagure, Cgit, Open Build Service, RPM Packaging, FreeBSD Ports, Container Images (OCI)
-  - VIM, Screen / Tmux, Eclipse, Visual Studio Code / VSCodium
+    CentOS (7), Oracle Linux (7 / 8), Red Hat Enterprise Linux (7 / 8), Windows Server (2000 - 2016), Windows (2000 - 10),
+    Proxmox, KVM, FreeBSD Jails, Docker, Podman, Kubernetes (k8s, k3s), LXC, VMware vSphere, Microsoft Hyper-V,
+    MySQL / MariaDB, PostgreSQL, SQLite, Microsoft SQL, Bareos, Icinga, Check_MK, Microsoft Remote Desktop,
+    Python, Ansible, Scripting (Bash, PowerShell), PHP, HTML, CSS, JavaScript, Go, C#, VB.Net, Java, Make,
+    Wireguard, IPSec, OpenVPN, Puppet / Foreman, DRBD, Pacemaker, Corosync, DHCP, DNS (Bind, PowerDNS, Windows),
+    Microsoft Exchange (2000 - 2013), Stratus everRun, OTRS, OPSI, Securepoint UTM, JTL Wawi, Lexware, Datev, MailStore,
+    Git, Gitea, Gitlab, Github, Pagure, Cgit, Open Build Service, RPM Packaging, FreeBSD Ports, Container Images (OCI),
+    VIM, Screen / Tmux, Eclipse, Visual Studio Code / VSCodium
 
 ----
 
 **July 2006 - July 2007**
 
   | Position: Systemadministrator
-  | Company: IT-Service M+W Grossostheim GmbH
+  | Company: IT-Service M+W Grossostheim GmbH | Grossostheim
   | Sector: IT & Telecommunication
 
   Short Summary
@@ -404,12 +424,16 @@ Job History
   - ITIL / Operations
   - IT Outsourcing
 
+.. raw:: pdf
+
+  PageBreak
+
 ----
 
 **August 2003 - July 2006**
 
   | Position: Apprentice Computer Science Expert (System Integration)
-  | Company: IT-Service M+W Grosostheim GmbH
+  | Company: IT-Service M+W Grossostheim GmbH | Grossostheim
   | Sector: IT & Telecommunication
 
   Short Summary
@@ -432,10 +456,14 @@ Job History
   - End-User Helpdesk
   - Onsite Support
 
+.. raw:: pdf
+
+  PageBreak
+
 Project History
 ===============
 
-*Extract from the last few years*
+*Extract from the last ten years*
 
 ----
 
@@ -446,6 +474,12 @@ Project History
   | Business Unit: MAN
   | Sector: Network & IT Services
   |
+  | Highlights:
+
+  - Sharepoint based workflow tool for complex Server provisioning tasks and depdencies
+  - Jenkins pipelines as self-service platform for orchestration and automation tasks
+  - Development of internal Web (HTML, CSS, JavaScript) and CLI (Bash, Python) tools for administrative tasks
+
   | Summary:
 
   - ITIL based Operations Support, Ticket and Incident handling
@@ -458,15 +492,19 @@ Project History
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI
-  - SUSE SLES 11 / 12, Red Hat 7, Oracle Linux 7, Windows Server 2008 R2 / 2012 R2 / 2016
-  - SUSE Manager 3, Red Hat Satellite 6, Jenkins, TeemIP, TeamPass, Observium
-  - NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL)
-  - Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS
-  - Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN
-  - Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
+  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI,
+    SUSE SLES 11 / 12, Red Hat 7, Oracle Linux 7, Windows Server 2008 R2 / 2012 R2 / 2016,
+    SUSE Manager 3, Red Hat Satellite 6, Jenkins, TeemIP, TeamPass, Observium,
+    NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
+    Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
+    Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
+    Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
 
   |
+
+.. raw:: pdf
+
+  PageBreak
 
 ----
 
@@ -514,6 +552,10 @@ Project History
   - CMDB and Ticketsystem (OTRS)
   - Software Rollout (OPSI)
   - ITIL based Support
+
+.. raw:: pdf
+
+  PageBreak
 
 Certifications
 ==============
