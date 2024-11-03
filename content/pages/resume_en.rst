@@ -59,7 +59,7 @@ prefer **global positions** or **international teams**.
 Architecture positions with a pure Business or Sales focus.
 
 My **professional career started in 2002** and has always been **IT-centric**,
-distinguished by **broad knowledge of different technologies and areas**.
+distinguished by a **broad knowledge of different technologies and areas**.
 **Adopting new Technologies** and **DevOps paradigms**, **Automation**,
 **Programming** and **Mentorship** are important parts of my day-to-day business.
 I have a strong **Engineering and Operations background** and knowledge across a
@@ -68,7 +68,7 @@ broad set of technologies and fields. To name a few: **Compute**, **Storage**, *
 
 **Learning and Development** is important for me, **technical trainings and certifications**
 allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
-**7x AWS**, **3x Kubernetes**, **3x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
+**7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
 A full overview with links to further details and options to download and verify my achievements
 is available at the end of my Resume in the *Certifications* section.
@@ -87,7 +87,7 @@ Key Skills
    * - AWS
      - Ansible
      - OpenTofu / Terraform
-   * - Azure
+   * -
      - AWX
      - AWS CloudFormation and CDK
 
@@ -97,7 +97,7 @@ Key Skills
    :header-rows: 1
 
    * - Programming
-     - CI/CD Pipelines
+     - CI / CD Pipelines
      - Container
    * - Python
      - AWS CodePipeline
@@ -108,7 +108,7 @@ Key Skills
    * - TypeScript
      - Jenkins
      - NeuVector
-   * -
+   * - Java
      - builds.sr.ht
      - Open Shift
 
@@ -118,7 +118,7 @@ Key Skills
    :header-rows: 1
 
    * - Operating Systems
-     - Logging and monitoring
+     - Logging and observability
      - Soft Skills
    * - SUSE Linux Enterprise Server
      - Fluent Bit
@@ -130,10 +130,10 @@ Key Skills
      - Grafana
      - Adaptability
    * - Fedora
-     - OpenSearch
+     - AWS CloudWatch
      - Communication
    * - Debian
-     - Icinga
+     - AWS CloudTrail
      - Collaboration
    * - FreeBSD
      -
@@ -144,7 +144,7 @@ Key Skills
    :widths: 33 33 33
    :header-rows: 1
 
-   * - ML/AI
+   * - ML / AI
      -
      -
    * - Prompt Engineering
@@ -255,7 +255,7 @@ Job History
   | Highlights:
 
   - Packaging AWS Software for openSUSE, Fedora and EPEL
-  - Writing internal tooling in Python and Bash for Doc and ADR writing
+  - Developing internal tooling in Python and Bash for Doc and ADR writing
   - Infrastructure Automation with AWS CloudFormation, AWS CDK and OpenTofu / Terraform
   - Programming third-party integrations with AWS Services in Golang
   - Feature and Bugfix contributions to Open Source projects
@@ -304,8 +304,9 @@ Job History
   | Highlights:
 
   - Ansible based Automation for Server and Storage provisioning and decomissioning
-  - Automation of re-occuring reporting activities with Ansible, AWX and Java
-  - Development of internal Web (HTML, CSS, JavaScript) and CLI (Bash, Python) tools for administrative tasks
+  - Automation of reporting activities with Ansible, AWX and Java
+  - Transforming the Engineering Team towards DevOps methodology and GitOps mindset
+  - Development and maintenance of internal Web and CLI tools for re-occuring administrative tasks
 
   | Summary:
 
@@ -347,9 +348,9 @@ Job History
   |
   | Highlights:
 
-  - Universal API in Python / Flask as standardized wrapper across internal services
-  - Troubleshooting, Debugging and Patch creation to stabelize large SUSE Manager environment
-  - Development of internal Web (HTML, CSS, JavaScript) and CLI (Bash, Python) tools for administrative tasks
+  - Design and building of a Universal API in Python as standardized wrapper across internal services
+  - Troubleshooting, Debugging and Patch creation to stabilize large SUSE Manager environment
+  - Development and maintenance of internal Web and CLI tools for re-occuring administrative tasks
 
   | Summary:
 
@@ -476,9 +477,9 @@ Project History
   |
   | Highlights:
 
-  - Sharepoint based workflow tool for complex Server provisioning tasks and depdencies
+  - Sharepoint based workflow to handle complex Server provisioning tasks and depdencies
   - Jenkins pipelines as self-service platform for orchestration and automation tasks
-  - Development of internal Web (HTML, CSS, JavaScript) and CLI (Bash, Python) tools for administrative tasks
+  - Development and maintenance of internal Web and CLI tools for re-occuring administrative tasks
 
   | Summary:
 
