@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2024-11-02
+:modified: 2024-11-11
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -25,8 +25,8 @@ Why?
 I have nothing against receiving offers and talking about opportunities,
 but it's getting more difficult and time consuming to answer all requests.
 
-Especially messages like "I have multiple job opportunities" or
-"if you are interested please share your resume" barely get my attention to be frank.
+Especially messages like *"I have multiple job opportunities"* or
+*"if you are interested please share your resume"* barely get my attention to be frank.
 
 You are a Recruiter? Then this FAQ is for you to make things easier for both of us.
 
@@ -35,7 +35,7 @@ You are a Recruiter? Then this FAQ is for you to make things easier for both of 
 How should the first message from a recruiter look like?
 ========================================================
 
-As much details and context as possible:
+As much details and context as possible, for example:
 
 - A description of the position
 - The project or company
@@ -49,12 +49,36 @@ As much details and context as possible:
 Are you interested changing your job?
 =====================================
 
-Yes, I want to go back to my Engineering roots and looking for a new opportunity as:
+**Yes**, I'm Open to Work and actively applying.
 
-- Site Reliability Engineer
-- System Development Engineer
-- Dev Ops Engineer
-- Platform Engineer
+----
+
+Which Positions are you looking for?
+====================================
+
+I want to go back to my **Engineering** roots and looking for a new opportunity as:
+
+- **Site Reliability Engineer (SRE)**
+- **System Development Engineer**
+- **Dev Ops Engineer**
+- **Platform Engineer**
+
+I'm interested in **Senior**, **Principal** and **Staff** Roles and willing to **Lead an Engineering Team**. 
+As long I can **stay hands-on** and **actively involved** in the daily business and technical doing.
+
+----
+
+What Positions are you **not** looking for?
+===========================================
+
+I'm **not** looking for non-technical Management or Architecture positions with a pure Business or Sales focus.
+
+----
+
+What contract types do you consider?
+====================================
+
+Currently only **Full-Time permanent contract**.
 
 ----
 
