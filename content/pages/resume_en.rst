@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-11-03
+:modified: 2024-11-13
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -214,22 +214,19 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
   `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_ |
   `Pelican Theme: xlii <https://github.com/wombelix/pelican-theme-xlii>`_
 
-Public Speaking
-===============
+Public Speaking & Blogs
+=======================
 
-Extract of recent virtual and in-person public speaking engagements.
+Extract of recent virtual and in-person public speaking engagements and Blogs.
 
-**Virtual**
+**Public Speaking**
 
-- `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
+- **Virtual**: `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
   NeuVector on AWS Webinar (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_) |
   `RHEL in the Cloud Webinar <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_ |
   `Best Practices for Zero Trust Container Security NeuVector on AWS <https://www.brighttalk.com/webcast/11477/614686>`_ |
   Monthly SUSE for SAP Partner Spotlight - AWS European Sovereign Cloud - September 2024 (`Session 1 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_, `Session 2 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_)
-
-**In-Person**
-
-- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS |
+- **In-Person**: Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS |
   `SUSECON 23, Munich Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
   `openSUSE Conference 2023, Nuremberg Germany - openSUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
   `openSUSE Conference 2023, Nuremberg Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
@@ -238,6 +235,10 @@ Extract of recent virtual and in-person public speaking engagements.
   `openSUSE Community Summit, Berlin Germany - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_ |
   `openSUSE Conference 2024, Nuremberg Germany - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_ |
   `openSUSE Conference 2024, Nuremberg Germany - Pagure CI integration with AWS CodePipeline <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+
+**Blogs**
+
+- `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_ | `The Wombelix Post <https://dominik.wombacher.cc/posts/index.html>`_
 
 .. raw:: pdf
 
