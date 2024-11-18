@@ -31,7 +31,7 @@ it doesn't seem to make any difference and is a dead end.
 
 Then I checked the error message and stack trace once more, 
 the mock patch that injects a lambda function as override for :code:`_maybe_wait` 
-seem to cause the issues, a detail I didn't noticed before:
+seem to cause the issues, a detail I didn't notice before:
 
 .. code::
 
@@ -93,8 +93,8 @@ After dropping the whole patch / mock,
 `tests/test_pagure_flask_dump_load_ticket.py::PagureFlaskDumpLoadTicketTests::test_dumping_reloading_ticket <https://pagure.io/pagure/blob/master/f/tests/test_pagure_flask_dump_load_ticket.py#_40>`_ 
 is happy after all and passes.
 
-I have to admit, I still don't fully understand the reasoning behind how the test was implemented. 
-My only explanation is, that some Celery behavior must have changed in a (major) release. 
+I have to admit, I still don't fully understand why the test was implemented like that. 
+My only explanation is, that some Celery behavior must have changed over time in a release. 
 And after removing / bumping the version pinning and using Fedora 40 it came up as a problem.
 
 Such tests are there to rely on, and if that one now passes without mocking, I'm fine with that.
@@ -115,7 +115,8 @@ While I was waiting for my pagure PR to be reviewed and merged, I worked on Goal
 Based on the Bugzilla Ticket, the problem with the unsatisfied runtime dependency on cffi 
 is solved for `openSUSE:infrastructure:pagure <https://build.opensuse.org/project/show/openSUSE:infrastructure:pagure>`_. 
 And still pending for openSUSE Leap 15.6 / SLES 15 SP6 in general. 
-But for know I only care about pagure on `code.opensuse.org <https://code.opensuse.org>`_.
+But for know I only care about pagure on `code.opensuse.org <https://code.opensuse.org>`_. 
+The OBS project had two broken packages that I fixed. Nothing else to do, Goal 2 completed.
 
 In preparation for Day 2, I updated my pagure dev system to the latest master branch version, 
 including the Patch from my pending PR. This allows me to develop the actual pagure CI plugin 
