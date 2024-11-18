@@ -101,9 +101,9 @@ CSS_FILE = 'base.css'
 SITEMAP = {
     "format": "xml",
     "priorities": {
-        "articles": 1,
+        "articles": 1.0,
         "indexes": 0.5,
-        "pages": 1
+        "pages": 1.0
     },
     "changefreqs": {
         "articles": "daily",
