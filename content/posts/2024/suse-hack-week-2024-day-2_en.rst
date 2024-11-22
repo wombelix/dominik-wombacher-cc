@@ -2,23 +2,23 @@
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
-SUSE Hack Week 2025 - Day 2
+SUSE Hack Week 2024 - Day 2
 ###########################
 
 :date: 2024-11-19
 :modified: 2024-11-19
 :tags: SUSE, openSUSE, pagure, HackWeek, AWS, CodePipeline, Coding, OpenSource
-:description: Experiences and outcome of my second day at SUSE Hack Week 2025
+:description: Experiences and outcome of my second day at SUSE Hack Week 2024
 :category: Code
-:slug: suse-hack-week-2025-day-2
+:slug: suse-hack-week-2024-day-2
 :author: Dominik Wombacher
 :lang: en
-:transid: suse-hack-week-2025-day-2
+:transid: suse-hack-week-2024-day-2
 :status: published
 
 Second day, time to continue the work on 
 `my project <https://hackweek.opensuse.org/projects/aws-codepipeline-ci-plugin-for-pagure-on-code-dot-opensuse-dot-org>`_ 
-after a successful `first day <{filename}/posts/2024/suse-hack-week-2025-day-1_en.rst>`_. 
+after a successful `first day <{filename}/posts/2024/suse-hack-week-2024-day-1_en.rst>`_. 
 The focus was on research, tests and design decisions for the AWS CodePipeline pagure ci plugin. 
 I want to make the set up on the AWS side as easy and maintainance free as possible. 
 But keep the code and customization logic in pagure lightweight too. 

@@ -2,18 +2,18 @@
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
-SUSE Hack Week 2025 - Day 1
+SUSE Hack Week 2024 - Day 1
 ###########################
 
 :date: 2024-11-18
 :modified: 2024-11-18
 :tags: SUSE, openSUSE, pagure, HackWeek, AWS, CodePipeline, Coding, OpenSource
-:description: Experiences and outcome of my first day at SUSE Hack Week 2025
+:description: Experiences and outcome of my first day at SUSE Hack Week 2024
 :category: Code
-:slug: suse-hack-week-2025-day-1
+:slug: suse-hack-week-2024-day-1
 :author: Dominik Wombacher
 :lang: en
-:transid: suse-hack-week-2025-day-1
+:transid: suse-hack-week-2024-day-1
 :status: published
 
 I started the work on my project `AWS CodePipeline CI plugin for pagure on code.opensuse.org <https://hackweek.opensuse.org/projects/aws-codepipeline-ci-plugin-for-pagure-on-code-dot-opensuse-dot-org>`_ 

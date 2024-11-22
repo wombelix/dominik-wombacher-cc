@@ -2,22 +2,22 @@
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
-SUSE Hack Week 2025 - Day 4
+SUSE Hack Week 2024 - Day 4
 ###########################
 
 :date: 2024-11-21
 :modified: 2024-11-21
 :tags: SUSE, openSUSE, pagure, HackWeek, AWS, CodePipeline, Coding, OpenSource
-:description: Experiences and outcome of my fourth day at SUSE Hack Week 2025
+:description: Experiences and outcome of my fourth day at SUSE Hack Week 2024
 :category: Code
-:slug: suse-hack-week-2025-day-4
+:slug: suse-hack-week-2024-day-4
 :author: Dominik Wombacher
 :lang: en
-:transid: suse-hack-week-2025-day-4
+:transid: suse-hack-week-2024-day-4
 :status: published
 
 Today was the focus on writing the pagure ci plugin and fine-tune my design and architecture assumptions on the way. 
-Basically transferring the outcome of `day 3 <{filename}/posts/2024/suse-hack-week-2025-day-3_en.rst>`_ into some code. 
+Basically transferring the outcome of `day 3 <{filename}/posts/2024/suse-hack-week-2024-day-3_en.rst>`_ into some code. 
 I decided to use a Test-Driven approach and to keep a close eye on existing pagure ci related tests while 
 I have to refactor some existing code too. 
 

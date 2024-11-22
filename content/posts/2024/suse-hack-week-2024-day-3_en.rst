@@ -2,21 +2,21 @@
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
-SUSE Hack Week 2025 - Day 3
+SUSE Hack Week 2024 - Day 3
 ###########################
 
 :date: 2024-11-20
 :modified: 2024-11-20
 :tags: SUSE, openSUSE, pagure, HackWeek, AWS, CodePipeline, Coding, OpenSource
-:description: Experiences and outcome of my third day at SUSE Hack Week 2025
+:description: Experiences and outcome of my third day at SUSE Hack Week 2024
 :category: Code
-:slug: suse-hack-week-2025-day-3
+:slug: suse-hack-week-2024-day-3
 :author: Dominik Wombacher
 :lang: en
-:transid: suse-hack-week-2025-day-3
+:transid: suse-hack-week-2024-day-3
 :status: published
 
-I continued where I left off on the `second day <{filename}/posts/2024/suse-hack-week-2025-day-2_en.rst>`_, 
+I continued where I left off on the `second day <{filename}/posts/2024/suse-hack-week-2024-day-2_en.rst>`_, 
 I was thinking about my architecture last night. AWS CodePipeline requires a bit of a custom implementation 
 within the AWS Account, for example with AWS Lambda, to handle third party repos that are not GitHub, Gitlab or Bitbucket. 
 Maybe the pagure ci plugin should then a generic webhook style implementation. It defines the payload that is send and the expected 
