@@ -26,7 +26,7 @@ were I can implement the server side logic myself.
 
 This shifts the scope of `my project <https://hackweek.opensuse.org/projects/aws-codepipeline-ci-plugin-for-pagure-on-code-dot-opensuse-dot-org>`_  
 a little, but the outcome stays the same. I probably need two AWS Lambda functions, one to receive the webhook and trigger the build. 
-Another to recieve status updates from CodeBuild phases and send them back to pagure. The AWS credentials for pagure need 
+Another to receive status updates from CodeBuild phases and send them back to pagure. The AWS credentials for pagure need 
 permission to trigger the Lambda function for incoming requests. The function has permissions to interact with S3 and 
 CodePipeline / Codebuild. The outgoing Lambda uses the pagure ci token and gets it from a Env Var or AWS Secrets Manager. 
 Every component follows the least privilege principle.

@@ -20,7 +20,7 @@ Second day, time to continue the work on
 `my project <https://hackweek.opensuse.org/projects/aws-codepipeline-ci-plugin-for-pagure-on-code-dot-opensuse-dot-org>`_ 
 after a successful `first day <{filename}/posts/2024/suse-hack-week-2024-day-1_en.rst>`_. 
 The focus was on research, tests and design decisions for the AWS CodePipeline pagure ci plugin. 
-I want to make the set up on the AWS side as easy and maintainance free as possible. 
+I want to make the set up on the AWS side as easy and maintenance free as possible. 
 But keep the code and customization logic in pagure lightweight too. 
 
 The `Buildspec <https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html>`_ 
