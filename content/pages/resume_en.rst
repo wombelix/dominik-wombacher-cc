@@ -441,7 +441,7 @@ Job History
 
 **August 2003 - July 2006**
 
-  | Position: Apprenticeship: IT Specialist, System Integration
+  | Position: Apprenticeship - IT Specialist, System Integration
   | Company: IT-Service M+W Grossostheim GmbH | Grossostheim
   | Sector: IT & Telecommunication
 
