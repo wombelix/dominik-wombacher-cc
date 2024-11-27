@@ -29,12 +29,8 @@ You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recru
 
 ----
 
-.. raw:: pdf
-
-  PageBreak
-
-Summary
-=======
+About me
+========
 
 To be at my best, **I need complex technical problems and challenges**
 were I can bring in my **20+ years experience as technology generalist**.
@@ -57,6 +53,10 @@ broad set of technologies and fields.
 allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
 **7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
+
+.. raw:: pdf
+
+  PageBreak
 
 Key Skills
 ==========
@@ -136,9 +136,18 @@ Key Skills
      - Amazon Bedrock
      - Amazon SageMaker
 
-.. raw:: pdf
+Job History Summary
+===================
 
-  PageBreak
+  - **Sr. Partner Solutions Architect** | Amazon Web Services (AWS) | *Oct 2022 - present*
+
+  - **Principal Engineer & Head of Infrastructure Operations** | NTT | *Aug 2020 - Oct 2022*
+
+  - **Lead Engineer Operations (L3)** | NTT | *Mar 2019 - Jul 2020*
+
+  - **Service Delivery Support Engineer (L2)** | Dimension Data | *Aug 2016 - Feb 2019*
+
+  - **Owner / Self-employed** | Wombacher.IT | *Jan 2007 - Mar 2019*
 
 Contact
 =======
@@ -150,6 +159,10 @@ Contact
 :LinkedIn: `dominik-wombacher <https://www.linkedin.com/in/dominik-wombacher/>`_
 :Github: `wombelix <https://github.com/wombelix>`_
 :Languages: English (fluent), German (native)
+
+.. raw:: pdf
+
+  PageBreak
 
 Open Source
 ===========
@@ -204,14 +217,17 @@ Public Speaking & Blogs
 
 Extract of recent virtual and in-person public speaking engagements and Blogs.
 
-**Public Speaking**
+**Public Speaking (Virtual)**
 
-- **Virtual**: `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
+- `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
   NeuVector on AWS Webinar (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_) |
   `RHEL in the Cloud Webinar <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_ |
   `Best Practices for Zero Trust Container Security NeuVector on AWS <https://www.brighttalk.com/webcast/11477/614686>`_ |
   Monthly SUSE for SAP Partner Spotlight - AWS European Sovereign Cloud - September 2024 (`Session 1 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_, `Session 2 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_)
-- **In-Person**: Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS |
+
+**Public Speaking (In-Person)**
+
+- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS |
   `SUSECON 23, Munich Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
   `openSUSE Conference 2023, Nuremberg Germany - openSUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
   `openSUSE Conference 2023, Nuremberg Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
@@ -366,7 +382,7 @@ Job History
 
 ----
 
-**Januar 2007 - present**
+**Januar 2007 - March 2019**
 
   | Position: Self-Employed / Company owner / Freelancer
   | Company: various
@@ -450,7 +466,7 @@ Job History
 Project History
 ===============
 
-*Extract from the last ten years*
+*Extract before I moved to a Permanent position*
 
 ----
 
