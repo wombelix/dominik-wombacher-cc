@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-11-13
+:modified: 2024-11-27
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -23,17 +23,11 @@ Resume: Dominik Wombacher
 
 ----
 
-**Current Position:** Senior Partner Solutions Architect at AWS
-
-**Status**: Open to Work, I'm actively applying
-
-----
+**Current Position**: Senior Partner Solutions Architect at Amazon Web Services
 
 You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ first to make things easier for both of us.
 
-For my future career, I'm only interested in highly challenging and hands-on heavy tech roles
-were I can bring in my 20+ years experience as technology generalist.
-For example: Site Reliability Engineer, System Development Engineer, Dev Ops Engineer or Platform Engineer.
+----
 
 .. raw:: pdf
 
@@ -42,36 +36,27 @@ For example: Site Reliability Engineer, System Development Engineer, Dev Ops Eng
 Summary
 =======
 
-I want to go back to my **Engineering** roots and look for a **new opportunity** as
-**Site Reliability Engineer**, **System Development Engineer**, **Dev Ops Engineer**
-or **Platform Engineer**. To be at my best, **I need complex technical problems and challenges**
+To be at my best, **I need complex technical problems and challenges**
 were I can bring in my **20+ years experience as technology generalist**.
 I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer**
 with a strong **hands-on mentality**, always eager to **learn and adapt**.
 
-I'm interested in **Senior and Principal Roles** and willing to **Lead an Engineering Team**.
-As long I can stay **hands-on** and **actively involved** in the daily business and technical doing.
-**Extra points** when I can continue to **contribute to Open Source projects** as part of that Role.
-I'm **only** interested to work **remote** with **0% - 10% traveling** and
-prefer **global positions** or **international teams**.
-
-**Important**: I'm *not* looking for non-technical Management or
-Architecture positions with a pure Business or Sales focus.
+I'm passionate about **Linux**, **Kubernetes**, **problem solving**, **coding** and **automation**. 
+I know **multiple programming languages**. I feel comfortable to read and **debug code**, to **write 
+mid-size tools and features** without guidance. I'm a **generalist** with a very 
+**broad skill set**, but would describe myself as an **intermediate software developer**.
 
 My **professional career started in 2002** and has always been **IT-centric**,
 distinguished by a **broad knowledge of different technologies and areas**.
 **Adopting new Technologies** and **DevOps paradigms**, **Automation**,
 **Programming** and **Mentorship** are important parts of my day-to-day business.
 I have a strong **Engineering and Operations background** and knowledge across a
-broad set of technologies and fields. To name a few: **Compute**, **Storage**, **Network**,
-**Operating Systems**, **Troubleshooting**, **Automation**, **Software Development**.
+broad set of technologies and fields.
 
 **Learning and Development** is important for me, **technical trainings and certifications**
 allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
 **7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
-A full overview with links to further details and options to download and verify my achievements
-is available at the end of my Resume in the *Certifications* section.
 
 Key Skills
 ==========
