@@ -149,6 +149,12 @@ Job History Summary
 
   - **Owner / Self-employed** | Wombacher.IT | *Jan 2007 - Mar 2019*
 
+  - **System Administrator** | IT-Service M+W Grossostheim GmbH | *Jul 2006 - Jul 2007*
+
+  - **Apprenticeship: IT Specialist** | IT-Service M+W Grossostheim GmbH | *Aug 2003 - Jul 2006*
+
+  - **Support Engineer** | Prosol Spraytechnik GmbH | *Jan 2002 - Jul 2003*
+
 Contact
 =======
 
@@ -396,7 +402,7 @@ Job History
   - Virtualization / Storage
   - Datacenter / Hosting
   - IT Outsourcing
-  - Onsite Support
+  - On-site Support
   - Consulting
   - Project Management
   - People Management
@@ -417,7 +423,7 @@ Job History
 
 **July 2006 - July 2007**
 
-  | Position: Systemadministrator
+  | Position: System Administrator
   | Company: IT-Service M+W Grossostheim GmbH | Grossostheim
   | Sector: IT & Telecommunication
 
@@ -435,7 +441,7 @@ Job History
 
 **August 2003 - July 2006**
 
-  | Position: Apprentice Computer Science Expert (System Integration)
+  | Position: Apprenticeship: IT Specialist, System Integration
   | Company: IT-Service M+W Grossostheim GmbH | Grossostheim
   | Sector: IT & Telecommunication
 
@@ -443,7 +449,7 @@ Job History
 
   - 1st / 2nd Level Support
   - End-User Helpdesk
-  - Onsite Support
+  - On-site Support
 
 ----
 
@@ -457,7 +463,7 @@ Job History
 
   - 1st Level Support
   - End-User Helpdesk
-  - Onsite Support
+  - On-site Support
 
 .. raw:: pdf
 
