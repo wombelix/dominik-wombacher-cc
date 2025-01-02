@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2021-2025 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2024-11-27
+:modified: 2025-01-02
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -14,7 +14,9 @@ Resume: Dominik Wombacher
 :transid: resume
 :status: published
 
-`Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_
+**Current Position**: Senior Partner Solutions Architect at Amazon Web Services.
+`Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_.
+You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ first to make things easier for both of us.
 
 ----
 
@@ -23,31 +25,27 @@ Resume: Dominik Wombacher
 
 ----
 
-**Current Position**: Senior Partner Solutions Architect at Amazon Web Services
-
-You are a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ first to make things easier for both of us.
-
-----
-
 About me
 ========
 
 To be at my best, **I need complex technical problems and challenges**
 were I can bring in my **20+ years experience as technology generalist**.
-I'm an **Open Source Enthusiast and Contributor**, a **Passionate Engineer**
-with a strong **hands-on mentality**, always eager to **learn and adapt**.
+I'm an **Open Source Enthusiast and Contributor**. A **Passionate Engineer**
+with a strong **hands-on mentality**. A **problem solver**, **experienced Architect**
+and **People Manager**. A **Leader** who takes **Ownership** and is always eager to
+**learn and adapt**. **My Super Power** is the ability to **equally work Strategic and Operational**.
+**Seamlessly from** the **Big-Picture** down to **technical implementation** details.
 
-I'm passionate about **Linux**, **Kubernetes**, **problem solving**, **coding** and **automation**. 
-I know **multiple programming languages**. I feel comfortable to read and **debug code**, to **write 
-mid-size tools and features** without guidance. I'm a **generalist** with a very 
-**broad skill set**, but would describe myself as an **intermediate software developer**.
+My **professional career started in 2002** and has always been **IT focused**.
+I have a strong background in **Architecture, Engineering and Operations**.
+**Adopting new Technologies** and **DevOps paradigms** as well as **Automation**,
+**Programming** and **Mentorship** are an integral part of my work.
 
-My **professional career started in 2002** and has always been **IT-centric**,
-distinguished by a **broad knowledge of different technologies and areas**.
-**Adopting new Technologies** and **DevOps paradigms**, **Automation**,
-**Programming** and **Mentorship** are important parts of my day-to-day business.
-I have a strong **Engineering and Operations background** and knowledge across a
-broad set of technologies and fields.
+I'm passionate about **Linux**, **Kubernetes**, **Infrastructure**, **Coding** and **Automation**.
+I know **multiple programming languages** and **dive deep into a new codebase quickly**.
+I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
+I'm a **generalist** with a very **broad skill set**. I would describe myself as an
+**expert engineer** and **intermediate software developer**.
 
 **Learning and Development** is important for me, **technical trainings and certifications**
 allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
@@ -139,9 +137,9 @@ Key Skills
 Job History Summary
 ===================
 
-  - **Sr. Partner Solutions Architect** | Amazon Web Services (AWS) | *Oct 2022 - present*
+  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Oct 2022 - present*
 
-  - **Principal Engineer & Head of Infrastructure Operations** | NTT | *Aug 2020 - Oct 2022*
+  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2020 - Oct 2022*
 
   - **Lead Engineer Operations (L3)** | NTT | *Mar 2019 - Jul 2020*
 
@@ -188,7 +186,7 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
   `Rancher <https://github.com/rancher/>`_ |
   `Uyuni Project <https://uyuni-project.org>`_ |
   `Ansible <https://ansible.com>`_ |
-  `Pelican <https://getpelican.com>`_ |
+  `Pelican <https://getpelican.com>`_
 
 **Contributions**
 
@@ -210,7 +208,8 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 
 **Own Projects**
 
-- `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
+- `OpenTofu / Terraform Provider for sourcehut (sr.ht) <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
+  `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
   `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_ |
   `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_ |
   `Flappy Mascot <https://github.com/wombelix/flappy-mascot>`_ |
@@ -245,7 +244,9 @@ Extract of recent virtual and in-person public speaking engagements and Blogs.
 
 **Blogs**
 
-- `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_ | `The Wombelix Post <https://dominik.wombacher.cc/posts/index.html>`_
+- `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_ |
+  `Protect AWS CodePipeline CI/CD workflows with SUSE Security <https://www.suse.com/c/protect-aws-codepipeline-ci-cd-workflows-with-suse-security/>`_ |
+  `The Wombelix Post <https://dominik.wombacher.cc/posts/index.html>`_
 
 .. raw:: pdf
 
@@ -256,7 +257,7 @@ Job History
 
 **October 2022 - present**
 
-  | Position: Sr. Partner Solutions Architect - Linux (SUSE & Red Hat) | Permanent
+  | Position: Sr. Partner Solutions Architect (SA III, L6) - Linux (SUSE & Red Hat) | Permanent
   | Company: Amazon Web Services (AWS) | Remote
   | Sector: Cloud Computing
   |
@@ -304,7 +305,7 @@ Job History
 
 **August 2020 - September 2022**
 
-  | Position: Principal Engineer & Head of Infrastructure Operations | Permanent
+  | Position: Principal Engineer & Head of Infrastructure Operations (L4) | Permanent
   | Company: NTT Germany AG & Co. KG | Remote
   | Business Unit: MAN
   | Sector: Network & IT Services
