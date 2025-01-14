@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2025 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -13,8 +13,6 @@ Title
 :lang: en | de
 :transid:
 :status: draft (default) | hidden | published
-
-This will be turned into :abbr:`HTML (HyperText Markup Language)`.
 
 `Directlink <>`__
 (Archive: `[1] <>`__,
