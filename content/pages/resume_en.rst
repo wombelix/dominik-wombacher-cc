@@ -574,6 +574,10 @@ Certifications
 
 `SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
+:03/2025: `SUSE Certified Deployment Specialist in SUSE Multi-Linux Manager
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-suse-multi-linux-manager_en.rst>`_
+:03/2025: `SUSE Certified Deployment Specialist in SUSE Edge
+          <{filename}/posts/certifications/suse-certified-deployment-specialist-in-suse-edge_en.rst>`_
 :10/2024: `SUSE Certified Administrator (SCA) in Longhorn 1.5 - Cloud native Storage
           <{filename}/posts/certifications/suse-certified-administrator-sca-in-longhorn-15-cloud-native-storage_en.rst>`_
 :09/2024: `Red Hat Certified Specialist in Red Hat OpenShift Service on AWS (ROSA)
