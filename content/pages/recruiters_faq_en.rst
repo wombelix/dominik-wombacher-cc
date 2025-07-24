@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2025-01-02
+:modified: 2025-07-24
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -72,8 +72,11 @@ I consider a Role as **Manager** only when I can **Lead an Engineering Team**.
 What Positions are you **not** looking for?
 ===========================================
 
-I'm **not** looking for **non-technical Management** or **Architecture**
-positions that a **purely focused on Business or Sales**.
+I'm **not** looking for **non-technical Management**, **Account Team**, or **Business Development**
+positions that are **purely focused on Business or Sales**.
+
+I'm also not interested in roles that are primarily **project management**
+or **vendor management** without hands-on technical involvement.
 
 ----
 
