@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2025-01-02
+:modified: 2025-07-24
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -29,26 +29,27 @@ About me
 ========
 
 To be at my best, **I need complex technical problems and challenges**
-were I can bring in my **20+ years experience as technology generalist**.
+where I can bring in my **20+ years of experience as a technology generalist**.
 I'm an **Open Source Enthusiast and Contributor**. A **Passionate Engineer**
 with a strong **hands-on mentality**. A **problem solver**, **experienced Architect**
 and **People Manager**. A **Leader** who takes **Ownership** and is always eager to
-**learn and adapt**. **My Super Power** is the ability to **equally work Strategic and Operational**.
-**Seamlessly from** the **Big-Picture** down to **technical implementation** details.
+**learn and adapt**. **My core strength** is the ability to **work equally at strategic and operational levels**.
+**Seamlessly transitioning from** **big-picture strategy** down to **technical implementation** details.
 
 My **professional career started in 2002** and has always been **IT focused**.
 I have a strong background in **Architecture, Engineering and Operations**.
-**Adopting new Technologies** and **DevOps paradigms** as well as **Automation**,
+**Adopting new Technologies** and **DevOps and DevSecOps paradigms** as well as **Automation**,
 **Programming** and **Mentorship** are an integral part of my work.
 
-I'm passionate about **Linux**, **Kubernetes**, **Infrastructure**, **Coding** and **Automation**.
+I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**, 
+**Platform Engineering**, **Coding** and **Automation**.
 I know **multiple programming languages** and **dive deep into a new codebase quickly**.
 I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
 I'm a **generalist** with a very **broad skill set**. I would describe myself as an
 **expert engineer** and **intermediate software developer**.
 
 **Learning and Development** is important for me, **technical trainings and certifications**
-allow me to to **improve and validate my skills**. In recent years I became **18x SUSE**,
+allow me to **improve and validate my skills**. In recent years, I have earned **20x SUSE**,
 **7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
 
@@ -67,11 +68,11 @@ Key Skills
    * - Cloud
      - Automation
      - Infrastructure as Code (IaC)
-   * - AWS
+   * - Amazon Web Services (AWS)
      - Ansible
      - OpenTofu / Terraform
-   * -
-     - AWX
+   * - Microsoft Azure
+     - AWX / AAP
      - AWS CloudFormation and CDK
 
 .. list-table::
@@ -80,7 +81,7 @@ Key Skills
    :header-rows: 1
 
    * - Programming
-     - CI / CD Pipelines
+     - GitOps and CI/CD
      - Container
    * - Python
      - AWS CodePipeline
@@ -90,10 +91,10 @@ Key Skills
      - Rancher
    * - TypeScript
      - Jenkins
-     - NeuVector
+     - SUSE Security
    * - Java
-     - builds.sr.ht
-     - Open Shift
+     - ArgoCD
+     - OpenShift
 
 .. list-table::
    :width: 100%
@@ -101,26 +102,26 @@ Key Skills
    :header-rows: 1
 
    * - Operating Systems
-     - Logging and observability
-     - Soft Skills
+     - Observability & Monitoring
+     - Skills & Leadership
    * - SUSE Linux Enterprise Server
      - Fluent Bit
-     - Systems thinking
+     - Solution Architecture
    * - Red Hat Enterprise Linux
      - Prometheus
-     - Problem solving
+     - DevSecOps
    * - openSUSE
      - Grafana
-     - Adaptability
+     - Technical Leadership
    * - Fedora
      - AWS CloudWatch
-     - Communication
-   * - Debian
+     - Site Reliability Engineering
+   * - Debian and Ubuntu
      - AWS CloudTrail
-     - Collaboration
+     - Communication
    * - FreeBSD
      -
-     - Mentoring
+     - Team Management
 
 .. list-table::
    :width: 100%
