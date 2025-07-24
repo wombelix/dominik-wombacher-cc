@@ -49,7 +49,7 @@ I'm a **generalist** with a very **broad skill set**. I would describe myself as
 **expert engineer** and **intermediate software developer**.
 
 **Learning and Development** is important for me, **technical trainings and certifications**
-allow me to **improve and validate my skills**. In recent years, I have earned **20x SUSE**,
+allow me to **improve and validate my skills**. In recent years, I have earned **18x SUSE**,
 **7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
 
