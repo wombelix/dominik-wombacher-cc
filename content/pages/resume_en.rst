@@ -351,14 +351,19 @@ Job History
   |
   | Highlights:
 
-  - Design and building of a Universal API in Python as standardized wrapper across internal services
-  - Troubleshooting, Debugging and Patch creation to stabilize large SUSE Manager environment
-  - Development and maintenance of internal Web and CLI tools for re-occuring administrative tasks
+  - Designed and built Universal API in Python as standardized wrapper across internal services
+  - Developed custom patches and debugging solutions to stabilize large-scale SUSE Manager environment
+  - Created internal web applications and CLI tools for operational automation and self-service workflows
+  - Led technical troubleshooting and root cause analysis for complex infrastructure issues
+  - Implemented configuration management and deployment automation using Ansible and Python scripting
+  - Collaborated with development teams on system integration and API design patterns
+  - Established operational processes and documentation for infrastructure deployment and maintenance
+  - Provided 24/7 on-call support and emergency response for critical production systems
 
   | Summary:
 
   - ITIL based Operations Support, Ticket and Incident handling
-  - Establishing and optimize operational and deployment processes
+  - Design and optimize operational and deployment processes
   - Datacenter Infrastructure Support, Optimization and Architecture
   - Knowledge transfer and Documentation
   - Configuration and Patch Management
