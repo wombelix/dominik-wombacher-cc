@@ -250,37 +250,42 @@ Job History
   |
   | Highlights:
 
-  - Packaging AWS Software for openSUSE, Fedora and EPEL
-  - Developing internal tooling in Python and Bash for Doc and ADR writing
+  - Maintain open-source AWS integration projects including workshops, samples, and AI/ML Neuron tooling
+  - Programming third-party integrations with AWS Services in Golang, Python and TypeScript
   - Infrastructure Automation with AWS CloudFormation, AWS CDK and OpenTofu / Terraform
-  - Programming third-party integrations with AWS Services in Golang
-  - Feature and Bugfix contributions to Open Source projects
+  - Delivered technical presentations at industry conferences (KubeCon, SUSECON, Red Hat Summit)
+  - Developed security integration examples for AWS CI/CD pipelines and container vulnerability scanning
+  - Packaged and maintained AWS Software for openSUSE, Fedora and EPEL distributions
+  - Contributed features and bugfixes to upstream open source projects
+  - Published and contributed to technical blogs on AWS and SUSE integration topics
 
   | Summary:
 
-  - Supporting and growing the SUSE / Red Hat Partnership.
-  - Working closely with AWS product and service Teams, SUSE / Red Hat Solutions Architects, Sales, and Senior executives.
-  - Help customers to migrate and modernize SUSE / Red Hat container and Linux workloads.
-  - Solving complex, technical challenges and building Proof of Concepts.
-  - Architecting technical solutions with the SUSE / Red Hat field teams.
-  - Driving technical solutions discussions also diving deep into the details with customer, product, and service teams.
-  - Thought leader in the wider open source community in educating, sharing best practices, presenting at events, writing white papers, blogs, and running workshops.
-  - Trusted advisor for AWS / SUSE / Red Hat Customers to identify challenges and solutions on their Cloud Journey.
-  - Shaping the direction of AWS products and services through gathering feedback from customers whilst collaborating with AWS engineering and service teams.
+  - Work with SUSE and Red Hat on co-sell activities and joint customer opportunities globally
+  - Collaborate with AWS account teams, partner field teams, and customer technical teams on Linux migration projects
+  - Support customers through architecture reviews, technical workshops, and hands-on troubleshooting sessions
+  - Create technical documentation, reference architectures, and implementation guides for partner solutions
+  - Assist with partner solution onboarding and validation processes for AWS Marketplace listings
+  - Participate in customer escalations and provide technical expertise for complex integration challenges
+  - Engage with AWS product teams to share customer feedback and partner requirements from field experience
+  - Expand technical expertise across AI/ML infrastructure, container security, and cloud-native architectures
+  - Connect technical work with business goals to help customers succeed with partner solutions
 
   | Technologies, Products, Tools (Extract):
 
   - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC),
-    SUSE SLES 12 / 15, Red Hat 7 / 8 / 9, openSUSE Leap 15, openSUSE MicroOS, SUSE Manager 4 / Uyuni, GitLab,
-    Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE NeuVector,
-    AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, Ansible, Bash scripting
+    AWS Neuron, Amazon Bedrock, Amazon SageMaker, SUSE SLES 12 / 15, Red Hat 7 / 8 / 9 / 10, openSUSE Leap 15, openSUSE MicroOS, 
+    SUSE Manager 4 / Uyuni / SUSE Multi-Linux Manager 5, GitLab, Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, 
+    Red Hat OpenShift, K3s, RKE / RKE2, SUSE Security / NeuVector, AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, 
+    Ansible, Bash scripting
 
   | Amazon internal Trainings and Programs (Extract):
 
-  - Making Great Hiring Decisions, Certified AWS Senior Speaker, AWS Technical Professional, Content Guardian, Open Source Champion,
-    AWS Social Media Training, Amazon GitHub Training, Safety Ambassador, Lead with Empathy, Travel Security, AWS GameDay Training,
-    Inclusive Interviewing Training, Effective @Amazon, ECS Workshop Contributor, AWS Well Architected, Amazon Writing, Blog Bar Raiser,
-    SAP Technical Field Community Member, Linux Technical Field Community Founding Member, Container Technical Field Community Member
+  - AWS Technical Professional, AWS Well Architected, ECS Workshop Contributor, AWS GameDay Training,
+    Linux Technical Field Community Founding Member, Container Technical Field Community Member, SAP Technical Field Community Member,
+    Certified AWS Senior Speaker, Content Guardian, Open Source Champion, Amazon Writing, Blog Bar Raiser,
+    Making Great Hiring Decisions, Inclusive Interviewing Training, Safety Ambassador, Lead with Empathy,
+    AWS Social Media Training, Amazon GitHub Training, Travel Security, Effective @Amazon
 
   |
 
