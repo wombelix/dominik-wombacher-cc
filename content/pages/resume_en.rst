@@ -280,12 +280,6 @@ Job History
     Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE Security / NeuVector, AWS CDK, AWS SDK, TypeScript, Go, Python,
     Terraform / OpenTofu, Ansible, Bash scripting
 
-  | Amazon internal Trainings and Programs (Extract):
-
-  - AWS Technical Professional, AWS Well Architected, AWS GameDay Training,
-    Linux Technical Field Community Founding Member, Container Technical Field Community Member, 
-    SAP Technical Field Community Member, Certified AWS Senior Speaker, Content Guardian, Open Source Champion
-
   |
 
 .. raw:: pdf
