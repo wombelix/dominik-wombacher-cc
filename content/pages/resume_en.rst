@@ -16,7 +16,8 @@ Resume: Dominik Wombacher
 
 **Current Position**: Senior Partner Solutions Architect at Amazon Web Services.
 `Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_.
-You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ first to make things easier for both of us.
+You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ 
+first to make things easier for both of us.
 
 ----
 
@@ -274,18 +275,16 @@ Job History
   | Technologies, Products, Tools (Extract):
 
   - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC),
-    AWS Neuron, Amazon Bedrock, Amazon SageMaker, SUSE SLES 12 / 15, Red Hat 7 / 8 / 9 / 10, openSUSE Leap 15, openSUSE MicroOS, 
-    SUSE Manager 4 / Uyuni / SUSE Multi-Linux Manager 5, GitLab, Red Hat Ansible Automation Platform / AWX, Kubernetes, Rancher by SUSE, 
-    Red Hat OpenShift, K3s, RKE / RKE2, SUSE Security / NeuVector, AWS CDK, AWS SDK, TypeScript, Go, Python, Terraform / OpenTofu, 
-    Ansible, Bash scripting
+    AWS Neuron, Amazon Bedrock, Amazon SageMaker, SUSE SLES 12 / 15, Red Hat 7 / 8 / 9 / 10, openSUSE Leap 15, openSUSE MicroOS,
+    SUSE Manager 4 / Uyuni / SUSE Multi-Linux Manager 5, GitLab, Red Hat Ansible Automation Platform / AWX, Kubernetes,
+    Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE Security / NeuVector, AWS CDK, AWS SDK, TypeScript, Go, Python,
+    Terraform / OpenTofu, Ansible, Bash scripting
 
   | Amazon internal Trainings and Programs (Extract):
 
-  - AWS Technical Professional, AWS Well Architected, ECS Workshop Contributor, AWS GameDay Training,
-    Linux Technical Field Community Founding Member, Container Technical Field Community Member, SAP Technical Field Community Member,
-    Certified AWS Senior Speaker, Content Guardian, Open Source Champion, Amazon Writing, Blog Bar Raiser,
-    Making Great Hiring Decisions, Inclusive Interviewing Training, Safety Ambassador, Lead with Empathy,
-    AWS Social Media Training, Amazon GitHub Training, Travel Security, Effective @Amazon
+  - AWS Technical Professional, AWS Well Architected, AWS GameDay Training,
+    Linux Technical Field Community Founding Member, Container Technical Field Community Member, 
+    SAP Technical Field Community Member, Certified AWS Senior Speaker, Content Guardian, Open Source Champion
 
   |
 
@@ -326,13 +325,15 @@ Job History
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI,
-    SUSE SLES 12 / 15, Red Hat 7 / 8, Oracle Linux 7 / 8, openSUSE Leap 15, openSUSE MicroOS/ JeOS, Windows Server 2012 R2 / 2016,
-    SUSE Manager 4 / Uyuni, Red Hat Satellite 6, AWX, Gitea, Jenkins, iTop / TeemIP, TeamPass, NetBox, Observium, Grafana, Docker, Kubernetes,
-    NetApp SnapManager / SnapCenter (Oracle Database, SAP HANA Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
-    Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
-    Python, Ansible, Scripting (Bash, Powershell), F5 iRules, RPM Packaging, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
-    Microsoft Azure, Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint, BMC Control-M, Seal Systems Plossys
+  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster),
+    SAP HANA TDI,SUSE SLES 12 / 15, Red Hat 7 / 8, Oracle Linux 7 / 8, openSUSE Leap 15, openSUSE MicroOS/ JeOS,
+    Windows Server 2012 R2 / 2016, SUSE Manager 4 / Uyuni, Red Hat Satellite 6, AWX, Gitea, Jenkins, iTop / TeemIP,
+    TeamPass, NetBox, Observium, Grafana, Docker, Kubernetes, NetApp SnapManager / SnapCenter (Oracle Database,
+    SAP HANA Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL), Sophos Anti-Virus,
+    CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS, Python,
+    Ansible, Scripting (Bash, Powershell), F5 iRules, RPM Packaging, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
+    Microsoft Azure, Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint,
+    BMC Control-M, Seal Systems Plossys
 
   |
 
@@ -372,13 +373,13 @@ Job History
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI,
-    SUSE SLES 12 / 15, Red Hat 7, Oracle Linux 7, Windows Server 2012 R2 / 2016,
-    SUSE Manager 4 / Uyuni, Red Hat Satellite 6, Jenkins, iTop / TeemIP, TeamPass, Observium, Grafana,
-    NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
-    Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
-    Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
-    Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
+  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster),
+    SAP HANA TDI, SUSE SLES 12 / 15, Red Hat 7, Oracle Linux 7, Windows Server 2012 R2 / 2016, SUSE Manager 4 / Uyuni,
+    Red Hat Satellite 6, Jenkins, iTop / TeemIP, TeamPass, Observium, Grafana, NetApp SnapManager (Oracle Database),
+    Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL), Sophos Anti-Virus,
+    CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS, Python,
+    Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN, Jira,
+    Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
 
   |
 
@@ -501,8 +502,8 @@ Project History
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster), SAP HANA TDI,
-    SUSE SLES 11 / 12, Red Hat 7, Oracle Linux 7, Windows Server 2008 R2 / 2012 R2 / 2016,
+  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster)
+    SAP HANA TDI, SUSE SLES 11 / 12, Red Hat 7, Oracle Linux 7, Windows Server 2008 R2 / 2012 R2 / 2016,
     SUSE Manager 3, Red Hat Satellite 6, Jenkins, TeemIP, TeamPass, Observium,
     NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
     Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
