@@ -304,23 +304,25 @@ Job History
   |
   | Highlights:
 
-  - Ansible based Automation for Server and Storage provisioning and decomissioning
-  - Automation of reporting activities with Ansible, AWX and Java
-  - Transforming the Engineering Team towards DevOps methodology and GitOps mindset
-  - Development and maintenance of internal Web and CLI tools for re-occuring administrative tasks
+  - Led engineering team with dotted-line responsibility for additional team across Germany and Czech Republic
+  - Developed automation solutions in Python, Ansible, and Java for server provisioning and reporting workflows
+  - Transformed traditional infrastructure operations team toward automation and modern engineering practices
+  - Built internal web applications and CLI tools for operational efficiency and self-service capabilities
+  - Mentored engineers on programming, automation, and system architecture best practices
+  - Managed enterprise datacenter infrastructure including VMware, NetApp storage, and Cisco networking
+  - Served as escalation contact for critical infrastructure incidents and emergency support
+  - Drove cost optimization initiatives and infrastructure budget planning
 
   | Summary:
 
-  - Datacenter Infrastructure responsibility
-  - Lead of Engineering and Operations Team located in Germany and Czech Republic
-  - Support and coordinate global delivery units
-  - Acting as emergency support and escalation contact
-  - Mentoring, knowledge transfer and Documentation
-  - Insourcing, Budget Planning and Cost Optimization
-  - Configuration and Patch Management
-  - Automation and Development
-  - ITIL based Ticket and Incident handling
-  - Establishing and optimize operational processes
+  - Lead distributed engineering and operations team across Germany and Czech Republic
+  - Architect and develop automation solutions for complex infrastructure environments
+  - Transform traditional operations toward modern automation and engineering practices
+  - Mentor team members on programming, automation, and system architecture
+  - Manage enterprise infrastructure including virtualization, storage, and networking
+  - Serve as escalation contact for critical incidents and emergency support
+  - Balance hands-on technical work with strategic planning and team leadership
+  - Collaborate with global delivery units on process optimization and standardization
 
   | Technologies, Products, Tools:
 
