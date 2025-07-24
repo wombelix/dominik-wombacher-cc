@@ -173,50 +173,36 @@ Open Source
 ===========
 
 Open Source became an important part of my life.
-Following some communities and projects I'm most interested and involved in.
-Also an extract of recent code contributions and current projects I maintain or own.
+Following an extract of recent code contributions and projects I maintain or own.
 I host my code on `sr.ht <https://git.sr.ht/~wombelix>`_, with mirrors on
 `GitHub <https://github.com/wombelix>`_, `Gitlab <https://gitlab.com/wombelix>`_
 and `Codeberg <https://codeberg.org/wombelix>`_.
 
-**Communities**
-
-- `Pagure <https://pagure.io/pagure>`_ |
-  `Fedora <https://fedoraproject.org>`_ |
-  `openSUSE <https://opensuse.org>`_ |
-  `Rancher <https://github.com/rancher/>`_ |
-  `Uyuni Project <https://uyuni-project.org>`_ |
-  `Ansible <https://ansible.com>`_ |
-  `Pelican <https://getpelican.com>`_
 
 **Contributions**
 
 - `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
   `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
-  `Rancher Charts <https://github.com/rancher/charts>`_ |
-  `Uyuni Project (SUSE Manager Upstream) <https://github.com/uyuni-project/>`_ |
-  `Ansible Collection: Community General <https://github.com/ansible-collections/community.general>`_
+  `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_
 
 **Maintainer**
 
-- `Pagure - A hackable git centered forge <https://pagure.io/pagure>`_ |
-  `Fedora and EPEL packages <https://src.fedoraproject.org/user/wombelix/projects>`_ |
+- `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_ |
   `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_ |
   `SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
-  `Red Hat Enterprise Linux with High Availability on AWS <https://github.com/aws-ia/cfn-ps-red-hat-rhel-with-ha>`_ |
   `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_ |
   `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 
 **Own Projects**
 
-- `OpenTofu / Terraform Provider for sourcehut (sr.ht) <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
+- `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_ |
+  `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_ |
+  `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_ |
+  `OpenTofu / Terraform Provider for sourcehut (sr.ht) <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
   `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
   `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_ |
   `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_ |
-  `Flappy Mascot <https://github.com/wombelix/flappy-mascot>`_ |
-  `jDeepL - Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL/>`_ |
-  `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_ |
-  `Pelican Theme: xlii <https://github.com/wombelix/pelican-theme-xlii>`_
+  `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
 
 Public Speaking & Blogs
 =======================
