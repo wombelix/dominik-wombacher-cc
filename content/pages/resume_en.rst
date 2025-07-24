@@ -16,7 +16,7 @@ Resume: Dominik Wombacher
 
 **Current Position**: Senior Partner Solutions Architect at Amazon Web Services.
 `Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_.
-You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_ 
+You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_
 first to make things easier for both of us.
 
 ----
@@ -42,7 +42,7 @@ I have a strong background in **Architecture, Engineering and Operations**.
 **Adopting new Technologies** and **DevOps and DevSecOps paradigms** as well as **Automation**,
 **Programming** and **Mentorship** are an integral part of my work.
 
-I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**, 
+I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**,
 **Platform Engineering**, **Coding** and **Automation**.
 I know **multiple programming languages** and **dive deep into a new codebase quickly**.
 I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
@@ -568,6 +568,8 @@ Certifications
 
 `SUSE Badges <https://badges.suse.com/profile/dominik-wombacher/wallet>`_
 
+:04/2025: `GitHub Foundations
+          <{filename}/posts/certifications/github-foundations_en.rst>`_
 :03/2025: `SUSE Certified Deployment Specialist in SUSE Multi-Linux Manager
           <{filename}/posts/certifications/suse-certified-deployment-specialist-in-suse-multi-linux-manager_en.rst>`_
 :03/2025: `SUSE Certified Deployment Specialist in SUSE Edge
