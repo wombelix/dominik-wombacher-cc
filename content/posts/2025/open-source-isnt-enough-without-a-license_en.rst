@@ -16,26 +16,26 @@ Open Source isn't enough without a License
 :transid: open-source-isnt-enough-without-a-license
 :status: published
 
-The mere fact that source code is publicly available doesn't automatically make it "open source".
+Just because source code is publicly available doesn't automatically make it :code:`open source`.
 Without a proper license, that code exists in a legal grey area that can cause significant problems
 for anyone trying to use, modify, or contribute to it.
 
-I recently encountered a perfect example of this with the
-`Rancher Quickstart repository <https://github.com/rancher/quickstart>`__.
-This repository contains "Quickstart examples for the Rancher by SUSE product portfolio"
-but comes without any license whatsoever. This means the code is actually fully copyrighted
+A while back I encountered a perfect example of this with
+`Rancher Quickstart <https://github.com/rancher/quickstart>`__.
+This repository contains a lot of handy Terraform / OpenTofu code to deploy examples for the Rancher by SUSE product portfolio on various infrastructures / cloud providers.
+But it comes without any license whatsoever. This means the code is actually fully copyrighted
 and legally almost unusable, or at least exists in a very extreme grey area.
 
-The GitHub Terms and Conditions do provide some limited rights - they allow forking
-(creating a copy in your own GitHub account), which is exactly what I did with my
+The `GitHub Terms of Service <https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users>`__
+do provide some limited rights - they allow forking
+(creating a copy in your own GitHub account), of every public repo, which is exactly what I did with my
 `fork <https://github.com/wombelix/fork_rancher_quickstart>`__.
-This fork contains all my upstream pull requests that haven't been merged,
-largely due to the licensing issues of the original repository and because
-it appears to be essentially abandoned without active maintainers.
+This fork contains all my upstream pull requests that haven't been merged, either due to the licensing issues of the rancher quickstart repository and because
+it is essentially abandoned without active maintainers.
 
-To work around these limitations, I created a separate ``backports`` branch
+To work around these limitations, I created a separate :code:`backports` branch
 in my fork where I've collected various fixes and feature updates.
-I've released all my contributions under the MIT-0 license,
+I've released all my contributions under the `MIT-0 <https://opensource.org/license/mit-0>`__ license,
 giving people the freedom to use them however they want:
 
 .. code::
@@ -65,32 +65,16 @@ the fact that all this complexity is necessary demonstrates how crucial proper
 licensing is for open source projects. A license provides the legal framework
 that tells users what they can and can't do with the code.
 
-Without a license, even if the source code is publicly visible, users face uncertainty about:
-
-- Whether they can use the code in their own projects
-- If they can modify or distribute it
-- What happens if they contribute improvements back
-- Whether commercial use is permitted
-- What liability protections exist
-
-This legal ambiguity can prevent adoption, discourage contributions, and create
-compliance headaches for organizations that want to use the software.
-It's particularly problematic for enterprise users who need clear legal frameworks
-to assess risk and ensure compliance with their policies.
-
 The solution is straightforward: choose an appropriate open source license.
 Whether it's MIT, Apache 2.0, GPL, or any other OSI-approved license,
-having *some* license is infinitely better than having none.
-The license doesn't just protect users - it also protects the project maintainers
-by clearly defining the terms under which their work can be used.
+having *some* license is much better than having none.
 
 For the Rancher Quickstart repository, adding even a simple MIT or Apache 2.0 license
-would immediately resolve the legal uncertainty and make the code truly usable
+would immediately resolve the legal issues and make the code truly usable
 by the community it's intended to serve.
 
 Open source isn't just about making code visible - it's about making it legally
 accessible and usable. Without a proper license, you're not really doing open source,
-you're just publishing code with unclear legal status.
+you're just publishing code.
 
 If you maintain a public repository without a license, I encourage you to add one today.
-Your users (and your lawyers) will thank you for it.
