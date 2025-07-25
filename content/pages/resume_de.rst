@@ -6,7 +6,7 @@ Lebenslauf: Dominik Wombacher
 ##############################
 
 :date: 2025-07-24
-:modified: 2025-07-24
+:modified: 2025-07-25
 :description: Lebenslauf von Dominik Wombacher
 :slug: lebenslauf
 :author: Dominik Wombacher
@@ -139,9 +139,9 @@ Kernkompetenzen
 Berufsverlauf Übersicht
 =======================
 
-  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Okt 2022 - heute*
+  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Okt 2022 - Okt 2025*
 
-  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2020 - Okt 2022*
+  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2020 - Sep 2022*
 
   - **Lead Engineer Operations (L3)** | NTT | *Mär 2019 - Jul 2020*
 
@@ -243,7 +243,7 @@ Auszug aktueller virtueller und persönlicher Public Speaking Engagements und Bl
 Berufsverlauf
 =============
 
-**Oktober 2022 - heute**
+**Oktober 2022 - Oktober 2025**
 
   | Position: Sr. Partner Solutions Architect (SA III, L6) - Linux (SUSE & Red Hat) | Festanstellung
   | Unternehmen: Amazon Web Services (AWS) | Remote

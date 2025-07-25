@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2025-07-24
+:modified: 2025-07-25
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -139,9 +139,9 @@ Key Skills
 Job History Summary
 ===================
 
-  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Oct 2022 - present*
+  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Oct 2022 - Oct 2025*
 
-  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2020 - Oct 2022*
+  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2020 - Sep 2022*
 
   - **Lead Engineer Operations (L3)** | NTT | *Mar 2019 - Jul 2020*
 
@@ -243,7 +243,7 @@ Extract of recent virtual and in-person public speaking engagements and Blogs.
 Job History
 ===========
 
-**October 2022 - present**
+**October 2022 - October 2025**
 
   | Position: Sr. Partner Solutions Architect (SA III, L6) - Linux (SUSE & Red Hat) | Permanent
   | Company: Amazon Web Services (AWS) | Remote
