@@ -10,10 +10,10 @@ AWS Neuron Kernel Modules on OpenShift with KMM
 :tags: AWS, OpenShift, AI/ML, Neuron, KMM, Kubernetes, RedHat
 :description: How I built automated tooling for AWS Neuron kernel modules on Red Hat OpenShift using KMM
 :category: Code
-:slug: building-kernel-modules-for-ai-workloads-on-openshift
+:slug: aws-neuron-kernel-modules-on-openshift-with-kmm
 :author: Dominik Wombacher
 :lang: en
-:transid: building-kernel-modules-for-ai-workloads-on-openshift
+:transid: aws-neuron-kernel-modules-on-openshift-with-kmm
 :status: published
 
 As part of my work at AWS, I've been diving deep into running AI/ML
