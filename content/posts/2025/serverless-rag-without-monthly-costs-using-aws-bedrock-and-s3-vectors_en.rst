@@ -3,7 +3,7 @@
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
 Serverless RAG without monthly costs using AWS Bedrock and S3 Vectors
-####################################################################
+#####################################################################
 
 :date: 2025-07-30
 :modified: 2025-07-30
@@ -25,8 +25,7 @@ exactly what I was looking for.
 
 Part of the 
 `S3 Vectors announcement <https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/>`_
-was that it can be used as a vector store in
-`AWS Bedrock Knowledge Base <https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html>`_
+was that it can be used as a vector store in AWS Bedrock Knowledge Base
 too, which made it even more interesting. This combination could potentially
 solve the cost challenge I was facing with traditional vector databases that
 come with monthly fees regardless of usage.
