@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2025-07-24
+:modified: 2025-07-31
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -37,7 +37,7 @@ Especially messages like *"I have multiple job opportunities"* or
 Are you interested changing your job?
 =====================================
 
-**Flexible**, I am casually looking.
+**Immediately**, I am actively applying.
 
 ----
 

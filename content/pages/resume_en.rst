@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2025-07-25
+:modified: 2025-07-31
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -14,7 +14,6 @@ Resume: Dominik Wombacher
 :transid: resume
 :status: published
 
-**Current Position**: Senior Partner Solutions Architect at Amazon Web Services.
 `Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_.
 You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_
 first to make things easier for both of us.
