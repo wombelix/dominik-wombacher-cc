@@ -36,10 +36,9 @@ packages. Second,
 the repository where the extracted source code gets published, with
 mirrors on GitHub, GitLab, and Codeberg.
 
-The `aws-neuron-driver-publish-source` tool handles the extraction
-workflow: download repository metadata and rpms from
-yum.repos.neuron.amazonaws.com, verify GPG signatures and SHA256
-checksums, extract source code from RPM packages, and create git
+The `aws-neuron-driver-publish-source` tool downloads repository metadata
+and rpms from yum.repos.neuron.amazonaws.com, verifies GPG signatures and
+SHA256 checksums, extracts source code from RPM packages, and create git
 commits with package metadata and release notes when available.
 
 The verification happens at two levels. GPG signatures are checked on
