@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2025-07-31
+:modified: 2025-08-13
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -31,10 +31,11 @@ About me
 To be at my best, **I need complex technical problems and challenges**
 where I can bring in my **20+ years of experience as a technology generalist**.
 I'm an **Open Source Enthusiast and Contributor**. A **Passionate Engineer**
-with a strong **hands-on mentality**. A **problem solver**, **experienced Architect**
-and **People Manager**. A **Leader** who takes **Ownership** and is always eager to
-**learn and adapt**. **My core strength** is the ability to **work equally at strategic and operational levels**.
-**Seamlessly transitioning from** **big-picture strategy** down to **technical implementation** details.
+with a strong **hands-on mentality**. A **problem solver**, **experienced Solutions Architect**
+and **People Manager**. I **translate complex business challenges into robust technical solutions**,
+seamlessly transitioning from **big-picture strategy and technical design** down to **hands-on technical implementation** details.
+A Leader who takes **Ownership** and is always eager to **learn and adapt**.
+**My core strength** is the ability to **work equally at strategic and operational levels**.
 
 My **professional career started in 2002** and has always been **IT focused**.
 I have a strong background in **Architecture, Engineering and Operations**.
@@ -178,11 +179,28 @@ I host my code on `sr.ht <https://git.sr.ht/~wombelix>`_, with mirrors on
 `GitHub <https://github.com/wombelix>`_, `Gitlab <https://gitlab.com/wombelix>`_
 and `Codeberg <https://codeberg.org/wombelix>`_.
 
+**Key Contributions**
 
-**Contributions**
+- `pagure (2022-2025) <https://pagure.io/pagure>`_:
+  Contributor and later Maintainer for
+  `almost 3 years <{filename}/posts/2025/stepping-down-as-pagure-maintainer_en.rst>`_.
+  I've led efforts to revive the project, fixing bugs, updating dependencies,
+  addressing critical CVEs and releasing new versions. I did deep technical
+  troubleshooting and code reviews in a challenging legacy codebase environment.
+  Started the work on Kubernetes deployment for pagure and the re-design of the
+  ci plugin system to allow integrations beyond Jenkins.
+
+- `Packaging for Fedora, EPEL (2024-2025) <{tag}Packaging>`_:
+  I Maintained and contributed to various AWS-related packages in Fedora and EPEL.
+  This involved adopting orphaned packages, creating new packages, updating to
+  new upstream versions, backporting patches and ensuring compatibility with
+  distribution-specifics.
+
+**Contributor**
 
 - `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
   `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
+  `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_ |
   `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_
 
 **Maintainer**
@@ -198,10 +216,13 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 - `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_ |
   `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_ |
   `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_ |
-  `OpenTofu / Terraform Provider for sourcehut (sr.ht) <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
+  `OpenTofu / Terraform Provider for sourcehut - sr.ht <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
+  `sourcehut-go: A Go SDK for accessing the sourcehut legacy REST API <https://github.com/wombelix/sourcehut-go>`_ |
   `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
   `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_ |
   `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_ |
+  `jDeepl: Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL>`_ |
+  `Custom Pelican Theme with some retro charm from back in the CRT terminal days <https://github.com/wombelix/pelican-theme-xlii>`_ |
   `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
 
 Public Speaking & Blogs

@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2025-07-31
+:modified: 2025-08-13
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -58,11 +58,12 @@ As much details and context as possible, for example:
 What Positions are you looking for?
 ===================================
 
-I prefer **Engineering** Positions with a healthy **hands-on** portion and
-**active involvement** in the **daily business** and **technical doing**.
+I'm seeking **Principal, Staff, or other senior-level Positions** that offer a healthy **hands-on** portion and
+**active involvement** in the **daily technical doing** and **solution design**.
 
-Depending on the individual job description, Positions as **Lead Engineer**, **Technical Lead**,
-**Principal Engineer**, **Distinguished Engineer** or **Staff Engineer** can be a fit.
+Roles such as **Solutions Architect**, **Cloud Architect**, **AWS Architect**, **DevOps Engineer**,
+**Cloud Engineer**, **Platform Engineer**, **Site Reliability Engineer (SRE)**, **Technical Lead**,
+or **Lead Engineer** can be a good fit, depending on the individual job description.
 
 I'm mainly interested in opportunities as **Individual Contributor**.
 I consider a Role as **Manager** only when I can **Lead an Engineering Team**.
@@ -72,8 +73,8 @@ I consider a Role as **Manager** only when I can **Lead an Engineering Team**.
 What Positions are you **not** looking for?
 ===========================================
 
-I'm **not** looking for **non-technical Management**, **Account Team**, or **Business Development**
-positions that are **purely focused on Business or Sales**.
+I'm **not** looking for roles **without significant technical involvement**, such as
+**Management**, **Account Management**, or **Business Development** positions.
 
 I'm also not interested in roles that are primarily **project management**
 or **vendor management** without hands-on technical involvement.
