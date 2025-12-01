@@ -33,7 +33,7 @@ where I can bring in my **20+ years of experience as a technology generalist**.
 I'm an **Open Source Enthusiast and Contributor**. A **Passionate Engineer**
 with a strong **hands-on mentality**. A **problem solver** and **experienced Solutions Architect**.
 I **translate complex business challenges into robust technical solutions**,
-seamlessly transitioning from **big-picture strategy and technical design** down to **hands-on technical implementation** details.
+seamlessly transitioning from **big-picture strategy** to **hands-on implementation**.
 An engineer who takes **Ownership** and is always eager to **learn and adapt**.
 **My core strength** is the ability to **work equally at strategic and operational levels**.
 
@@ -46,11 +46,10 @@ I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**,
 **Platform Engineering**, **Coding** and **Automation**.
 I know **multiple programming languages** and **dive deep into a new codebase quickly**.
 I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
-I'm a **generalist** with a very **broad skill set** and **deep technical expertise**. I would describe myself as an
+I'm a **generalist** with **broad skills** and **deep technical expertise**. An
 **expert engineer** and **intermediate software developer** who prefers **technical implementation over business presentations**.
 
-**Learning and Development** is important for me, **technical trainings and certifications**
-allow me to **improve and validate my skills**. In recent years, I have earned **18x SUSE**,
+**Learning and Development** is important for me. I have earned **18x SUSE**,
 **7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
 
@@ -163,7 +162,6 @@ Contact
 :Address: Sonnenblick 34, 36251 Bad Hersfeld, Germany
 :Website: https://dominik.wombacher.cc
 :Email: dominik@wombacher.cc
-:Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
 :LinkedIn: `dominik-wombacher <https://www.linkedin.com/in/dominik-wombacher/>`_
 :Github: `wombelix <https://github.com/wombelix>`_
 :Languages: English (fluent), German (native)
@@ -304,6 +302,8 @@ Job History
 .. raw:: pdf
 
   PageBreak
+
+----
 
 **October 2022 - October 2025**
 
