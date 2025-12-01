@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2025-08-13
+:modified: 2025-12-01
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -58,26 +58,61 @@ As much details and context as possible, for example:
 What Positions are you looking for?
 ===================================
 
-I'm seeking **Principal, Staff, or other senior-level Positions** that offer a healthy **hands-on** portion and
-**active involvement** in the **daily technical doing** and **solution design**.
+I'm seeking **Principal, Staff, and Distinguished-level Engineering Positions** that offer **deep hands-on technical work**
+and **active involvement** in **coding, system design, and technical implementation**.
 
-Roles such as **Solutions Architect**, **Cloud Architect**, **AWS Architect**, **DevOps Engineer**,
-**Cloud Engineer**, **Platform Engineer**, **Site Reliability Engineer (SRE)**, **Technical Lead**,
-or **Lead Engineer** can be a good fit, depending on the individual job description.
+Specifically, I'm interested in roles such as:
 
-I'm mainly interested in opportunities as **Individual Contributor**.
-I consider a Role as **Manager** only when I can **Lead an Engineering Team**.
+- **Principal Engineer**
+- **Distinguished Engineer**
+- **Staff Engineer**
+- **Senior Staff Engineer**
+- **Lead Engineer**
+
+Other roles like **DevOps Engineer**, **Cloud Engineer**, **Platform Engineer**, or **Site Reliability Engineer (SRE)**
+can also be a good fit at **Principal/Staff level** or equivalent seniority.
+
+**Solutions Architect** roles can work if they involve significant **hands-on technical implementation**
+rather than primarily presentations and sales support.
+
+I'm **exclusively** interested in opportunities as **Individual Contributor**.
+I am **not** considering management roles at this time.
 
 ----
 
 What Positions are you **not** looking for?
 ===========================================
 
-I'm **not** looking for roles **without significant technical involvement**, such as
-**Management**, **Account Management**, or **Business Development** positions.
+I'm **not** looking for roles **without significant hands-on technical involvement**, such as:
 
-I'm also not interested in roles that are primarily **project management**
-or **vendor management** without hands-on technical involvement.
+- **Management** or **People Management** positions
+- **Pre-Sales**, **Sales Engineering**, or **Go-to-Market** roles
+- **Account Management**, **Business Development**, or **Customer Success** positions
+- **Project Management** or **Vendor Management** without technical implementation
+- **Solution Architecture** roles focused primarily on **presentations and sales support**
+- Any role where the primary focus is **business development** rather than **technical engineering**
+
+I prefer **building and implementing solutions** over **presenting and selling them**.
+
+----
+
+What makes a role appealing to me?
+==================================
+
+I'm looking for roles where I can:
+
+- **Write code** and **implement technical solutions** on a regular basis
+- **Design system architectures** and **make technical decisions**
+- **Troubleshoot complex technical problems** and **debug systems**
+- **Work with cutting-edge technologies** and **contribute to open source projects**
+- **Mentor other engineers** through **technical guidance** rather than management
+- **Automate processes** and **optimize system performance**
+
+I work best in environments that value **technical depth** over **business presentations**.
+
+**Note**: While I'm currently in a Solution Architect role, I'm actively seeking to transition
+back to **hands-on engineering positions** where I can focus on **technical implementation**
+rather than sales and go-to-market activities.
 
 ----
 
