@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2025-08-13
+:modified: 2025-12-01
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -31,10 +31,10 @@ About me
 To be at my best, **I need complex technical problems and challenges**
 where I can bring in my **20+ years of experience as a technology generalist**.
 I'm an **Open Source Enthusiast and Contributor**. A **Passionate Engineer**
-with a strong **hands-on mentality**. A **problem solver**, **experienced Solutions Architect**
-and **People Manager**. I **translate complex business challenges into robust technical solutions**,
+with a strong **hands-on mentality**. A **problem solver** and **experienced Solutions Architect**.
+I **translate complex business challenges into robust technical solutions**,
 seamlessly transitioning from **big-picture strategy and technical design** down to **hands-on technical implementation** details.
-A Leader who takes **Ownership** and is always eager to **learn and adapt**.
+An engineer who takes **Ownership** and is always eager to **learn and adapt**.
 **My core strength** is the ability to **work equally at strategic and operational levels**.
 
 My **professional career started in 2002** and has always been **IT focused**.
@@ -46,8 +46,8 @@ I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**,
 **Platform Engineering**, **Coding** and **Automation**.
 I know **multiple programming languages** and **dive deep into a new codebase quickly**.
 I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
-I'm a **generalist** with a very **broad skill set**. I would describe myself as an
-**expert engineer** and **intermediate software developer**.
+I'm a **generalist** with a very **broad skill set** and **deep technical expertise**. I would describe myself as an
+**expert engineer** and **intermediate software developer** who prefers **technical implementation over business presentations**.
 
 **Learning and Development** is important for me, **technical trainings and certifications**
 allow me to **improve and validate my skills**. In recent years, I have earned **18x SUSE**,
@@ -107,22 +107,22 @@ Key Skills
      - Skills & Leadership
    * - SUSE Linux Enterprise Server
      - Fluent Bit
-     - Solution Architecture
+     - Technical Architecture
    * - Red Hat Enterprise Linux
      - Prometheus
      - DevSecOps
    * - openSUSE
      - Grafana
-     - Technical Leadership
+     - Deep Technical Troubleshooting
    * - Fedora
      - AWS CloudWatch
      - Site Reliability Engineering
    * - Debian and Ubuntu
      - AWS CloudTrail
-     - Communication
+     - Code Review & Analysis
    * - FreeBSD
      -
-     - Team Management
+     - Technical Mentorship
 
 .. list-table::
    :width: 100%
@@ -138,6 +138,8 @@ Key Skills
 
 Job History Summary
 ===================
+
+  - **Solution Architect** | SUSE | *Nov 2025 - Present*
 
   - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Oct 2022 - Oct 2025*
 
@@ -262,6 +264,46 @@ Extract of recent virtual and in-person public speaking engagements and Blogs.
 
 Job History
 ===========
+
+**November 2025 - Present**
+
+  | Position: Solution Architect | Permanent
+  | Company: SUSE | Remote
+  | Sector: Enterprise Linux & Cloud Native Solutions
+  |
+  | Highlights:
+
+  - Provide technical advisory services for key customers and partners in DACH region, focusing on Public Sector and MSP
+  - Lead technical validation through architectural workshops and hands-on Proofs of Concept
+  - Architect enterprise-grade, cloud-native solutions using SUSE's portfolio including SLES, Rancher, and SUSE Security
+  - Develop technical responses and reference architectures for complex customer requirements
+  - Evaluate technical solutions and analyze system architectures for optimal implementation
+  - Contribute to technical documentation, presentations, and industry conference participation
+  - Mentor technical peers and contribute to internal technical education and best practices
+  - Collaborate with engineering teams and customer technical teams on solution implementation
+
+  | Summary:
+
+  - Translate complex technical requirements to Product Management and Engineering teams
+  - Provide technical feedback to influence product roadmaps based on field experience
+  - Bridge technical requirements between customer needs and product development teams
+  - Engage with technical stakeholders across enterprise Linux, cloud-native, and security solution domains
+  - Ensure technical excellence and deep understanding of enterprise system requirements
+  - Support technical implementation through comprehensive guidance and hands-on troubleshooting
+
+  | Technologies, Products, Tools (Extract):
+
+  - SUSE Linux Enterprise Server (SLES), Rancher (Kubernetes Management), SUSE Security (NeuVector),
+    SUSE Multi-Linux Manager (SUSE Manager), Kubernetes, K3s, RKE2, Container Security, Enterprise Linux,
+    Cloud Native Infrastructure, Technical Architecture, System Integration, Reference Architectures,
+    Proof of Concept Development, Technical Requirements Analysis, System Performance Analysis,
+    Technical Documentation, Technical Mentorship
+
+  |
+
+.. raw:: pdf
+
+  PageBreak
 
 **October 2022 - October 2025**
 
