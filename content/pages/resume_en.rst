@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2025-12-01
+:modified: 2026-01-14
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -28,9 +28,16 @@ first to make things easier for both of us.
 About me
 ========
 
+I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**,
+**Platform Engineering**, **Coding** and **Automation**.
+I've built software in **Go and Python** and **dive deep into new codebases quickly**.
+I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
+I'm a **generalist** with **broad skills** and **deep technical expertise**. An
+**engineer who writes code** and **understands systems deeply**, preferring **technical implementation over business presentations**.
+
 To be at my best, **I need complex technical problems and challenges**
 where I can bring in my **20+ years of experience as a technology generalist**.
-I'm an **Open Source Enthusiast and Contributor**. A **Passionate Engineer**
+I'm an **Open Source Maintainer and Contributor**. A **Passionate Engineer**
 with a strong **hands-on mentality**. A **problem solver** and **experienced Solutions Architect**.
 I **translate complex business challenges into robust technical solutions**,
 seamlessly transitioning from **big-picture strategy** to **hands-on implementation**.
@@ -42,13 +49,6 @@ I have a strong background in **Architecture, Engineering and Operations**.
 **Adopting new Technologies** and **DevOps and DevSecOps paradigms** as well as **Automation**,
 **Programming** and **Mentorship** are an integral part of my work.
 
-I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**,
-**Platform Engineering**, **Coding** and **Automation**.
-I know **multiple programming languages** and **dive deep into a new codebase quickly**.
-I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
-I'm a **generalist** with **broad skills** and **deep technical expertise**. An
-**expert engineer** and **intermediate software developer** who prefers **technical implementation over business presentations**.
-
 **Learning and Development** is important for me. I have earned **18x SUSE**,
 **7x AWS**, **3x Kubernetes**, **5x Red Hat**, **2x Linux**, **2x Azure** and **5x SAP certified**.
 With a **track record** of **more than 70 technical certifications** throughout my career.
@@ -59,21 +59,6 @@ With a **track record** of **more than 70 technical certifications** throughout 
 
 Key Skills
 ==========
-
-.. list-table::
-   :width: 100%
-   :widths: 33 33 33
-   :header-rows: 1
-
-   * - Cloud
-     - Automation
-     - Infrastructure as Code (IaC)
-   * - Amazon Web Services (AWS)
-     - Ansible
-     - OpenTofu / Terraform
-   * - Microsoft Azure
-     - AWX / AAP
-     - AWS CloudFormation and CDK
 
 .. list-table::
    :width: 100%
@@ -95,6 +80,21 @@ Key Skills
    * - Java
      - ArgoCD
      - OpenShift
+
+.. list-table::
+   :width: 100%
+   :widths: 33 33 33
+   :header-rows: 1
+
+   * - Cloud
+     - Automation
+     - Infrastructure as Code (IaC)
+   * - Amazon Web Services (AWS)
+     - Ansible
+     - OpenTofu / Terraform
+   * - Microsoft Azure
+     - AWX / AAP
+     - AWS CloudFormation and CDK
 
 .. list-table::
    :width: 100%
@@ -184,11 +184,11 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 - `pagure (2022-2025) <https://pagure.io/pagure>`_:
   Contributor and later Maintainer for
   `almost 3 years <{filename}/posts/2025/stepping-down-as-pagure-maintainer_en.rst>`_.
-  I've led efforts to revive the project, fixing bugs, updating dependencies,
-  addressing critical CVEs and releasing new versions. I did deep technical
-  troubleshooting and code reviews in a challenging legacy codebase environment.
-  Started the work on Kubernetes deployment for pagure and the re-design of the
-  ci plugin system to allow integrations beyond Jenkins.
+  Led development efforts to revive the project, fixing bugs, updating dependencies,
+  addressing critical CVEs and releasing new versions. Deep technical
+  troubleshooting and code reviews in legacy Python/Flask codebase.
+  Kubernetes deployment architecture and CI plugin system redesign
+  for integrations beyond Jenkins.
 
 - `Packaging for Fedora, EPEL (2024-2025) <{tag}Packaging>`_:
   I Maintained and contributed to various AWS-related packages in Fedora and EPEL.
@@ -196,16 +196,13 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
   new upstream versions, backporting patches and ensuring compatibility with
   distribution-specifics.
 
-**Contributor**
+**Contributions**
 
 - `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
   `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
   `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_ |
-  `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_
-
-**Maintainer**
-
-- `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_ |
+  `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_ |
+  `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_ |
   `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_ |
   `SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
   `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_ |
@@ -213,12 +210,17 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 
 **Own Projects**
 
-- `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_ |
-  `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_ |
-  `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_ |
+*Golang*
+
+- `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_ |
   `OpenTofu / Terraform Provider for sourcehut - sr.ht <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
   `sourcehut-go: A Go SDK for accessing the sourcehut legacy REST API <https://github.com/wombelix/sourcehut-go>`_ |
   `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
+  `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_
+
+*Infrastructure & Tools*
+
+- `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_ |
   `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_ |
   `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_ |
   `jDeepl: Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL>`_ |
@@ -244,7 +246,7 @@ Extract of recent virtual and in-person public speaking engagements and Blogs.
   `SUSECON 23, Munich Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
   `openSUSE Conference 2023, Nuremberg Germany - openSUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
   `openSUSE Conference 2023, Nuremberg Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
-  `Red Hat Summit Connect 2023, Utrecht Netherlands - Red Hat Openshift Service on AWS <https://www.redhat.com/en/summit/connect/emea/utrecht-2023>`_ |
+  Red Hat Summit Connect 2023, Utrecht Netherlands - Red Hat Openshift Service on AWS |
   SUSECON 24, Berlin Germany - NeuVector Integration into AWS CodePipeline CI/CD Workflow |
   `openSUSE Community Summit, Berlin Germany - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_ |
   `openSUSE Conference 2024, Nuremberg Germany - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_ |
@@ -271,14 +273,14 @@ Job History
   |
   | Highlights:
 
-  - Provide technical advisory services for key customers and partners in DACH region, focusing on Public Sector and MSP
   - Lead technical validation through architectural workshops and hands-on Proofs of Concept
   - Architect enterprise-grade, cloud-native solutions using SUSE's portfolio including SLES, Rancher, and SUSE Security
+  - Collaborate with engineering teams and customer technical teams on solution implementation
   - Develop technical responses and reference architectures for complex customer requirements
   - Evaluate technical solutions and analyze system architectures for optimal implementation
   - Contribute to technical documentation, presentations, and industry conference participation
   - Mentor technical peers and contribute to internal technical education and best practices
-  - Collaborate with engineering teams and customer technical teams on solution implementation
+  - Provide technical advisory services for key customers and partners in DACH region, focusing on Public Sector and MSP
 
   | Summary:
 
@@ -314,13 +316,13 @@ Job History
   | Highlights:
 
   - Maintain open-source AWS integration projects including workshops, samples, and AI/ML Neuron tooling
-  - Programming third-party integrations with AWS Services in Golang, Python and TypeScript
-  - Infrastructure Automation with AWS CloudFormation, AWS CDK and OpenTofu / Terraform
-  - Delivered technical presentations at industry conferences (KubeCon, SUSECON, Red Hat Summit)
-  - Developed security integration examples for AWS CI/CD pipelines and container vulnerability scanning
-  - Packaged and maintained AWS Software for openSUSE, Fedora and EPEL distributions
-  - Contributed features and bugfixes to upstream open source projects
-  - Published and contributed to technical blogs on AWS and SUSE integration topics
+  - Program third-party integrations with AWS Services in Go, Python and TypeScript
+  - Package and maintain AWS Software for openSUSE, Fedora and EPEL distributions
+  - Build infrastructure automation with AWS CloudFormation, AWS CDK and OpenTofu / Terraform
+  - Develop security integration examples for AWS CI/CD pipelines and container vulnerability scanning
+  - Contribute features and bugfixes to upstream open source projects
+  - Deliver technical presentations at industry conferences (KubeCon, SUSECON, Red Hat Summit)
+  - Publish technical blogs on AWS and SUSE integration topics
 
   | Summary:
 
