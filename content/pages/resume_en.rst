@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-01-14
+:modified: 2026-01-20
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -33,7 +33,8 @@ I'm passionate about **Linux**, **Kubernetes**, **Cloud Native Infrastructure**,
 I've built software in **Go and Python** and **dive deep into new codebases quickly**.
 I systematically **troubleshoot issues and debug code** and prefer to **automate re-occurring tasks**.
 I'm a **generalist** with **broad skills** and **deep technical expertise**. An
-**engineer who writes code** and **understands systems deeply**, preferring **technical implementation over business presentations**.
+**engineer who writes code** and **understands systems deeply**, preferring
+**technical implementation over business presentations**.
 
 To be at my best, **I need complex technical problems and challenges**
 where I can bring in my **20+ years of experience as a technology generalist**.
@@ -179,35 +180,6 @@ I host my code on `sr.ht <https://git.sr.ht/~wombelix>`_, with mirrors on
 `GitHub <https://github.com/wombelix>`_, `Gitlab <https://gitlab.com/wombelix>`_
 and `Codeberg <https://codeberg.org/wombelix>`_.
 
-**Key Contributions**
-
-- `pagure (2022-2025) <https://pagure.io/pagure>`_:
-  Contributor and later Maintainer for
-  `almost 3 years <{filename}/posts/2025/stepping-down-as-pagure-maintainer_en.rst>`_.
-  Led development efforts to revive the project, fixing bugs, updating dependencies,
-  addressing critical CVEs and releasing new versions. Deep technical
-  troubleshooting and code reviews in legacy Python/Flask codebase.
-  Kubernetes deployment architecture and CI plugin system redesign
-  for integrations beyond Jenkins.
-
-- `Packaging for Fedora, EPEL (2024-2025) <{tag}Packaging>`_:
-  I Maintained and contributed to various AWS-related packages in Fedora and EPEL.
-  This involved adopting orphaned packages, creating new packages, updating to
-  new upstream versions, backporting patches and ensuring compatibility with
-  distribution-specifics.
-
-**Contributions**
-
-- `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
-  `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
-  `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_ |
-  `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_ |
-  `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_ |
-  `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_ |
-  `SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
-  `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_ |
-  `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
-
 **Own Projects**
 
 *Golang*
@@ -226,6 +198,37 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
   `jDeepl: Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL>`_ |
   `Custom Pelican Theme with some retro charm from back in the CRT terminal days <https://github.com/wombelix/pelican-theme-xlii>`_ |
   `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
+
+**Key Contributions**
+
+- `pagure (2022-2025) <https://pagure.io/pagure>`_:
+  Contributor and later Maintainer for
+  `almost 3 years <{filename}/posts/2025/stepping-down-as-pagure-maintainer_en.rst>`_.
+  Led development efforts to revive the project, fixing bugs, updating dependencies,
+  addressing critical CVEs and releasing new versions. Deep technical
+  troubleshooting and code reviews in legacy Python/Flask codebase.
+  Kubernetes deployment architecture and CI plugin system redesign
+  for integrations beyond Jenkins.
+
+- `Packaging for Fedora, EPEL (2024-2025) <{tag}Packaging>`_:
+  I Maintained and contributed to AWS-related packages in Fedora and EPEL.
+  This involved adopting orphaned and creating new packages, updating to
+  new upstream versions, backporting patches and ensuring compatibility.
+
+**Contributions**
+
+- `Demo: Rancher on IONOS Cloud <https://github.com/SUSE-Technical-Marketing/demo-rancher-on-ionos-cloud>`_ |
+  `Harvester UI Extension <https://github.com/harvester/harvester-ui-extension>`_ |
+  `TF-RANCHER-UP <https://github.com/rancher/tf-rancher-up>`_ |
+  `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_ |
+  `AWS Neuron GPU Operator for OpenShift <https://github.com/awslabs/operator-for-ai-chips-on-aws>`_ |
+  `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
+  `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
+  `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_ |
+  `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_ |
+  `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_ |
+  `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_ |
+  `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 
 Public Speaking & Blogs
 =======================
@@ -254,7 +257,8 @@ Extract of recent virtual and in-person public speaking engagements and Blogs.
 
 **Blogs**
 
-- `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_ |
+- `Deploy Rancher Prime on IONOS Cloud <https://www.suse.com/c/deploy-suse-rancher-prime-on-ionos-cloud/>`_ |
+  `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_ |
   `Protect AWS CodePipeline CI/CD workflows with SUSE Security <https://www.suse.com/c/protect-aws-codepipeline-ci-cd-workflows-with-suse-security/>`_ |
   `The Wombelix Post <https://dominik.wombacher.cc/posts/index.html>`_
 
