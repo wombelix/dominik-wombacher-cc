@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-01-25
+:modified: 2026-01-26
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -28,27 +28,80 @@ first to make things easier for both of us.
 About me
 ========
 
-I'm a **problem solver with over 25 years of experience** operating across the entire infrastructure stack. I thrive on complex technical challenges that require understanding the big picture while debugging the details. **I see patterns others miss. I connect dots across technologies. I figure things out.**
+I'm a **problem solver with over 25 years of experience** operating across
+the entire infrastructure stack. I thrive on complex technical challenges
+that require understanding the big picture while debugging the details.
+**I see patterns others miss. I connect dots across technologies. I figure
+things out.**
 
-**I operate across infrastructure, systems, and code.** At NTT, I was responsible for **over 1000 Linux systems, hundreds of Windows systems, and complete datacenter infrastructure across two locations**: network, firewall, load balancers, BGP routing, storage, virtualization, operating systems. I troubleshoot production incidents from network packets to application code. I reverse-engineer systems when documentation falls behind development. I build automation that reduces manual work and helps teams scale. Throughout my career, I've gone on-site to run cables, replace hardware, or handle maintenance when needed. **I do what's necessary to get systems running.**
+**I operate across infrastructure, systems, and code.** At NTT, I was
+responsible for **over 1000 Linux systems, hundreds of Windows systems, and
+complete datacenter infrastructure across two locations**: network, firewall,
+load balancers, BGP routing, storage, virtualization, operating systems. I
+troubleshoot production incidents from network packets to application code.
+I reverse-engineer systems when documentation falls behind development. I
+build automation that reduces manual work and helps teams scale. Throughout
+my career, I've gone on-site to run cables, replace hardware, or handle
+maintenance when needed. **I do what's necessary to get systems running.**
 
-**I write code to solve operational problems.** Backup reporting at NTT consumed hours of manual effort daily. I built Python automation that reduced it to minutes and shifted the team from reactive to proactive. Storage decommissioning required specialized expertise. I created tools that enabled junior engineers to handle the work independently. For SUSE's AWS security competency, I figured out Fluent Bit's plugin system, wrote a Go plugin to push security logs to AWS CloudTrail Lake, created a Helm chart, built the CI/CD pipeline, and released everything as open source. The solution helped SUSE achieve the competency.
+**I write code to solve operational problems.** Backup reporting at NTT
+consumed hours of manual effort daily. I built Python automation that
+reduced it to minutes and shifted the team from reactive to proactive.
+Storage decommissioning required specialized expertise. I created tools that
+enabled junior engineers to handle the work independently. For SUSE's AWS
+security competency, I figured out Fluent Bit's plugin system, wrote a Go
+plugin to push security logs to AWS CloudTrail Lake, created a Helm chart,
+built the CI/CD pipeline, and released everything as open source. The
+solution helped SUSE achieve the competency.
 
-**I dive into unfamiliar territory and deliver solutions.** At AWS, I worked backwards from NeuVector source code to figure out undocumented integration patterns with CodePipeline. After sharing this at conferences, people told me they had been trying to implement it for months. I built an OpenShift operator for AWS Neuron with Red Hat engineers, learning their patterns for GPU operators. I created automated builds for kernel modules across a matrix of OpenShift releases. I contributed to Fedora and EPEL packaging, learning RPM packaging and community processes.
+**I dive into unfamiliar territory and deliver solutions.** At AWS, I worked
+backwards from NeuVector source code to figure out undocumented integration
+patterns with CodePipeline. After sharing this at conferences, people told
+me they had been trying to implement it for months. I built an OpenShift
+operator for AWS Neuron with Red Hat engineers, learning their patterns for
+GPU operators. I created automated builds for kernel modules across a matrix
+of OpenShift releases. I contributed to Fedora and EPEL packaging, learning
+RPM packaging and community processes.
 
-**I maintain complex legacy codebases.** I was a maintainer of pagure for almost 3 years, working through thousands of lines of Python/Flask code written by multiple contributors over years. I fixed critical CVEs, shipped releases, and did my part to keep the project alive. I contributed to Uyuni, working across Java, Python, and Go. **I read and understand code in multiple languages to find problems and fix them.**
+**I maintain complex legacy codebases.** I was a maintainer of pagure for
+almost 3 years, working through thousands of lines of Python/Flask code
+written by multiple contributors over years. I fixed critical CVEs, shipped
+releases, and did my part to keep the project alive. I contributed to Uyuni,
+working across Java, Python, and Go. **I read and understand code in
+multiple languages to find problems and fix them.**
 
-**I build complete solutions and share knowledge.** I write the application, set up CI/CD, publish artifacts, and document how it works. **I document everything.** When I solve a problem, I write documentation, create knowledge base articles, and share examples so others can build on what I learned. I structure work in tickets with clear parent-child relationships, making progress visible and accessible. **I was self-employed for over 12 years**, managing everything from customer relationships to employee management to technical delivery. During critical incidents at NTT, I coordinated technical recovery efforts across global teams, documenting solutions and building automation so the team could scale the work.
+**I build complete solutions and share knowledge.** I write the application,
+set up CI/CD, publish artifacts, and document how it works. **I document
+everything.** When I solve a problem, I write documentation, create
+knowledge base articles, and share examples so others can build on what I
+learned. I structure work in tickets with clear parent-child relationships,
+making progress visible and accessible. **I was self-employed for over 12
+years**, managing everything from customer relationships to employee
+management to technical delivery. During critical incidents at NTT, I
+coordinated technical recovery efforts across global teams, documenting
+solutions and building automation so the team could scale the work.
 
-**When I face a new problem, I dig in.** I read the source code, test assumptions, ask questions when needed, and find solutions even when documentation is missing or people with knowledge have left. I work well independently but I'm not a lone wolf. I collaborate through clear documentation, knowledge sharing, and building tools that help the whole team. **I get the job done and help others do the same.**
+**When I face a new problem, I dig in.** I read the source code, test
+assumptions, ask questions when needed, and find solutions even when
+documentation is missing or people with knowledge have left. I work well
+independently but I'm not a lone wolf. I collaborate through clear
+documentation, knowledge sharing, and building tools that help the whole
+team. **I get the job done and help others do the same.**
 
-**I never stopped learning.** Started with HTML and CSS at 14, taught myself PHP, Java, Python, Go, TypeScript. Still learning, diving deeper into C and kernel development because I'm curious how things work at that level. I've earned **over 70 technical certifications** throughout my career, including AWS Solutions Architect Professional, multiple Kubernetes certifications (CKA, CKAD, CKS), and deep expertise in SUSE and Red Hat ecosystems. I share technical knowledge through conference presentations at KubeCon, SUSECON, and openSUSE Conference. I'm passionate about cloud native technologies, Kubernetes, and Unix systems like FreeBSD.
+**I never stopped learning.** Started with HTML and CSS at 14, taught myself
+PHP, Java, Python, Go, TypeScript. Still learning, diving deeper into C and
+kernel development because I'm curious how things work at that level. I've
+earned **over 70 technical certifications** throughout my career, including
+AWS Solutions Architect Professional, multiple Kubernetes certifications
+(CKA, CKAD, CKS), and deep expertise in SUSE and Red Hat ecosystems. I share
+technical knowledge through conference presentations at KubeCon, SUSECON,
+and openSUSE Conference. I'm passionate about cloud native technologies,
+Kubernetes, and Unix systems like FreeBSD.
 
-**I'm looking for DevOps, SRE, Platform Engineering, or Cloud Engineering roles** where I can solve complex problems, build automation, and work across the full stack. Open source development work is especially interesting to me.
-
-.. raw:: pdf
-
-  PageBreak
+**I'm looking for DevOps, SRE, Platform Engineering, or Cloud Engineering
+roles** where I can solve complex problems, build automation, and work
+across the full stack. Open source development work is especially
+interesting to me.
 
 Key Skills
 ==========
