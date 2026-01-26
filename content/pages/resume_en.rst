@@ -40,24 +40,21 @@ Cloud Engineer roles where I can code daily and solve complex problems.**
 **I operate across infrastructure, systems, and code.** At NTT, I managed
 **over 1000 Linux and hundreds of Windows systems, plus complete datacenter
 infrastructure across two locations** - network, firewall, load balancers,
-storage, virtualization, operating systems. Troubleshooting production
-incidents from network packets to application code. Reverse-engineering
-systems when documentation falls behind. Building automation that reduces
-manual work. **Whatever it takes to solve the problem.**
+storage, virtualization, operating systems. Troubleshooting from network
+packets to application code, reverse-engineering systems, building automation.
+**Whatever it takes to solve the problem.**
 
 **I write code to solve operational problems.** Built Python automation
-that reduced backup reporting from hours to minutes, shifting teams from
-reactive to proactive. Created tools that enabled junior engineers to
-handle storage decommissioning that previously required senior engineers.
-For SUSE's AWS security competency, wrote a Fluent Bit output plugin in Go
-to push security logs to AWS CloudTrail Lake, created a Helm chart, built
-the CI/CD pipeline, and released everything as open source. Built an
-OpenShift operator for AWS Neuron with Red Hat engineers, learning their
-patterns for GPU operators. **Maintained pagure** `<https://pagure.io/pagure>`_
-**(a git forge and code collaboration platform) for almost 3 years**,
-fixing critical CVEs and shipping releases in a complex Python/Flask
-codebase. **I read and understand code in multiple languages to find
-problems and fix them.**
+that reduced backup reporting from hours to minutes. Created tools that
+enabled junior engineers to handle storage decommissioning that previously
+required senior engineers. For SUSE's AWS security competency, wrote a
+Fluent Bit output plugin in Go to push logs to AWS CloudTrail Lake, created
+a Helm chart, built the CI/CD pipeline, and released everything as open
+source. Built an OpenShift operator for AWS Neuron with Red Hat engineers.
+**Maintained pagure** `<https://pagure.io/pagure>`_ **(a git forge and code
+collaboration platform) for almost 3 years**, fixing critical CVEs and
+shipping releases in a complex Python/Flask codebase. **I read and understand
+code in multiple languages to troubleshoot and fix problems.**
 
 .. raw:: pdf
 
