@@ -33,7 +33,9 @@ Infrastructure**, **Platform Engineering**, **Coding** and **Automation**.
 **I'm a problem solver with 25 years of experience** operating across
 the entire infrastructure stack, **focused on complex technical challenges**
 that require understanding the big picture while debugging the details.
-I prefer technical implementation over business presentations.
+I prefer technical implementation over business presentations. **I'm looking
+for DevOps Engineer, Platform Engineer, Site Reliability Engineer, or
+Cloud Engineer roles where I can code daily and solve complex problems.**
 
 **I operate across infrastructure, systems, and code.** At NTT, I managed
 **over 1000 Linux and hundreds of Windows systems, plus complete datacenter
@@ -77,11 +79,6 @@ certifications** throughout my career: **18x SUSE**, **7x AWS**, **3x
 Kubernetes** (CKA, CKAD, CKS), **5x Red Hat**, **2x Linux**, **2x Azure**.
 Share technical knowledge through presentations at KubeCon, SUSECON, and
 openSUSE events.
-
-**I'm looking for Site Reliability Engineer (SRE), Platform Engineering,
-DevOps Engineering, Cloud Engineering, or Open Source Developer roles**
-where I can write code daily, solve complex problems, build automation, and
-work across the full stack.
 
 Key Skills
 ==========

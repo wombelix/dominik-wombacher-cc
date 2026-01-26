@@ -58,22 +58,23 @@ As much details and context as possible, for example:
 What Positions are you looking for?
 ===================================
 
-I'm seeking **Principal, Staff, and Distinguished-level Engineering Positions** that offer **deep hands-on technical work**
-and **active involvement** in **coding, system design, and technical implementation**.
+I'm seeking **hands-on engineering roles** where I can **write code daily**, **solve complex technical problems**,
+and **work across infrastructure and application layers**.
 
 Specifically, I'm interested in roles such as:
 
-- **Principal Engineer**
-- **Distinguished Engineer**
-- **Staff Engineer**
-- **Senior Staff Engineer**
-- **Lead Engineer**
+- **Site Reliability Engineer (SRE)**
+- **Platform Engineer**
+- **DevOps Engineer**
+- **Cloud Engineer**
+- **Software Engineer** (infrastructure/platform focus)
+- **Senior Engineer** in any of the above
 
-Other roles like **DevOps Engineer**, **Cloud Engineer**, **Platform Engineer**, or **Site Reliability Engineer (SRE)**
-can also be a good fit at **Principal/Staff level** or equivalent seniority.
+I'm open to **Senior, Staff, or Principal-level positions** depending on the role scope and organization.
+What matters most is **hands-on technical work** rather than seniority title.
 
-**Solutions Architect** roles can work if they involve significant **hands-on technical implementation**
-rather than primarily presentations and sales support.
+**Solutions Architect** or **Field Engineer** roles can work if they involve significant **technical implementation
+and coding** rather than primarily presentations and sales support.
 
 I'm **exclusively** interested in opportunities as **Individual Contributor**.
 I am **not** considering management roles at this time.
@@ -101,18 +102,20 @@ What makes a role appealing to me?
 
 I'm looking for roles where I can:
 
-- **Write code** and **implement technical solutions** on a regular basis
-- **Design system architectures** and **make technical decisions**
-- **Troubleshoot complex technical problems** and **debug systems**
-- **Work with cutting-edge technologies** and **contribute to open source projects**
-- **Mentor other engineers** through **technical guidance** rather than management
-- **Automate processes** and **optimize system performance**
+- **Write code daily** - Python, Go, TypeScript, or similar languages
+- **Build and maintain infrastructure** - Kubernetes, cloud platforms, automation tooling
+- **Troubleshoot complex technical problems** - from network packets to application code
+- **Design and implement systems** - not just presentations, but hands-on building
+- **Automate processes** - eliminate manual work, improve reliability
+- **Work across the full stack** - infrastructure, systems, and code
+- **Contribute to open source** - build in the open when possible
+- **Mentor through code** - reviews, pair programming, technical guidance
 
-I work best in environments that value **technical depth** over **business presentations**.
+I work best in environments that value **solving hard technical problems** over
+**sales presentations and business development**.
 
-**Note**: While I'm currently in a Solution Architect role, I'm actively seeking to transition
-back to **hands-on engineering positions** where I can focus on **technical implementation**
-rather than sales and go-to-market activities.
+**Note**: I'm transitioning from a Solution Architect role back to **hands-on engineering**.
+I want to spend my time **building and coding**, not presenting and selling.
 
 ----
 
