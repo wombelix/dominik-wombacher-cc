@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-01-26
+:modified: 2026-01-27
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -72,12 +72,13 @@ clear documentation, communication, knowledge sharing, and building tools
 that help the whole team.
 
 **Never stopped learning.** I started with HTML and CSS at age 14 and PHP when I
-was 15. Over the years I taught myself various programming languages and technologies.
+was 15. Over the years I learned various programming languages and technologies.
 This includes Java, Python, Go, TypeScript, Ansible, Linux, Kubernetes, FreeBSD.
-I've earned **over 70 technical certifications** throughout my career: **18x SUSE**,
-**7x AWS**, **3x Kubernetes** (CKA, CKAD, CKS), **5x Red Hat**, **2x Linux**,
-**2x Azure**. I've shared technical knowledge at conferences like KubeCon and
-SUSECON, and through blog posts.
+I've earned **over 70 technical certifications** throughout my career like **18x SUSE**,
+**7x AWS** (e.g. AWS Certified DevOps Engineer Professional), **3x Kubernetes**
+(CKA, CKAD, CKS), **5x Red Hat** (e.g. RHCE), **2x Azure** (e.g. Microsoft Certified:
+Azure Administrator). I've shared technical knowledge at conferences like KubeCon
+and SUSECON, and through blog posts.
 
 Key Skills
 ==========
@@ -90,17 +91,17 @@ Key Skills
    * - Programming
      - GitOps and CI/CD
      - Container
-   * - Python
-     - AWS CodePipeline
-     - Kubernetes
    * - Go (Golang)
+     - AWS CodePipeline
+     - Docker / Podman
+   * - Python
      - GitHub Actions
-     - Rancher
+     - Kubernetes (k8s)
    * - TypeScript
      - Jenkins
-     - SUSE Security
+     - EKS / K3s / RKE2
    * - Java
-     - ArgoCD
+     - Flux
      - OpenShift
 
 .. list-table::
@@ -125,37 +126,30 @@ Key Skills
 
    * - Operating Systems
      - Observability & Monitoring
-     - Skills & Leadership
-   * - SUSE Linux Enterprise Server
+     - ML / AI
+   * - SUSE (SLES, openSUSE)
      - Fluent Bit
-     - Technical Architecture
-   * - Red Hat Enterprise Linux
+     - Prompt Engineering
+   * - Red Hat (RHEL, Fedora)
      - Prometheus
-     - DevSecOps
-   * - openSUSE
-     - Grafana
-     - Deep Technical Troubleshooting
-   * - Fedora
-     - AWS CloudWatch
-     - Site Reliability Engineering
-   * - Debian and Ubuntu
-     - AWS CloudTrail
-     - Code Review & Analysis
-   * - FreeBSD
-     -
-     - Technical Mentorship
-
-.. list-table::
-   :width: 100%
-   :widths: 33 33 33
-   :header-rows: 1
-
-   * - ML / AI
-     -
-     -
-   * - Prompt Engineering
      - Amazon Bedrock
+   * - Debian and Ubuntu
+     - AWS CloudWatch
      - Amazon SageMaker
+   * - FreeBSD
+     - AWS CloudTrail
+     -
+
+Last Jobs
+=========
+
+  - **Solution Architect** | SUSE | *Nov 2025 - Feb 2026*
+
+  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Oct 2022 - Oct 2025*
+
+  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2016 - Sep 2022*
+
+  - **Owner / Self-employed** | Wombacher.IT | *Jan 2007 - Mar 2019*
 
 Contact
 =======
@@ -184,20 +178,29 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 
 *Golang*
 
-- `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_ |
-  `OpenTofu / Terraform Provider for sourcehut - sr.ht <https://github.com/wombelix/terraform-provider-sourcehut>`_ |
-  `sourcehut-go: A Go SDK for accessing the sourcehut legacy REST API <https://github.com/wombelix/sourcehut-go>`_ |
-  `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_ |
-  `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_
+- `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_
+
+- `OpenTofu / Terraform Provider for sourcehut - sr.ht <https://github.com/wombelix/terraform-provider-sourcehut>`_
+
+- `sourcehut-go: A Go SDK for accessing the sourcehut legacy REST API <https://github.com/wombelix/sourcehut-go>`_
+
+- `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_
+
+- `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_
 
 *Infrastructure & Tools*
 
-- `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_ |
-  `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_ |
-  `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_ |
-  `jDeepl: Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL>`_ |
-  `Custom Pelican Theme with some retro charm from back in the CRT terminal days <https://github.com/wombelix/pelican-theme-xlii>`_ |
-  `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
+- `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_
+
+- `Helm Chart: Fluent Bit Syslog to AWS CloudTrail Data <https://github.com/wombelix/chart-fluent-bit-syslog-to-aws-cloudtrail-data>`_
+
+- `CloudFormation Custom Resource AWS SSM Parameter Store SecureString <https://github.com/wombelix/cfn-custom-resource-aws-ssm-securestring>`_
+
+- `jDeepl: Unofficial DeepL App for Linux based on JavaFX <https://github.com/wombelix/jDeepL>`_
+
+- `Custom Pelican Theme with some retro charm from back in the CRT terminal days <https://github.com/wombelix/pelican-theme-xlii>`_
+
+- `The Wombelix Post - Personal Blog <https://github.com/wombelix/dominik-wombacher-cc>`_
 
 **Key Contributions**
 
@@ -217,75 +220,86 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 
 **Contributions**
 
-- `Demo: Rancher on IONOS Cloud <https://github.com/SUSE-Technical-Marketing/demo-rancher-on-ionos-cloud>`_ |
-  `Harvester UI Extension <https://github.com/harvester/harvester-ui-extension>`_ |
-  `TF-RANCHER-UP <https://github.com/rancher/tf-rancher-up>`_ |
-  `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_ |
-  `AWS Neuron GPU Operator for OpenShift <https://github.com/awslabs/operator-for-ai-chips-on-aws>`_ |
-  `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_ |
-  `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_ |
-  `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_ |
-  `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_ |
-  `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_ |
-  `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_ |
-  `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
+- `Demo: Rancher on IONOS Cloud <https://github.com/SUSE-Technical-Marketing/demo-rancher-on-ionos-cloud>`_
 
-Public Speaking & Blogs
-=======================
+- `Harvester UI Extension <https://github.com/harvester/harvester-ui-extension>`_
 
-Extract of recent virtual and in-person public speaking engagements and Blogs.
+- `TF-RANCHER-UP <https://github.com/rancher/tf-rancher-up>`_
 
-**Public Speaking (Virtual)**
+- `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_
 
-- `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
-  NeuVector on AWS Webinar (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_) |
-  `RHEL in the Cloud Webinar <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_ |
-  `Best Practices for Zero Trust Container Security NeuVector on AWS <https://www.brighttalk.com/webcast/11477/614686>`_ |
-  Monthly SUSE for SAP Partner Spotlight - AWS European Sovereign Cloud - September 2024 (`Session 1 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_, `Session 2 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_)
+- `AWS Neuron GPU Operator for OpenShift <https://github.com/awslabs/operator-for-ai-chips-on-aws>`_
 
-**Public Speaking (In-Person)**
+- `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_
 
-- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS |
-  `SUSECON 23, Munich Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_ |
-  `openSUSE Conference 2023, Nuremberg Germany - openSUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
-  `openSUSE Conference 2023, Nuremberg Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_ |
-  Red Hat Summit Connect 2023, Utrecht Netherlands - Red Hat Openshift Service on AWS |
-  SUSECON 24, Berlin Germany - NeuVector Integration into AWS CodePipeline CI/CD Workflow |
-  `openSUSE Community Summit, Berlin Germany - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_ |
-  `openSUSE Conference 2024, Nuremberg Germany - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_ |
-  `openSUSE Conference 2024, Nuremberg Germany - Pagure CI integration with AWS CodePipeline <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+- `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_
 
-**Blogs**
+- `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_
 
-- `Deploy Rancher Prime on IONOS Cloud <https://www.suse.com/c/deploy-suse-rancher-prime-on-ionos-cloud/>`_ |
-  `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_ |
-  `Protect AWS CodePipeline CI/CD workflows with SUSE Security <https://www.suse.com/c/protect-aws-codepipeline-ci-cd-workflows-with-suse-security/>`_ |
-  `The Wombelix Post <https://dominik.wombacher.cc/posts/index.html>`_
+- `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_
+
+- `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
+
+- `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
+
+- `Pelican Plugin: Read More <https://github.com/pelican-plugins/read-more>`_
 
 .. raw:: pdf
 
   PageBreak
 
-Job History Summary
-===================
+Public Speaking & Blogs
+=======================
 
-  - **Solution Architect** | SUSE | *Nov 2025 - Present*
+Extract of virtual and in-person public speaking engagements.
 
-  - **Sr. Partner Solutions Architect (SA III, L6)** | Amazon Web Services (AWS) | *Oct 2022 - Oct 2025*
+**Public Speaking (Virtual)**
 
-  - **Principal Engineer & Head of Infrastructure Operations (L4)** | NTT | *Aug 2020 - Sep 2022*
+- `SUSECON Digital 23 - SUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_
 
-  - **Lead Engineer Operations (L3)** | NTT | *Mar 2019 - Jul 2020*
+- NeuVector on AWS Webinar (`Recording <https://more.suse.com/rs/937-DCH-261/images/Best%20Practices%20for%20Securing%20Container%20Workloads%20with%20NeuVector%20on%20AWS%20EMEA%20Recording.mp4>`_, `Slides <https://more.suse.com/rs/937-DCH-261/images/SUSE%20Best%20Practices%20for%20Cloud%20Native%20Security%20on%20AWS%20EMEA%20Slides.pdf>`_)
 
-  - **Service Delivery Support Engineer (L2)** | Dimension Data | *Aug 2016 - Feb 2019*
+- `RHEL in the Cloud Webinar <https://events.redhat.com/profile/form/index.cfm?PKformID=0x936131abcd&sc_cid=7013a000003StDaAAK&blaid=5212902>`_
 
-  - **Owner / Self-employed** | Wombacher.IT | *Jan 2007 - Mar 2019*
+- `Best Practices for Zero Trust Container Security NeuVector on AWS <https://www.brighttalk.com/webcast/11477/614686>`_
 
-  - **System Administrator** | IT-Service M+W Grossostheim GmbH | *Jul 2006 - Jul 2007*
+- Monthly SUSE for SAP Partner Spotlight - AWS European Sovereign Cloud - September 2024 (`Session 1 <https://attendee.gotowebinar.com/recording/8775411650533134941>`_, `Session 2 <https://attendee.gotowebinar.com/recording/8952529779634769921>`_)
 
-  - **Apprenticeship: IT Specialist** | IT-Service M+W Grossostheim GmbH | *Aug 2003 - Jul 2006*
+**Public Speaking (In-Person)**
 
-  - **Support Engineer** | Prosol Spraytechnik GmbH | *Jan 2002 - Jul 2003*
+- Kubecon Europe 2023, Amsterdam Netherlands - Rancher by SUSE booth - Rancher on Amazon EKS
+
+- `SUSECON 23, Munich Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/susecon-2023-recordings-public-available-on-youtube.html>`_
+
+- `openSUSE Conference 2023, Nuremberg Germany - openSUSE ALP prototype on AWS <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_
+
+- `openSUSE Conference 2023, Nuremberg Germany - Rancher integration with AWS services <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2023-are-online.html>`_
+
+- Red Hat Summit Connect 2023, Utrecht Netherlands - Red Hat Openshift Service on AWS
+
+- SUSECON 24, Berlin Germany - NeuVector Integration into AWS CodePipeline CI/CD Workflow
+
+- `openSUSE Community Summit, Berlin Germany - Pagure CI integration with AWS CodePipeline <https://events.opensuse.org/conferences/CSBerlin/program/proposals/4608>`_
+
+- `openSUSE Conference 2024, Nuremberg Germany - NeuVector Integration into AWS CodePipeline CI/CD workflow <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+
+- `openSUSE Conference 2024, Nuremberg Germany - Pagure CI integration with AWS CodePipeline <https://dominik.wombacher.cc/posts/recordings-of-my-sessions-at-opensuse-conference-2024-are-online.html>`_
+
+**Blogs**
+
+Extract of published Blogs.
+
+- `Deploy Rancher Prime on IONOS Cloud <https://www.suse.com/c/deploy-suse-rancher-prime-on-ionos-cloud/>`_
+
+- `Send SUSE Security (NeuVector) events to AWS CloudTrail Lake <https://www.suse.com/c/send-suse-security-neuvector-events-to-aws-cloudtrail-lake/>`_
+
+- `Protect AWS CodePipeline CI/CD workflows with SUSE Security <https://www.suse.com/c/protect-aws-codepipeline-ci-cd-workflows-with-suse-security/>`_
+
+- `The Wombelix Post <https://dominik.wombacher.cc/posts/index.html>`_
+
+.. raw:: pdf
+
+  PageBreak
 
 Job History
 ===========
