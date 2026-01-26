@@ -34,8 +34,8 @@ Especially messages like *"I have multiple job opportunities"* or
 
 ----
 
-Are you interested changing your job?
-=====================================
+Are you interested in changing your job?
+========================================
 
 **Immediately**, I am actively applying.
 
@@ -68,7 +68,6 @@ Specifically, I'm interested in roles such as:
 - **DevOps Engineer**
 - **Cloud Engineer**
 - **Software Engineer** (infrastructure/platform focus)
-- **Senior Engineer** in any of the above
 
 I'm open to **Senior, Staff, or Principal-level positions** depending on the role scope and organization.
 What matters most is **hands-on technical work** rather than seniority title.
@@ -161,10 +160,10 @@ Sure, but in that case responding will probably not have the highest priority fo
 Do you hate recruiters?
 =======================
 
-No, everyone has a job, yours is it to fill positions with the right people.
-But you are not alone, there are lot out there.
+No, everyone has a job. Yours is to fill positions with the right people.
+But you are not alone, there are many out there.
 
-Thats why I appreciate when you follow some basic rules when you reach out.
+That's why I appreciate when you follow some basic rules when you reach out.
 
 ----
 
