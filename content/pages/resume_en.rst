@@ -40,8 +40,8 @@ Cloud Engineer roles where I can code daily and solve complex problems.**
 **I operate across infrastructure, systems, and code.** At NTT, I managed
 **over 1000 Linux and hundreds of Windows systems, plus complete datacenter
 infrastructure across two locations** - network, firewall, load balancers,
-storage, virtualization, operating systems. Troubleshooting from network
-packets to application code, reverse-engineering systems, building automation.
+storage, virtualization, operating systems. I troubleshoot from network
+packets to application code, reverse-engineer systems, and build automation.
 **Whatever it takes to solve the problem.**
 
 **I write code to solve operational problems.** Built Python automation
@@ -60,12 +60,12 @@ code in multiple languages to troubleshoot and fix problems.**
 
   PageBreak
 
-**I build complete solutions and enable teams.** Write the application,
-set up CI/CD, publish artifacts, create documentation. **Every solution
-gets documented.** Write knowledge base articles and examples so others
+**I build complete solutions and enable teams.** I write the application,
+set up CI/CD, publish artifacts, and create documentation. **Every solution
+gets documented.** I write knowledge base articles and examples so others
 can build on what was learned. **Self-employed for over 12 years**,
 handling customer relationships while doing hands-on technical delivery.
-Work well independently but not a lone wolf - collaborate through clear
+I work well independently but not a lone wolf - I collaborate through clear
 documentation, knowledge sharing, and building tools that help the whole
 team.
 
