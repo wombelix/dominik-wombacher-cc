@@ -28,60 +28,60 @@ first to make things easier for both of us.
 About me
 ========
 
-I'm passionate about **Linux**, **Kubernetes**, **Cloud Native
+I'm passionate about **Linux**, **BSD**, **Kubernetes**, **Cloud Native
 Infrastructure**, **Platform Engineering**, **Coding** and **Automation**.
-I'm a **problem solver with 25 years of experience** operating across
-the entire infrastructure stack. I thrive on complex technical challenges
-that require understanding the big picture while debugging the details. **I
-see patterns others miss. I connect dots across technologies. I figure
-things out.** I prefer technical implementation over business presentations.
+**I'm a problem solver with 25 years of experience** operating across
+the entire infrastructure stack, **focused on complex technical challenges**
+that require understanding the big picture while debugging the details.
+I prefer technical implementation over business presentations.
 
-**I operate across infrastructure, systems, and code.** At NTT, I was
-responsible for **over 1000 Linux, hundreds of Windows systems and the
-complete datacenter infrastructure across two locations**. Including network,
-firewall, load balancers, storage, virtualization, operating systems. I
-troubleshoot production incidents from network packets to application code.
-I reverse-engineer systems when documentation falls behind development. I
-build automation that reduces manual work and helps teams scale. **I do
-what's necessary to get systems running.**
+**I operate across infrastructure, systems, and code.** At NTT, I managed
+**over 1000 Linux and hundreds of Windows systems, plus complete datacenter
+infrastructure across two locations** - network, firewall, load balancers,
+storage, virtualization, operating systems. Troubleshooting production
+incidents from network packets to application code. Reverse-engineering
+systems when documentation falls behind. Building automation that reduces
+manual work. **Whatever it takes to solve the problem.**
 
-**I write code to solve operational problems.** For example, I've built
-Python based automation that reduced backup reporting from hours of manual
-effort to minutes, shifting the team from reactive to proactive. I created
-tools that enabled junior engineers to handle storage decommissioning
-independently. I wrote a Fluent Bit output plugin in Go to push
-security logs to AWS CloudTrail Lake, created a Helm chart, built the CI/CD
-pipeline, and released everything as open source. I built an OpenShift
-operator for AWS Neuron with Red Hat engineers, learning their patterns for
-GPU operators and creating automated builds for kernel modules. I was a
-maintainer of `pagure <https://pagure.io/pagure>`_ (a git forge and code
-collaboration platform) for almost 3 years, fixing critical CVEs and
-shipping releases in a complex Python/Flask codebase. **I read and
-understand code in multiple languages to find problems and fix them.**
+**I write code to solve operational problems.** Built Python automation
+that reduced backup reporting from hours to minutes, shifting teams from
+reactive to proactive. Created tools that enabled junior engineers to
+handle storage decommissioning that previously required senior engineers.
+For SUSE's AWS security competency, wrote a Fluent Bit output plugin in Go
+to push security logs to AWS CloudTrail Lake, created a Helm chart, built
+the CI/CD pipeline, and released everything as open source. Built an
+OpenShift operator for AWS Neuron with Red Hat engineers, learning their
+patterns for GPU operators. **Maintained pagure** `<https://pagure.io/pagure>`_
+**(a git forge and code collaboration platform) for almost 3 years**,
+fixing critical CVEs and shipping releases in a complex Python/Flask
+codebase. **I read and understand code in multiple languages to find
+problems and fix them.**
 
-**I build complete solutions and enable teams.** I write the application,
-set up CI/CD, publish artifacts, and document how it works. **I document
-everything.** When I solve a problem, I create knowledge base articles and
-examples so others can build on what I learned. **I was self-employed for
-over 12 years**, managing customer relationships and technical delivery.
-During critical incidents at NTT, I coordinated technical recovery efforts
-across global teams. I work well independently but I'm not a lone wolf. I
-collaborate through clear documentation, knowledge sharing, and building
-tools that help the whole team.
+.. raw:: pdf
 
-**I never stopped learning.** Started with HTML and CSS at 14, taught myself
-PHP, Java, Python, Go, TypeScript. Still learning, diving deeper into C and
-kernel development. I've earned **over 70 technical certifications**
-throughout my career: **18x SUSE**, **7x AWS**, **3x Kubernetes** (CKA,
-CKAD, CKS), **5x Red Hat**, **2x Linux**, **2x Azure**. I share technical
-knowledge through conference presentations at KubeCon, SUSECON, and openSUSE
-Conference. I'm passionate about cloud native technologies and Unix systems
-like FreeBSD.
+  PageBreak
 
-**I'm looking for DevOps, SRE, Platform Engineering, or Cloud Engineering
-roles** where I can solve complex problems, build automation, and work
-across the full stack. Open source development work is especially
-interesting to me.
+**I build complete solutions and enable teams.** Write the application,
+set up CI/CD, publish artifacts, create documentation. **Every solution
+gets documented.** Write knowledge base articles and examples so others
+can build on what was learned. **Self-employed for over 12 years**,
+handling customer relationships while doing hands-on technical delivery.
+Work well independently but not a lone wolf - collaborate through clear
+documentation, knowledge sharing, and building tools that help the whole
+team.
+
+**Never stopped learning.** Started with HTML and CSS at 14, taught myself
+PHP, Java, Python, Go, TypeScript, and FreeBSD. Still learning, diving
+deeper into C and kernel development. Earned **over 70 technical
+certifications** throughout my career: **18x SUSE**, **7x AWS**, **3x
+Kubernetes** (CKA, CKAD, CKS), **5x Red Hat**, **2x Linux**, **2x Azure**.
+Share technical knowledge through presentations at KubeCon, SUSECON, and
+openSUSE events.
+
+**I'm looking for Site Reliability Engineer (SRE), Platform Engineering,
+DevOps Engineering, Cloud Engineering, or Open Source Developer roles**
+where I can write code daily, solve complex problems, build automation, and
+work across the full stack.
 
 Key Skills
 ==========
