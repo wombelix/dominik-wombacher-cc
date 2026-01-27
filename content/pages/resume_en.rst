@@ -28,35 +28,34 @@ first to make things easier for both of us.
 About me
 ========
 
-I'm passionate about **Linux**, **BSD**, **Kubernetes**, **Cloud Native
-Infrastructure**, **Platform Engineering**, **Coding** and **Automation**.
-I'm a **problem solver with 20+ years of experience** operating across
+I'm passionate about **Linux**, **BSD**, **Kubernetes**, **Cloud Native**,
+**Coding** and **Automation**.
+I'm a **problem solver with 20+ years of experience** working across
 the entire infrastructure stack, **focused on complex technical challenges**
 that require understanding the big picture while debugging the details.
 I prefer technical implementation over business presentations. **I'm looking
 for DevOps Engineer, Platform Engineer, Site Reliability Engineer, Cloud
-Engineer or Open Source Developer roles where I can code daily and solve
+Engineer or Open Source Developer roles where I can code regularly and solve
 complex problems.**
 
 **I operate across infrastructure, systems, and code.** At NTT, I managed
 **over 1000 Linux and hundreds of Windows systems, plus complete datacenter
-infrastructure across two locations**, including network, firewall, load
+infrastructure across two locations**. Including network, firewall, load
 balancers, storage, virtualization, and operating systems. I troubleshoot
 from network packets to application code, reverse-engineer systems, and
-build automation. **Whatever it takes to solve the problem.**
+build automation. **Whatever it takes to find a solution.**
 
 **I write code to solve operational problems.** For example, I've built
 Python-based automation that reduced manual backup reporting from
 hours to minutes, freeing engineers to focus on proactive work. I created
-tools that enabled junior engineers to handle storage decommissioning
+tools that enabled junior engineers to handle storage decommissioning at scale
 that previously required senior engineers. For SUSE's AWS security competency,
 I wrote a Fluent Bit output plugin in Go to push logs to AWS CloudTrail Lake,
 created a Helm chart, built the CI/CD pipeline, and released everything as open
 source. I was **Contributor and then Maintainer** of `pagure <https://pagure.io/pagure>`_
 (a git forge and code collaboration platform) for almost 3 years, fixing critical
 CVEs and shipping releases in a complex Python/Flask codebase. Built an OpenShift
-operator for AWS Neuron together with Red Hat engineers. **I read and understand
-code in multiple languages to troubleshoot and fix issues.**
+operator for AWS Neuron together with Red Hat engineers.
 
 .. raw:: pdf
 
@@ -73,7 +72,7 @@ that help the whole team.
 
 **Never stopped learning.** I started with HTML and CSS at age 14 and PHP when I
 was 15. Over the years I learned various programming languages and technologies.
-This includes Java, Python, Go, TypeScript, Ansible, Linux, Kubernetes, FreeBSD.
+Including, but not limited to: Java, Python, Go, TypeScript, Ansible, Linux, Kubernetes, FreeBSD.
 I've earned **over 70 technical certifications** throughout my career like **18x SUSE**,
 **7x AWS** (e.g. AWS Certified DevOps Engineer Professional), **3x Kubernetes**
 (CKA, CKAD, CKS), **5x Red Hat** (e.g. RHCE), **2x Azure** (e.g. Microsoft Certified:
@@ -140,8 +139,8 @@ Key Skills
      - AWS CloudTrail
      -
 
-Last Jobs
-=========
+Previous Jobs
+=============
 
   - **Solution Architect** | SUSE | *Nov 2025 - Feb 2026*
 
@@ -169,26 +168,18 @@ Open Source
 ===========
 
 Open Source became an important part of my life.
-Following an extract of recent code contributions and projects I maintain or own.
-I host my code on `sr.ht <https://git.sr.ht/~wombelix>`_, with mirrors on
-`GitHub <https://github.com/wombelix>`_, `Gitlab <https://gitlab.com/wombelix>`_
-and `Codeberg <https://codeberg.org/wombelix>`_.
+Following an extract of code contributions and projects I maintain or own.
+My `GitHub Profile <https://github.com/wombelix>`_ provides more activity insights.
 
 **Own Projects**
 
-*Golang*
+- `params2env - AWS SSM Parameter Store to Environment variables <https://github.com/wombelix/params2env>`_
 
-- `params2env - AWS SSM Parameter Store CLI <https://github.com/wombelix/params2env>`_
-
-- `OpenTofu / Terraform Provider for sourcehut - sr.ht <https://github.com/wombelix/terraform-provider-sourcehut>`_
-
-- `sourcehut-go: A Go SDK for accessing the sourcehut legacy REST API <https://github.com/wombelix/sourcehut-go>`_
+- `OpenTofu / Terraform Provider for sourcehut (sr.ht) <https://github.com/wombelix/terraform-provider-sourcehut>`_
 
 - `Fluent Bit: Output Plugin for AWS CloudTrail Data Service <https://github.com/wombelix/fluent-bit-output-plugin-aws-cloudtrail-data>`_
 
 - `AWS Neuron Driver Source Publisher <https://github.com/wombelix/aws-neuron-driver-publish-source>`_
-
-*Infrastructure & Tools*
 
 - `AWS Neuron Driver Source Mirror <https://github.com/wombelix/aws-neuron-driver>`_
 
@@ -220,25 +211,29 @@ and `Codeberg <https://codeberg.org/wombelix>`_.
 
 **Contributions**
 
-- `Demo: Rancher on IONOS Cloud <https://github.com/SUSE-Technical-Marketing/demo-rancher-on-ionos-cloud>`_
+- [Original author] `Demo: Rancher on IONOS Cloud OpenTofu / Terraform IaC <https://github.com/SUSE-Technical-Marketing/demo-rancher-on-ionos-cloud>`_
 
 - `Harvester UI Extension <https://github.com/harvester/harvester-ui-extension>`_
 
+  - `feat: Introduce VM Import UI flow pages <https://github.com/harvester/harvester-ui-extension/pull/642>`_
+
 - `TF-RANCHER-UP <https://github.com/rancher/tf-rancher-up>`_
 
-- `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_
+- [Original author] `Kmod with KMM for AI Chips on AWS <https://github.com/awslabs/kmod-with-kmm-for-ai-chips-on-aws>`_
 
-- `AWS Neuron GPU Operator for OpenShift <https://github.com/awslabs/operator-for-ai-chips-on-aws>`_
+- [Original author] `AWS Neuron GPU Operator for OpenShift <https://github.com/awslabs/operator-for-ai-chips-on-aws>`_
 
-- `AWS Samples - ROSA Patterns <https://github.com/aws-samples/rosa-patterns>`_
+- `AWS Samples - ROSA Patterns, AWS CloudFormation AWS CDK templates for Red Hat OpenShift Service on AWS (ROSA) <https://github.com/aws-samples/rosa-patterns>`_
 
 - `AWS Samples - SUSE Linux on AWS Workshop <https://github.com/aws-samples/suse-linux-on-aws-workshop>`_
 
 - `git-remote-s3: use Amazon S3 as a git remote and LFS server <https://github.com/awslabs/git-remote-s3>`_
 
+  - `feat: Create and upload zip archive on git push <https://github.com/awslabs/git-remote-s3/pull/16>`_
+
 - `INWX Terraform Provider <https://github.com/inwx/terraform-provider-inwx>`_
 
-- `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
+- [Original author] `NeuVector vulnerability scanner in AWS CodeBuild <https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild>`_
 
 - `Pelican Plugin: PDF <https://github.com/pelican-plugins/pdf>`_
 
