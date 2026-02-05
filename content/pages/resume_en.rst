@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-01-27
+:modified: 2026-02-05
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -307,23 +307,21 @@ Job History
   |
   | Highlights:
 
-  - Lead technical validation through architectural workshops and hands-on Proofs of Concept
-  - Architect enterprise-grade, cloud-native solutions using SUSE's portfolio including SLES, Rancher, and SUSE Security
-  - Collaborate with engineering teams and customer technical teams on solution implementation
-  - Develop technical responses and reference architectures for complex customer requirements
-  - Evaluate technical solutions and analyze system architectures for optimal implementation
-  - Contribute to technical documentation, presentations, and industry conference participation
-  - Mentor technical peers and contribute to internal technical education and best practices
-  - Provide technical advisory services for key customers and partners in DACH region, focusing on Public Sector and MSP
+  - Built Infrastructure as Code automation with OpenTofu/Terraform for high-availability Rancher deployments on IONOS Cloud, including dual-LAN networking, load balancer integration, RKE2 cloud-init bootstrapping, and Helm chart deployments
+  - Developed VM Import UI feature for Harvester using TypeScript/Vue.js and contributed it upstream to harvester-ui-extension project
+  - Published technical blog on SUSE website covering reference architecture, manual setup, and automated IaC approach for Rancher on IONOS Cloud
 
   | Summary:
 
-  - Translate complex technical requirements to Product Management and Engineering teams
+  - Build hands-on Proofs of Concept for technical validation and solution architecture
+  - Architect cloud-native solutions using SUSE portfolio (SLES, Rancher, SUSE Security, K3s, RKE2)
+  - Collaborate with engineering teams on solution implementation and system integration
+  - Develop reference architectures and technical documentation for complex requirements
+  - Provide hands-on troubleshooting and technical implementation support
+  - Translate technical requirements to Product Management and Engineering teams
   - Provide technical feedback to influence product roadmaps based on field experience
-  - Bridge technical requirements between customer needs and product development teams
-  - Engage with technical stakeholders across enterprise Linux, cloud-native, and security solution domains
-  - Ensure technical excellence and deep understanding of enterprise system requirements
-  - Support technical implementation through comprehensive guidance and hands-on troubleshooting
+  - Evaluate and analyze system architectures for optimal implementation
+  - Contribute to technical documentation and implementation guides
 
   | Technologies, Products, Tools (Extract):
 
