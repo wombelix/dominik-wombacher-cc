@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-02-05
+:modified: 2026-02-13
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -28,56 +28,42 @@ first to make things easier for both of us.
 About me
 ========
 
-I'm passionate about **Linux**, **BSD**, **Kubernetes**, **Cloud Native**,
-**Coding** and **Automation**.
-I'm a **problem solver with 20+ years of experience** working across
-the entire infrastructure stack, **focused on complex technical challenges**
+I'm a **problem solver with 20+ years of experience** across
+the entire infrastructure stack. **I understand how systems work from
+hardware through applications.** I work on complex technical challenges
 that require understanding the big picture while debugging the details.
-I prefer technical implementation over business presentations. **I'm looking
-for DevOps Engineer, Platform Engineer, Site Reliability Engineer, Cloud
-Engineer or Open Source Developer roles where I can code regularly and solve
-complex problems.**
+I prefer technical implementation over business presentations.
+**I'm looking for Site Reliability Engineer,
+Infrastructure Engineer, Platform Engineer, or Software Engineer roles
+where I can code regularly and solve complex problems.**
 
 **I operate across infrastructure, systems, and code.** At NTT, I managed
 **over 1000 Linux and hundreds of Windows systems, plus complete datacenter
 infrastructure across two locations**. Including network, firewall, load
 balancers, storage, virtualization, and operating systems. I troubleshoot
-from network packets to application code, reverse-engineer systems, and
-build automation. **Whatever it takes to find a solution.**
+from network packets to application code and build automation.
+**Whatever it takes to find a solution.**
 
-**I write code to solve operational problems.** For example, I've built
-Python-based automation that reduced manual backup reporting from
-hours to minutes, freeing engineers to focus on proactive work. I created
-tools that enabled junior engineers to handle storage decommissioning at scale
-that previously required senior engineers. For SUSE's AWS security competency,
-I wrote a Fluent Bit output plugin in Go to push logs to AWS CloudTrail Lake,
-created a Helm chart, built the CI/CD pipeline, and released everything as open
-source. I was **Contributor and then Maintainer** of `pagure <https://pagure.io/pagure>`_
-(a git forge and code collaboration platform) for almost 3 years, fixing critical
-CVEs and shipping releases in a complex Python/Flask codebase. Built an OpenShift
-operator for AWS Neuron together with Red Hat engineers.
+**I write code to solve operational problems.** I've built Python automation
+that reduced backup reporting from hours to minutes and tools that enabled
+junior engineers to handle tasks that needed senior engineers. For SUSE's
+AWS security competency, I wrote a Fluent Bit output plugin in Go, created
+a Helm chart, built CI/CD, and released it as open source. I was
+**Contributor and then Maintainer** of `pagure <https://pagure.io/pagure>`_
+for 3 years, fixing critical CVEs and shipping releases. Built an OpenShift
+operator for AWS Neuron with Red Hat engineers.
+
+**I focus on systems fundamentals and modern infrastructure.** I work with
+**Linux**, **Unix / BSD**, **Kubernetes**, **Go**, **Python**, and **C**.
+I'm interested in kernel-level work, **Rust**, and **eBPF**. I've earned
+**over 70 technical certifications** including **3x Kubernetes**
+(CKA, CKAD, CKS), **7x AWS** (e.g. DevOps Engineer Professional),
+**18x SUSE**, **5x Red Hat** (e.g. RHCE), and **2x Azure**.
+I've shared knowledge at KubeCon, SUSECON, and via blog posts.
 
 .. raw:: pdf
 
   PageBreak
-
-**I build complete solutions and enable teams.** I write the application,
-set up CI/CD, publish artifacts, and create documentation. **Every solution
-gets documented.** I write knowledge base articles and examples so others
-can build on what was learned. **Self-employed for over 12 years**,
-handling customer relationships while doing hands-on technical delivery.
-I work well independently but I'm not a lone wolf. I collaborate through
-clear documentation, communication, knowledge sharing, and building tools
-that help the whole team.
-
-**Never stopped learning.** I started with HTML and CSS at age 14 and PHP when I
-was 15. Over the years I learned various programming languages and technologies.
-Including, but not limited to: Java, Python, Go, TypeScript, Ansible, Linux, Kubernetes, FreeBSD.
-I've earned **over 70 technical certifications** throughout my career like **18x SUSE**,
-**7x AWS** (e.g. AWS Certified DevOps Engineer Professional), **3x Kubernetes**
-(CKA, CKAD, CKS), **5x Red Hat** (e.g. RHCE), **2x Azure** (e.g. Microsoft Certified:
-Azure Administrator). I've shared technical knowledge at conferences like KubeCon
-and SUSECON, and through blog posts.
 
 Key Skills
 ==========
@@ -89,17 +75,17 @@ Key Skills
 
    * - Programming
      - GitOps and CI/CD
-     - Container
+     - Container & Orchestration
    * - Go (Golang)
      - AWS CodePipeline
      - Docker / Podman
    * - Python
      - GitHub Actions
      - Kubernetes (k8s)
-   * - TypeScript
+   * - Bash / Shell
      - Jenkins
      - EKS / K3s / RKE2
-   * - Java
+   * - TypeScript
      - Flux
      - OpenShift
 
@@ -124,20 +110,20 @@ Key Skills
    :header-rows: 1
 
    * - Operating Systems
-     - Observability & Monitoring
-     - ML / AI
+     - Observability
+     - Networking & Systems
    * - SUSE (SLES, openSUSE)
      - Fluent Bit
-     - Prompt Engineering
+     - TCP/IP / BGP
    * - Red Hat (RHEL, Fedora)
      - Prometheus
-     - Amazon Bedrock
-   * - Debian and Ubuntu
-     - AWS CloudWatch
-     - Amazon SageMaker
-   * - FreeBSD
-     - AWS CloudTrail
+     - KVM / libvirt / QEMU
+   * - Debian / Ubuntu
+     - CloudWatch / CloudTrail
+     - Kernel troubleshooting
+   * - FreeBSD / Unix
      -
+     - Performance tuning
 
 Previous Jobs
 =============
