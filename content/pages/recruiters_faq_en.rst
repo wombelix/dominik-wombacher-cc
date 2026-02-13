@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2022-2025 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2022-2026 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2026-01-27
+:modified: 2026-02-13
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -64,9 +64,8 @@ and **work across infrastructure and application layers**.
 Specifically, I'm interested in roles such as:
 
 - **Site Reliability Engineer (SRE)**
+- **Infrastructure Engineer**
 - **Platform Engineer**
-- **DevOps Engineer**
-- **Cloud Engineer**
 - **Software Engineer** (infrastructure/platform focus)
 
 I'm open to **Senior, Staff, or Principal-level positions** depending on the role scope and organization.
@@ -101,7 +100,7 @@ What makes a role appealing to me?
 
 I'm looking for roles where I can:
 
-- **Write code daily** - Python, Go, TypeScript, or similar languages
+- **Write code daily** - Go, Python, C, TypeScript or similar languages, especially for systems programming and infrastructure automation
 - **Build and maintain infrastructure** - Kubernetes, cloud platforms, automation tooling
 - **Troubleshoot complex technical problems** - from network packets to application code
 - **Design and implement systems** - not just presentations, but hands-on building
@@ -115,6 +114,18 @@ I work best in environments that value **solving hard technical problems** over
 
 **Note**: I'm transitioning from a Solution Architect role back to **hands-on engineering**.
 I want to spend my time **building and coding**, not presenting and selling.
+
+----
+
+What technologies do you work with?
+===================================
+
+I focus on **systems fundamentals and modern infrastructure**: Go, Python, Bash, C,
+Linux, Kubernetes (CKA/CKAD/CKS), AWS, and Infrastructure as Code.
+I'm interested in Rust, eBPF, and kernel-level development.
+
+For full details, see `my resume <{filename}/pages/resume_en.rst>`_ which includes
+my complete technology stack and 70+ technical certifications.
 
 ----
 
