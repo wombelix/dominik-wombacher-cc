@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-02-26
+:modified: 2026-06-14
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -16,7 +16,7 @@ Resume: Dominik Wombacher
 
 `Download my Resume as PDF <https://dominik.wombacher.cc/pdf/resume.pdf>`_.
 You're a Recruiter? Please check out my `Recruiters FAQ <{filename}/pages/recruiters_faq_en.rst>`_
-first to make things easier for both of us.
+first.
 
 ----
 
@@ -33,9 +33,10 @@ the entire infrastructure stack. **I understand how systems work from
 hardware through applications.** I work on complex technical challenges
 that require understanding the big picture while debugging the details.
 I prefer technical implementation over business presentations.
-**I'm looking for Site Reliability Engineer,
-Infrastructure Engineer, Platform Engineer, or Software Engineer roles
-where I can code regularly and solve complex problems.**
+**I am currently working as Sr. Software Developer / SRE at Hetzner Cloud**,
+building and operating systems that provision cloud infrastructure at scale,
+tackling hard problems hands-on, and driving automation and engineering
+practices across the team and organization.
 
 **I operate across infrastructure, systems, and code.** At NTT, I managed
 **over 1000 Linux and hundreds of Windows systems, plus complete datacenter
@@ -82,12 +83,15 @@ Key Skills
    * - Python
      - GitHub Actions
      - Kubernetes (k8s)
+   * - Ruby / Ruby on Rails
+     - GitLab CI/CD
+     - EKS / K3s / RKE2
    * - Bash / Shell
      - Jenkins
-     - EKS / K3s / RKE2
+     - OpenShift
    * - TypeScript
      - Flux
-     - OpenShift
+     -
 
 .. list-table::
    :width: 100%
@@ -124,9 +128,14 @@ Key Skills
    * - FreeBSD / Unix
      -
      - Performance tuning
+   * -
+     -
+     - Ceph
 
-Previous Jobs
-=============
+Career Overview
+===============
+
+  - **Sr. Software Developer / Site Reliability Engineer (SRE)** | Hetzner Cloud | *May 2026 - Present*
 
   - **Solution Architect** | SUSE | *Nov 2025 - Feb 2026*
 
@@ -282,8 +291,41 @@ Extract of published Blogs.
 
   PageBreak
 
-Job History
-===========
+Job History (Details)
+=====================
+
+**May 2026 - Present**
+
+  | Position: Sr. Software Developer / Site Reliability Engineer (SRE) | Permanent
+  | Company: Hetzner Cloud | Remote
+  | Sector: Cloud Computing
+  |
+  | Highlights:
+
+  - Develop and maintain internal tooling and services in Go, Ruby on Rails,
+    and Ansible for fleet management, hardware integration, and operational
+    automation
+  - Contribute to automating the full lifecycle of host systems and Ceph
+    clusters, covering initial hardware integration, firmware and BIOS updates
+    at scale, upgrades, and retirement
+  - Investigate and resolve complex infrastructure issues as part of 3rd-line
+    support and on-call rotation
+  - Analyze and improve existing tooling, pipelines, and services to increase
+    reliability and maintainability
+  - Improve project management, task tracking, and documentation practices
+    to strengthen team operations and build the foundation for scaling the team
+  - Build cross-team relationships and contribute to engineering culture,
+    open source, and inner sourcing practices across the organization
+
+  | Technologies, Products, Tools (Extract):
+
+  - Linux: Ubuntu, Fedora, Debian, Alma Linux, Rocky Linux, openSUSE Leap;
+    Tools: GitLab CI/CD, Ansible, QEMU, KVM, Redfish, OpenBMC, Ceph;
+    Languages: Go, Ruby, Ruby on Rails, Bash
+
+  |
+
+----
 
 **November 2025 - February 2026**
 
@@ -307,7 +349,9 @@ Job History
 
   |
 
-----
+.. raw:: pdf
+
+  PageBreak
 
 **October 2022 - October 2025**
 
@@ -338,9 +382,7 @@ Job History
 
   |
 
-.. raw:: pdf
-
-  PageBreak
+----
 
 **August 2020 - September 2022**
 
@@ -353,25 +395,25 @@ Job History
 
   - Led engineering team with dotted-line responsibility across Germany and Czech Republic
   - Built automation solutions in Python, Ansible, and Java for provisioning and reporting
-  - Transformed infrastructure operations team toward automation and modern engineering practices
+  - Drove engineering culture shift toward automation and mentored engineers on best practices
   - Built web applications and CLI tools for operational efficiency and self-service
-  - Mentored engineers on programming, automation, and architecture best practices
-  - Managed datacenter infrastructure including VMware, NetApp storage, and Cisco networking
-  - Served as escalation contact for critical incidents and emergency support
+  - Managed datacenter infrastructure and served as escalation contact for critical incidents
 
   | Technologies, Products, Tools:
 
   - Virtualization: VMware vSphere; Storage: NetApp (ONTAP 9 - FAS/AFF/Metro Cluster,
     SnapManager/SnapCenter); Networking: Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM,
-    BGP/HSRP/LACP/IPSec, Tufin; Linux: SLES 12/15, RHEL 7/8, Oracle Linux 7/8, openSUSE;
-    Windows: Server 2012 R2/2016; Management: SUSE Manager/Uyuni, Red Hat Satellite, AWX, Ansible;
-    DevOps: Gitea, Jenkins, Docker, Kubernetes; Monitoring: Observium, Grafana; CMDB: iTop/TeemIP,
-    NetBox; Backup: Commvault; Security: CyberArk, Cisco ISE, Active Directory; SAP: HANA TDI;
+    BGP/HSRP/LACP/IPSec; Linux: SLES 12/15, RHEL 7/8, Oracle Linux 7/8, openSUSE;
+    Management: SUSE Manager/Uyuni, Red Hat Satellite, AWX, Ansible;
+    DevOps: Gitea, Jenkins, Docker, Kubernetes; Monitoring: Observium, Grafana;
+    Security: CyberArk, Cisco ISE, Active Directory; SAP: HANA TDI;
     Languages: Python, Bash, PowerShell
 
   |
 
-----
+.. raw:: pdf
+
+  PageBreak
 
 **March 2019 - July 2020**
 
@@ -400,10 +442,7 @@ Job History
 
   |
 
-.. raw:: pdf
-
-  PageBreak
-
+----
 
 **Januar 2007 - March 2019**
 
@@ -413,16 +452,9 @@ Job History
   |
   | Summary:
 
-  - 2nd / 3rd Level Support
-  - ITIL / Operations
-  - DevOps / Software Engineering
-  - Virtualization / Storage
-  - Datacenter / Hosting
-  - IT Outsourcing
-  - On-site Support
-  - Consulting
-  - Project Management
-  - People Management
+  2nd / 3rd Level Support, ITIL / Operations, DevOps / Software Engineering,
+  Virtualization / Storage, Datacenter / Hosting, IT Outsourcing, On-site Support,
+  Consulting, Project Management, People Management
 
   | Technologies, Products, Tools:
 
@@ -438,7 +470,9 @@ Job History
     Languages: Python, Bash, PowerShell, PHP, HTML/CSS, JavaScript, Go, C#, VB.Net, Java, Make;
     Tools: VIM, Screen/Tmux, Eclipse, VS Code/VSCodium, Remote Desktop
 
-----
+.. raw:: pdf
+
+  PageBreak
 
 **July 2006 - July 2007**
 
@@ -451,10 +485,6 @@ Job History
   - 2nd Level Support
   - ITIL / Operations
   - IT Outsourcing
-
-.. raw:: pdf
-
-  PageBreak
 
 ----
 
@@ -504,12 +534,9 @@ Project History
   |
   | Highlights:
 
-  - Built SharePoint-based workflow to handle complex server provisioning tasks
-    and dependencies
-  - Created Jenkins pipelines as self-service platform for orchestration and
-    automation tasks
-  - Developed and maintained internal web and CLI tools for recurring
-    administrative tasks
+  - Built SharePoint workflow for complex server provisioning tasks and dependencies
+  - Created Jenkins pipelines as self-service platform for orchestration and automation
+  - Developed and maintained internal web and CLI tools for administrative tasks
 
   | Technologies, Products, Tools:
 
@@ -522,24 +549,15 @@ Project History
 
   |
 
-.. raw:: pdf
-
-  PageBreak
-
 ----
 
 **June 2015 - August 2015**
 
   | Position: Datacenter Engineer, Consultant | Freelancer
   | Company: CGM Deutschland AG | Koblenz
-  | Sector: Medical IT Services
 
-  Short Summary
-
-  - Monitoring System (Check_MK)
-  - Linux High-Availability Cluster (Ubuntu, Pacemaker, Corosync, DRBD)
-  - Configuration Management (Puppet / Foreman)
-  - Backup (Bareos)
+  Monitoring (Check_MK), Linux HA Cluster (Ubuntu, Pacemaker, Corosync, DRBD),
+  Config Management (Puppet/Foreman), Backup (Bareos)
 
 ----
 
@@ -547,13 +565,10 @@ Project History
 
   | Position: Datacenter Engineer, Project Management | CEO Wombacher.IT GmbH
   | Company: JTL-Software GmbH | Remote
-  | Sector: Independent Software Vendor (ISV)
 
-  Short Summary
-
-  - Proof of Concept & Project Management: Private Cloud Hosting for End-User
-  - Private Cloud Environment (Microsoft Hyper-V, Windows Server 2012 R2, Microsoft SQL Server 2012 Express and Remote Desktop Services)
-  - Deployment Automation with Ansible and Powershell
+  Proof of Concept for Private Cloud Hosting (Hyper-V, Windows Server 2012 R2,
+  SQL Server 2012 Express, Remote Desktop Services), Deployment Automation with
+  Ansible and PowerShell
 
 ----
 
@@ -561,17 +576,11 @@ Project History
 
   | Position: Consultant, Project Manager | CEO Wombacher.IT GmbH
   | Company: MAIREC Edelmetall GmbH | Alzenau
-  | Sector: precious metals trade
 
-  Short Summary
-
-  - Physical to Virtual Migration (Stratus everRun fault-tolerant Cluster)
-  - Deployment and Migration (Microsoft Windows 2012 R2, Exchange Server 2013, Sharepoint, CentOS, Ubuntu, OTRS, OPSI)
-  - Migration of ERP System based on RedHat Linux to CentOS
-  - Firewall High-availability Cluster (Securepoint)
-  - CMDB and Ticketsystem (OTRS)
-  - Software Rollout (OPSI)
-  - ITIL based Support
+  Physical to Virtual Migration (Stratus everRun), Deployment and Migration
+  (Windows 2012 R2, Exchange 2013, SharePoint, CentOS, Ubuntu), ERP Migration
+  (RedHat to CentOS), Firewall HA (Securepoint), CMDB and Ticketing (OTRS),
+  Software Rollout (OPSI), ITIL Support
 
 .. raw:: pdf
 
