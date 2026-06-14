@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Dominik Wombacher <dominik@wombacher.cc>
+.. SPDX-FileCopyrightText: 2026 Dominik Wombacher <dominik@wombacher.cc>
 ..
 .. SPDX-License-Identifier: CC-BY-SA-4.0
 
@@ -6,7 +6,7 @@ Kontakt
 #######
 
 :date: 2021-03-14
-:modified: 2024-07-17
+:modified: 2026-03-19
 :description: Setz dich mit Dominik Wombacher in Verbindung
 :slug: kontakt
 :author: Dominik Wombacher
@@ -25,6 +25,7 @@ Nachrichten
 Ich habe noch kein schickes Kontaktformular hinzugefuegt, bin mir auch nicht sicher, ob ich das jemals tun werde.
 Ich denke nicht, dass du es wirklich brauchst, um dich mit mir in Verbindung zu setzen :)
 
+|
 
 :Email: dominik@wombacher.cc
 :Matrix: `@wombelix:matrix.org <https://matrix.to/#/@wombelix:matrix.org>`_
@@ -48,10 +49,10 @@ Profile
 
 :Mastodon: https://fosstodon.org/@wombelix
 :LinkedIn: https://www.linkedin.com/in/dominik-wombacher/
-:Sourcehut: https://git.sr.ht/~wombelix/
-:Codeberg: https://codeberg.org/wombelix
-:Gitlab: https://gitlab.com/wombelix
 :Github: https://github.com/wombelix
+:Gitlab: https://gitlab.com/wombelix
+:Codeberg: https://codeberg.org/wombelix
+:Sourcehut: https://git.sr.ht/~wombelix/
 
 |
 
@@ -62,7 +63,7 @@ Plattformen, auf denen ich ein Profil habe aber, zumindest im Moment, weder etwa
 
 |
 
-:Twitter: https://twitter.com/wombelix
+:X/Twitter: https://x.com/wombelix
 :Facebook: https://www.facebook.com/wombelix
 :Notabug: https://notabug.org/wombelix
 
@@ -76,6 +77,7 @@ OpenPGP
 
 Bitte tu mir einen Gefallen und lade den Schluessel nicht auf irgendeinen Keyserver, das ganze System scheint einfach kaputt zu sein.
 Daher denke ich, dass es am besten ist, die Schluessel per Download ueber die eigene Website oder als E-Mail Anhang zu verteilen.
+Zusaetzlich ist die automatische Erkennung ueber das `Web Key Directory (WKD) <https://wiki.gnupg.org/WKD>`_ fuer den unten stehenden Schluessel aktiviert.
 
 |
 
@@ -83,17 +85,38 @@ Fingerprint:
 
 .. code-block::
 
-  pub   rsa4096 2020-06-12 [SC]
-        A6FB74CC95114AA977FFD04ACDDD24A5C0758945
-  uid           [ultimate] Dominik Wombacher <dominik@wombacher.cc>
-  sub   rsa3072 2020-06-12 [S] [expires: 2025-12-31]
-        B693784799CA3FA52AFFDC61881FA681DB93838B
-  sub   rsa3072 2020-06-12 [E] [expires: 2025-12-31]
-        DBDBBE288163F54760BC6DFEF2D282669D51654F
-  sub   rsa3072 2020-06-12 [A] [expires: 2025-12-31]
-        36592011CD5DD274AE7A19EED7CA6932BDAB515C
+      pub   rsa4096 2020-06-12 [SC]
+            A6FB 74CC 9511 4AA9 77FF  D04A CDDD 24A5 C075 8945
+      uid           Dominik Wombacher <dominik@wombacher.cc>
+      sub   rsa3072 2020-06-12 [S]
+            B693 7847 99CA 3FA5 2AFF  DC61 881F A681 DB93 838B
+      sub   rsa3072 2020-06-12 [E]
+            DBDB BE28 8163 F547 60BC  6DFE F2D2 8266 9D51 654F
+      sub   rsa3072 2020-06-12 [A]
+            3659 2011 CD5D D274 AE7A  19EE D7CA 6932 BDAB 515C
 
 Download: `CDDD24A5C0758945.asc <{static}/static/CDDD24A5C0758945.asc>`_
+
+|
+
+Ich nutze den folgenden Schluessel als GitHub Action und Release Key.
+Aktuell zum Signieren von Releases meines `sourcehut OpenTofu / Terraform Provider <https://github.com/wombelix/terraform-provider-sourcehut>`_.
+Koennte in Zukunft auch fuer andere Repos und Releases verwendet werden.
+Commits signiere ich damit jedoch nicht, dafuer wuerde ich :code:`A6FB 74CC 9511 4AA9 77FF  D04A CDDD 24A5 C075 8945` verwenden.
+
+|
+
+Fingerprint:
+
+.. code-block::
+
+      pub   rsa4096 2024-12-27 [SC]
+            661B D309 B9C5 8F3A D329  599A 70C4 B27C B10D 93FD
+      uid           Dominik Wombacher (GitHub Action and Release GPG Key) <16312366+wombelix@users.noreply.github.com>
+      sub   rsa4096 2024-12-27 [E]
+            FEEC B112 68F9 82F5 D1ED  A6FC 9928 5B8B 43A4 E2BC
+
+Download: `70C4B27CB10D93FD.asc <{static}/static/70C4B27CB10D93FD.asc>`_
 
 |
 
@@ -116,6 +139,6 @@ Fingerprint:
 
 	3072 SHA256:Z4ZeTPljUwtfzvYUayHrDxfNxUZEz2eyzKlR2OIt5GI (RSA)
 
-Download: `Z4ZeTPljUwtfzvYUayHrDxfNxUZEz2eyzKlR2OIt5GI.pub <{static}/static/Z4ZeTPljUwtfzvYUayHrDxfNxUZEz2eyzKlR2OIt5GI.pub>`_
+Download: `Z4ZeTPljUwtfzvYUayHrDxfNxUZEz2eyzKlR2OIt5GI.txt <{static}/static/Z4ZeTPljUwtfzvYUayHrDxfNxUZEz2eyzKlR2OIt5GI.txt>`_
 
 |
