@@ -6,7 +6,7 @@ Resume: Dominik Wombacher
 #########################
 
 :date: 2021-02-19
-:modified: 2026-02-13
+:modified: 2026-02-26
 :description: Resume of Dominik Wombacher
 :slug: resume
 :author: Dominik Wombacher
@@ -293,35 +293,19 @@ Job History
   |
   | Highlights:
 
-  - Built Infrastructure as Code automation with OpenTofu/Terraform for high-availability Rancher deployments on IONOS Cloud, including dual-LAN networking, load balancer integration, RKE2 cloud-init bootstrapping, and Helm chart deployments
-  - Developed VM Import UI feature for Harvester using TypeScript/Vue.js and contributed it upstream to harvester-ui-extension project
-  - Published technical blog on SUSE website covering reference architecture, manual setup, and automated IaC approach for Rancher on IONOS Cloud
-
-  | Summary:
-
-  - Build hands-on Proofs of Concept for technical validation and solution architecture
-  - Architect cloud-native solutions using SUSE portfolio (SLES, Rancher, SUSE Security, K3s, RKE2)
-  - Collaborate with engineering teams on solution implementation and system integration
-  - Develop reference architectures and technical documentation for complex requirements
-  - Provide hands-on troubleshooting and technical implementation support
-  - Translate technical requirements to Product Management and Engineering teams
-  - Provide technical feedback to influence product roadmaps based on field experience
-  - Evaluate and analyze system architectures for optimal implementation
-  - Contribute to technical documentation and implementation guides
+  - Built Infrastructure as Code automation with OpenTofu/Terraform for high-availability Rancher
+    deployments on IONOS Cloud
+  - Developed VM Import UI feature for Harvester using TypeScript/Vue.js and contributed
+    it upstream to harvester-ui-extension project
+  - Published technical blog on SUSE website covering reference architecture, manual setup,
+    and automated IaC approach for Rancher on IONOS Cloud
 
   | Technologies, Products, Tools (Extract):
 
-  - SUSE Linux Enterprise Server (SLES), Rancher (Kubernetes Management), SUSE Security (NeuVector),
-    SUSE Multi-Linux Manager (SUSE Manager), Kubernetes, K3s, RKE2, Container Security, Enterprise Linux,
-    Cloud Native Infrastructure, Technical Architecture, System Integration, Reference Architectures,
-    Proof of Concept Development, Technical Requirements Analysis, System Performance Analysis,
-    Technical Documentation, Technical Mentorship
+  - Kubernetes: RKE2, K3s, Rancher; SUSE: Security (NeuVector), Virtualization (Harvester),
+    SLES; Tools: OpenTofu, Terraform, Helm; Languages: TypeScript, Vue.js; Cloud: IONOS Cloud
 
   |
-
-.. raw:: pdf
-
-  PageBreak
 
 ----
 
@@ -333,42 +317,30 @@ Job History
   |
   | Highlights:
 
-  - Maintain open-source AWS integration projects including workshops, samples, and AI/ML Neuron tooling
-  - Program third-party integrations with AWS Services in Go, Python and TypeScript
-  - Package and maintain AWS Software for openSUSE, Fedora and EPEL distributions
-  - Build infrastructure automation with AWS CloudFormation, AWS CDK and OpenTofu / Terraform
-  - Develop security integration examples for AWS CI/CD pipelines and container vulnerability scanning
-  - Contribute features and bugfixes to upstream open source projects
-  - Deliver technical presentations at industry conferences (KubeCon, SUSECON, Red Hat Summit)
-  - Publish technical blogs on AWS and SUSE integration topics
-
-  | Summary:
-
-  - Work with SUSE and Red Hat on co-sell activities and joint customer opportunities globally
-  - Collaborate with AWS account teams, partner field teams, and customer technical teams on Linux migration projects
-  - Support customers through architecture reviews, technical workshops, and hands-on troubleshooting sessions
-  - Create technical documentation, reference architectures, and implementation guides for partner solutions
-  - Assist with partner solution onboarding and validation processes for AWS Marketplace listings
-  - Participate in customer escalations and provide technical expertise for complex integration challenges
-  - Engage with AWS product teams to share customer feedback and partner requirements from field experience
-  - Expand technical expertise across AI/ML infrastructure, container security, and cloud-native architectures
-  - Connect technical work with business goals to help customers succeed with partner solutions
+  - Built automated CI/CD pipeline for AWS Neuron kernel module container images on OpenShift,
+    handling cross-compilation across multiple OCP and kernel versions with Red Hat Driver
+    Toolkit, nightly DTK tracking, and GPL-compliant source publishing
+  - Contributed initial AWS Neuron Operator implementation for OpenShift in Go, extending
+    a shared custom operator framework used across GPU providers
+  - Wrote Fluent Bit output plugin in Go for AWS CloudTrail Data Service, packaged as
+    Helm chart and released as open source for SUSE security competency
+  - Built infrastructure automation with AWS CloudFormation, AWS CDK and OpenTofu/Terraform
+  - Packaged and maintained AWS software for openSUSE, Fedora and EPEL distributions
+  - Contributed features and bugfixes to upstream open source projects
+  - Delivered technical presentations at KubeCon, SUSECON, and Red Hat Summit
 
   | Technologies, Products, Tools (Extract):
 
-  - Amazon Web Services (e.g. EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway, IAM, Route 53, VPC),
-    AWS Neuron, Amazon Bedrock, Amazon SageMaker, SUSE SLES 12 / 15, Red Hat 7 / 8 / 9 / 10, openSUSE Leap 15, openSUSE MicroOS,
-    SUSE Manager 4 / Uyuni / SUSE Multi-Linux Manager 5, GitLab, Red Hat Ansible Automation Platform / AWX, Kubernetes,
-    Rancher by SUSE, Red Hat OpenShift, K3s, RKE / RKE2, SUSE Security / NeuVector, AWS CDK, AWS SDK, TypeScript, Go, Python,
-    Terraform / OpenTofu, Ansible, Bash scripting
+  - AWS: EC2, EBS, EFS, ALB, NLB, EKS, ECS, ROSA, CloudFormation, Lambda, API Gateway,
+    IAM, Route 53, VPC, Neuron, CDK, SDK; Kubernetes: OpenShift, K3s, RKE2, Rancher;
+    SUSE: Security (NeuVector), Manager/Uyuni, SLES 12/15; Linux: RHEL 7-10, openSUSE;
+    Tools: GitLab, Ansible/AWX, Terraform/OpenTofu; Languages: Go, Python, TypeScript, Bash
 
   |
 
 .. raw:: pdf
 
   PageBreak
-
-----
 
 **August 2020 - September 2022**
 
@@ -379,43 +351,25 @@ Job History
   |
   | Highlights:
 
-  - Led engineering team with dotted-line responsibility for additional team across Germany and Czech Republic
-  - Developed automation solutions in Python, Ansible, and Java for server provisioning and reporting workflows
-  - Transformed traditional infrastructure operations team toward automation and modern engineering practices
-  - Built internal web applications and CLI tools for operational efficiency and self-service capabilities
-  - Mentored engineers on programming, automation, and system architecture best practices
-  - Managed enterprise datacenter infrastructure including VMware, NetApp storage, and Cisco networking
-  - Served as escalation contact for critical infrastructure incidents and emergency support
-  - Drove cost optimization initiatives and infrastructure budget planning
-
-  | Summary:
-
-  - Lead distributed engineering and operations team across Germany and Czech Republic
-  - Architect and develop automation solutions for complex infrastructure environments
-  - Transform traditional operations toward modern automation and engineering practices
-  - Mentor team members on programming, automation, and system architecture
-  - Manage enterprise infrastructure including virtualization, storage, and networking
-  - Serve as escalation contact for critical incidents and emergency support
-  - Balance hands-on technical work with strategic planning and team leadership
-  - Collaborate with global delivery units on process optimization and standardization
+  - Led engineering team with dotted-line responsibility across Germany and Czech Republic
+  - Built automation solutions in Python, Ansible, and Java for provisioning and reporting
+  - Transformed infrastructure operations team toward automation and modern engineering practices
+  - Built web applications and CLI tools for operational efficiency and self-service
+  - Mentored engineers on programming, automation, and architecture best practices
+  - Managed datacenter infrastructure including VMware, NetApp storage, and Cisco networking
+  - Served as escalation contact for critical incidents and emergency support
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster),
-    SAP HANA TDI,SUSE SLES 12 / 15, Red Hat 7 / 8, Oracle Linux 7 / 8, openSUSE Leap 15, openSUSE MicroOS/ JeOS,
-    Windows Server 2012 R2 / 2016, SUSE Manager 4 / Uyuni, Red Hat Satellite 6, AWX, Gitea, Jenkins, iTop / TeemIP,
-    TeamPass, NetBox, Observium, Grafana, Docker, Kubernetes, NetApp SnapManager / SnapCenter (Oracle Database,
-    SAP HANA Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL), Sophos Anti-Virus,
-    CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS, Python,
-    Ansible, Scripting (Bash, Powershell), F5 iRules, RPM Packaging, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
-    Microsoft Azure, Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint,
-    BMC Control-M, Seal Systems Plossys
+  - Virtualization: VMware vSphere; Storage: NetApp (ONTAP 9 - FAS/AFF/Metro Cluster,
+    SnapManager/SnapCenter); Networking: Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM,
+    BGP/HSRP/LACP/IPSec, Tufin; Linux: SLES 12/15, RHEL 7/8, Oracle Linux 7/8, openSUSE;
+    Windows: Server 2012 R2/2016; Management: SUSE Manager/Uyuni, Red Hat Satellite, AWX, Ansible;
+    DevOps: Gitea, Jenkins, Docker, Kubernetes; Monitoring: Observium, Grafana; CMDB: iTop/TeemIP,
+    NetBox; Backup: Commvault; Security: CyberArk, Cisco ISE, Active Directory; SAP: HANA TDI;
+    Languages: Python, Bash, PowerShell
 
   |
-
-.. raw:: pdf
-
-  PageBreak
 
 ----
 
@@ -428,34 +382,21 @@ Job History
   |
   | Highlights:
 
-  - Designed and built Universal API in Python as standardized wrapper across internal services
-  - Developed custom patches and debugging solutions to stabilize large-scale SUSE Manager environment
-  - Created internal web applications and CLI tools for operational automation and self-service workflows
-  - Led technical troubleshooting and root cause analysis for complex infrastructure issues
-  - Implemented configuration management and deployment automation using Ansible and Python scripting
-  - Collaborated with development teams on system integration and API design patterns
-  - Established operational processes and documentation for infrastructure deployment and maintenance
-  - Provided 24/7 on-call support and emergency response for critical production systems
-
-  | Summary:
-
-  - ITIL based Operations Support, Ticket and Incident handling
-  - Design and optimize operational and deployment processes
-  - Datacenter Infrastructure Support, Optimization and Architecture
-  - Knowledge transfer and Documentation
-  - Configuration and Patch Management
-  - Automation and Development
-  - 24/7 On-Call support
+  - Built Universal API in Python as standardized wrapper across internal services
+  - Developed patches and debugging solutions to stabilize large-scale SUSE Manager environment
+  - Created web applications and CLI tools for automation and self-service workflows
+  - Led troubleshooting and root cause analysis for complex infrastructure issues
+  - Implemented configuration management and deployment automation using Ansible and Python
+  - Provided 24/7 on-call support and emergency response for critical systems
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster),
-    SAP HANA TDI, SUSE SLES 12 / 15, Red Hat 7, Oracle Linux 7, Windows Server 2012 R2 / 2016, SUSE Manager 4 / Uyuni,
-    Red Hat Satellite 6, Jenkins, iTop / TeemIP, TeamPass, Observium, Grafana, NetApp SnapManager (Oracle Database),
-    Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL), Sophos Anti-Virus,
-    CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS, Python,
-    Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN, Jira,
-    Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
+  - Virtualization: VMware vSphere; Storage: NetApp (ONTAP 9 - FAS/AFF/Metro Cluster, SnapManager);
+    Networking: Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, BGP/HSRP/LACP/IPSec;
+    Linux: SLES 12/15, RHEL 7, Oracle Linux 7; Windows: Server 2012 R2/2016;
+    Management: SUSE Manager/Uyuni, Red Hat Satellite, Ansible; CI/CD: Jenkins;
+    Monitoring: Observium, Grafana; Backup: Commvault; Security: CyberArk, Cisco ISE,
+    Active Directory; SAP: HANA TDI; Languages: Python, Bash, PowerShell
 
   |
 
@@ -463,7 +404,6 @@ Job History
 
   PageBreak
 
-----
 
 **Januar 2007 - March 2019**
 
@@ -486,15 +426,17 @@ Job History
 
   | Technologies, Products, Tools:
 
-  - openSUSE (42, Leap 15, Tumbleweed - MicroOS, JeOS), FreeBSD (12), Debian (7 - 10), Ubuntu (16.04, 18.04),
-    CentOS (7), Oracle Linux (7 / 8), Red Hat Enterprise Linux (7 / 8), Windows Server (2000 - 2016), Windows (2000 - 10),
-    Proxmox, KVM, FreeBSD Jails, Docker, Podman, Kubernetes (k8s, k3s), LXC, VMware vSphere, Microsoft Hyper-V,
-    MySQL / MariaDB, PostgreSQL, SQLite, Microsoft SQL, Bareos, Icinga, Check_MK, Microsoft Remote Desktop,
-    Python, Ansible, Scripting (Bash, PowerShell), PHP, HTML, CSS, JavaScript, Go, C#, VB.Net, Java, Make,
-    Wireguard, IPSec, OpenVPN, Puppet / Foreman, DRBD, Pacemaker, Corosync, DHCP, DNS (Bind, PowerDNS, Windows),
-    Microsoft Exchange (2000 - 2013), Stratus everRun, OTRS, OPSI, Securepoint UTM, JTL Wawi, Lexware, Datev, MailStore,
-    Git, Gitea, Gitlab, Github, Pagure, Cgit, Open Build Service, RPM Packaging, FreeBSD Ports, Container Images (OCI),
-    VIM, Screen / Tmux, Eclipse, Visual Studio Code / VSCodium
+  - Operating Systems: openSUSE (42, Leap 15, Tumbleweed), FreeBSD 12, Debian 7-10,
+    Ubuntu 16.04/18.04, CentOS 7, Oracle Linux 7/8, RHEL 7/8, Windows Server 2000-2016,
+    Windows 2000-10; Virtualization: Proxmox, KVM, VMware vSphere, Hyper-V, FreeBSD Jails, LXC;
+    Containers: Docker, Podman, Kubernetes (k8s/k3s), OCI Images; Databases: MySQL/MariaDB,
+    PostgreSQL, SQLite, Microsoft SQL; Backup/Monitoring: Bareos, Icinga, Check_MK, MailStore;
+    Networking: Wireguard, IPSec, OpenVPN, DHCP, DNS (Bind, PowerDNS); Config Management: Ansible,
+    Puppet/Foreman; High Availability: DRBD, Pacemaker, Corosync, Stratus everRun;
+    Business Apps: Exchange 2000-2013, OTRS, OPSI, Securepoint UTM, JTL Wawi, Lexware, Datev;
+    Development: Git, Gitea, GitLab, GitHub, Pagure, Open Build Service, RPM Packaging, FreeBSD Ports;
+    Languages: Python, Bash, PowerShell, PHP, HTML/CSS, JavaScript, Go, C#, VB.Net, Java, Make;
+    Tools: VIM, Screen/Tmux, Eclipse, VS Code/VSCodium, Remote Desktop
 
 ----
 
@@ -562,29 +504,21 @@ Project History
   |
   | Highlights:
 
-  - Sharepoint based workflow to handle complex Server provisioning tasks and depdencies
-  - Jenkins pipelines as self-service platform for orchestration and automation tasks
-  - Development and maintenance of internal Web and CLI tools for re-occuring administrative tasks
-
-  | Summary:
-
-  - ITIL based Operations Support, Ticket and Incident handling
-  - Establishing and optimize operational and deployment processes
-  - Datacenter Infrastructure Support, Optimization and Architecture
-  - Knowledge transfer and Documentation
-  - Configuration and Patch Management
-  - Automation and Development
-  - 24/7 On-Call support
+  - Built SharePoint-based workflow to handle complex server provisioning tasks
+    and dependencies
+  - Created Jenkins pipelines as self-service platform for orchestration and
+    automation tasks
+  - Developed and maintained internal web and CLI tools for recurring
+    administrative tasks
 
   | Technologies, Products, Tools:
 
-  - VMware vSphere, Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, NetApp (ONTAP 9 - FAS, AFF, Metro Cluster)
-    SAP HANA TDI, SUSE SLES 11 / 12, Red Hat 7, Oracle Linux 7, Windows Server 2008 R2 / 2012 R2 / 2016,
-    SUSE Manager 3, Red Hat Satellite 6, Jenkins, TeemIP, TeamPass, Observium,
-    NetApp SnapManager (Oracle Database), Commvault (Files, Oracle Database, SAP HANA Database, Microsoft SQL),
-    Sophos Anti-Virus, CyberArk Privileged Access Manager, Cisco vWSA, Cisco ISE, Tufin, Microsoft Active Directory and DNS,
-    Python, Ansible, Scripting (Bash, Powershell), F5 iRules, TCPdump / Wireshark, BGP, HSRP, LACP, IPSec VPN,
-    Jira, Confluence, Service-Now, HP Service Center, Cisco UCS Manager / Central, Sharepoint
+  - Virtualization: VMware vSphere; Storage: NetApp (ONTAP 9 - FAS/AFF/Metro Cluster, SnapManager);
+    Networking: Cisco (UCS, Nexus, Catalyst, MDS, ASR, ASA), F5 Big-IP LTM, BGP/HSRP/LACP/IPSec;
+    Linux: SLES 11/12, RHEL 7, Oracle Linux 7; Windows: Server 2008 R2/2012 R2/2016;
+    Management: SUSE Manager 3, Red Hat Satellite 6, Ansible; CI/CD: Jenkins;
+    Monitoring: Observium; Backup: Commvault; Security: CyberArk, Cisco ISE,
+    Active Directory; SAP: HANA TDI; Languages: Python, Bash, PowerShell
 
   |
 
