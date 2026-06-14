@@ -6,7 +6,7 @@ Recruiters FAQ
 ##############
 
 :date: 2022-05-16
-:modified: 2026-02-13
+:modified: 2026-06-14
 :description: You want to recruit me? Please read the FAQ first!
 :slug: recruiters_faq
 :author: Dominik Wombacher
@@ -37,7 +37,8 @@ Especially messages like *"I have multiple job opportunities"* or
 Are you interested in changing your job?
 ========================================
 
-**Immediately**, I am actively applying.
+I am happy in my current role and not actively looking.
+That said, I am always open to hearing about exceptional opportunities that are a strong fit.
 
 ----
 
@@ -58,31 +59,32 @@ As much details and context as possible, for example:
 What Positions are you looking for?
 ===================================
 
-I'm seeking **hands-on engineering roles** where I can **write code daily**, **solve complex technical problems**,
-and **work across infrastructure and application layers**.
+If I were to consider a change, I would look for **hands-on engineering roles** where I can
+**write code regularly**, **solve complex technical problems**, and **work across infrastructure
+and application layers**.
 
-Specifically, I'm interested in roles such as:
+Roles that would be a strong fit:
 
 - **Site Reliability Engineer (SRE)**
 - **Infrastructure Engineer**
 - **Platform Engineer**
 - **Software Engineer** (infrastructure/platform focus)
 
-I'm open to **Senior, Staff, or Principal-level positions** depending on the role scope and organization.
+**Senior, Staff, or Principal-level positions** are all fine depending on role scope.
 What matters most is **hands-on technical work** rather than seniority title.
 
-**Solutions Architect** or **Field Engineer** roles can work if they involve significant **technical implementation
-and coding** rather than primarily presentations and sales support.
+**Solutions Architect** or **Field Engineer** roles can work if they involve significant
+**technical implementation and coding** rather than primarily presentations and sales support.
 
-I'm **exclusively** interested in opportunities as **Individual Contributor**.
-I am **not** considering management roles at this time.
+I am **exclusively** interested in opportunities as **Individual Contributor**.
+I am **not** considering management roles.
 
 ----
 
 What Positions are you **not** looking for?
 ===========================================
 
-I'm **not** looking for roles **without significant hands-on technical involvement**, such as:
+I am **not** interested in roles **without significant hands-on technical involvement**, such as:
 
 - **Management** or **People Management** positions
 - **Pre-Sales**, **Sales Engineering**, or **Go-to-Market** roles
@@ -98,9 +100,9 @@ I prefer **building and implementing solutions** over **presenting and selling t
 What makes a role appealing to me?
 ==================================
 
-I'm looking for roles where I can:
+Roles that appeal to me are ones where I can:
 
-- **Write code daily** - Go, Python, C, TypeScript or similar languages, especially for systems programming and infrastructure automation
+- **Write code regularly** - Go, Python, Ruby, C, TypeScript or similar languages, especially for systems programming and infrastructure automation
 - **Build and maintain infrastructure** - Kubernetes, cloud platforms, automation tooling
 - **Troubleshoot complex technical problems** - from network packets to application code
 - **Design and implement systems** - not just presentations, but hands-on building
@@ -112,15 +114,12 @@ I'm looking for roles where I can:
 I work best in environments that value **solving hard technical problems** over
 **sales presentations and business development**.
 
-**Note**: I'm transitioning from a Solution Architect role back to **hands-on engineering**.
-I want to spend my time **building and coding**, not presenting and selling.
-
 ----
 
 What technologies do you work with?
 ===================================
 
-I focus on **systems fundamentals and modern infrastructure**: Go, Python, Bash, C,
+I focus on **systems fundamentals and modern infrastructure**: Go, Python, Ruby, Bash, C,
 Linux, Kubernetes (CKA/CKAD/CKS), AWS, and Infrastructure as Code.
 I'm interested in Rust, eBPF, and kernel-level development.
 
