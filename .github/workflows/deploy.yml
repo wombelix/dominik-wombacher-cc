@@ -1,0 +1,57 @@
+# SPDX-FileCopyrightText: 2026 Dominik Wombacher <dominik@wombacher.cc>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'theme/**'
+      - 'pelicanconf.py'
+      - 'publishconf.py'
+      - 'requirements.txt'
+      - '.params2env.yaml'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pkg-config libcairo2-dev python3-dev
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements.txt
+
+      - name: Build site
+        run: pelican ./content -o ./output -d -s ./publishconf.py
+
+      - name: Load secrets from SSM
+        uses: wombelix/build-helper-scripts/.github/actions/load-ssm-secrets@main
+
+      - name: Deploy to SFTP target
+        uses: wombelix/build-helper-scripts/.github/actions/sftp-deploy@main
+        with:
+          source: ./output

@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2026 Dominik Wombacher <dominik@wombacher.cc>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+region: eu-central-1
+replica: eu-west-1
+kms: alias/backend-encryption
+upper: true
+format: github-env
+params:
+  - name: /projects/dominik-wombacher-cc/sftp_server
+  - name: /projects/dominik-wombacher-cc/sftp_user
+  - name: /projects/dominik-wombacher-cc/sftp_password
