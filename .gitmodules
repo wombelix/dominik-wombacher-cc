@@ -1,7 +1,7 @@
-# SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+# SPDX-FileCopyrightText: 2026 Dominik Wombacher <dominik@wombacher.cc>
 #
 # SPDX-License-Identifier: CC0-1.0
 
 [submodule "theme/xlii"]
 	path = theme/xlii
-	url = https://git.sr.ht/~wombelix/pelican-theme-xlii 
+	url = https://github.com/wombelix/pelican-theme-xlii
