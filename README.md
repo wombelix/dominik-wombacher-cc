@@ -13,6 +13,7 @@ blog, powered by [Pelican](https://getpelican.com/) and
 <!-- markdownlint-disable MD013 -->
 [![REUSE status](https://api.reuse.software/badge/github.com/wombelix/dominik-wombacher-cc)](https://api.reuse.software/info/github.com/wombelix/dominik-wombacher-cc)
 [![Mirror](https://github.com/wombelix/dominik-wombacher-cc/actions/workflows/mirror.yml/badge.svg)](https://github.com/wombelix/dominik-wombacher-cc/actions/workflows/mirror.yml)
+[![Deploy](https://github.com/wombelix/dominik-wombacher-cc/actions/workflows/deploy.yml/badge.svg)](https://github.com/wombelix/dominik-wombacher-cc/actions/workflows/deploy.yml)
 <!-- markdownlint-enable MD013 -->
 
 ## Table of Contents
