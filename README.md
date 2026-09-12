@@ -6,32 +6,42 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Website: dominik.wombacher.cc
 
-[![REUSE status](https://api.reuse.software/badge/git.sr.ht/~wombelix/dominik-wombacher-cc)](https://api.reuse.software/info/git.sr.ht/~wombelix/dominik-wombacher-cc)
-[![builds.sr.ht status](https://builds.sr.ht/~wombelix/dominik-wombacher-cc.svg)](https://builds.sr.ht/~wombelix/dominik-wombacher-cc?)
+[The Wombelix Post](https://dominik.wombacher.cc), my personal homepage and
+blog, powered by [Pelican](https://getpelican.com/) and
+[Python](https://www.python.org).
 
-[The Wombelix Post](https://dominik.wombacher.cc), my personal homepage and blog, powered by [Pelican](https://getpelican.com/) and [Python](https://www.python.org).
+<!-- markdownlint-disable MD013 -->
+[![REUSE status](https://api.reuse.software/badge/github.com/wombelix/dominik-wombacher-cc)](https://api.reuse.software/info/github.com/wombelix/dominik-wombacher-cc)
+[![Mirror](https://github.com/wombelix/dominik-wombacher-cc/actions/workflows/mirror.yml/badge.svg)](https://github.com/wombelix/dominik-wombacher-cc/actions/workflows/mirror.yml)
+<!-- markdownlint-enable MD013 -->
 
-# Source
+## Table of Contents
 
-The primary location is: https://git.sr.ht/~wombelix/dominik-wombacher-cc
+* [Source](#source)
+* [Contribute](#contribute)
+* [License](#license)
 
-Mirrors of the repository are available on 
-[Codeberg](https://codeberg.org/wombelix/dominik-wombacher-cc), 
-[Gitlab](https://gitlab.com/wombelix/dominik-wombacher-cc) and 
-[Github](https://github.com/wombelix/dominik-wombacher-cc).
+## Source
 
-# Contribute
+The primary location is:
+[github.com/wombelix/dominik-wombacher-cc](https://github.com/wombelix/dominik-wombacher-cc)
 
-Please don't hesitate to provide Feedback, open an Issue or create an Pull / Merge Request.
+Mirrors are available on
+[Codeberg](https://codeberg.org/wombelix/dominik-wombacher-cc) and
+[Gitlab](https://gitlab.com/wombelix/dominik-wombacher-cc).
 
-Just pick the workflow or platform you prefer and are most comfortable with.
+## Contribute
 
-Feedback, Bug Reports or Patches via [Email](https://dominik.wombacher.cc/pages/contact.html) are also always welcome.
+Pick the platform you prefer and are most comfortable with.
 
-# License
+Provide feedback, open an issue or create a pull / merge request.
+
+## License
 
 Unless otherwise stated: `CC-BY-SA-4.0`
 
-All files contain license information either as `header comment` or `corresponding .license` file.
+All files contain license information either as a
+`header comment` or a `corresponding .license` file.
 
-[REUSE](https://reuse.software) from the [FSFE](https://fsfe.org/) implemented to verify license and copyright compliance.
+[REUSE](https://reuse.software) from the [FSFE](https://fsfe.org/)
+is implemented to verify license and copyright compliance.
